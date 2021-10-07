@@ -1,0 +1,1048 @@
+2021-09-21 23:31:13,196 - train - INFO - VideoModel(
+  (model): Net(
+    (blocks): ModuleList(
+      (0): ResNetBasicStem(
+        (conv): Conv3d(3, 64, kernel_size=(1, 7, 7), stride=(1, 2, 2), padding=[0, 3, 3], bias=False)
+        (norm): BatchNorm3d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (activation): ReLU()
+        (pool): MaxPool3d(kernel_size=(1, 3, 3), stride=(1, 2, 2), padding=[0, 1, 1], dilation=1, ceil_mode=False)
+      )
+      (1): ResStage(
+        (res_blocks): ModuleList(
+          (0): ResBlock(
+            (branch1_conv): Conv3d(64, 256, kernel_size=(1, 1, 1), stride=(1, 1, 1), bias=False)
+            (branch1_norm): BatchNorm3d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (branch2): BottleneckBlock(
+              (conv_a): Conv3d(64, 64, kernel_size=(1, 1, 1), stride=(1, 1, 1), padding=[0, 0, 0], bias=False)
+              (norm_a): BatchNorm3d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_a): ReLU()
+              (conv_b): Conv3d(64, 64, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=[0, 1, 1], bias=False)
+              (norm_b): BatchNorm3d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_b): ReLU()
+              (conv_c): Conv3d(64, 256, kernel_size=(1, 1, 1), stride=(1, 1, 1), bias=False)
+              (norm_c): BatchNorm3d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            )
+            (activation): ReLU()
+          )
+          (1): ResBlock(
+            (branch2): BottleneckBlock(
+              (conv_a): Conv3d(256, 64, kernel_size=(1, 1, 1), stride=(1, 1, 1), padding=[0, 0, 0], bias=False)
+              (norm_a): BatchNorm3d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_a): ReLU()
+              (conv_b): Conv3d(64, 64, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=[0, 1, 1], bias=False)
+              (norm_b): BatchNorm3d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_b): ReLU()
+              (conv_c): Conv3d(64, 256, kernel_size=(1, 1, 1), stride=(1, 1, 1), bias=False)
+              (norm_c): BatchNorm3d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            )
+            (activation): ReLU()
+          )
+          (2): ResBlock(
+            (branch2): BottleneckBlock(
+              (conv_a): Conv3d(256, 64, kernel_size=(1, 1, 1), stride=(1, 1, 1), padding=[0, 0, 0], bias=False)
+              (norm_a): BatchNorm3d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_a): ReLU()
+              (conv_b): Conv3d(64, 64, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=[0, 1, 1], bias=False)
+              (norm_b): BatchNorm3d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_b): ReLU()
+              (conv_c): Conv3d(64, 256, kernel_size=(1, 1, 1), stride=(1, 1, 1), bias=False)
+              (norm_c): BatchNorm3d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            )
+            (activation): ReLU()
+          )
+        )
+      )
+      (2): ResStage(
+        (res_blocks): ModuleList(
+          (0): ResBlock(
+            (branch1_conv): Conv3d(256, 512, kernel_size=(1, 1, 1), stride=(1, 2, 2), bias=False)
+            (branch1_norm): BatchNorm3d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (branch2): BottleneckBlock(
+              (conv_a): Conv3d(256, 128, kernel_size=(1, 1, 1), stride=(1, 1, 1), padding=[0, 0, 0], bias=False)
+              (norm_a): BatchNorm3d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_a): ReLU()
+              (conv_b): Conv3d(128, 128, kernel_size=(1, 3, 3), stride=(1, 2, 2), padding=[0, 1, 1], bias=False)
+              (norm_b): BatchNorm3d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_b): ReLU()
+              (conv_c): Conv3d(128, 512, kernel_size=(1, 1, 1), stride=(1, 1, 1), bias=False)
+              (norm_c): BatchNorm3d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            )
+            (activation): ReLU()
+          )
+          (1): ResBlock(
+            (branch2): BottleneckBlock(
+              (conv_a): Conv3d(512, 128, kernel_size=(1, 1, 1), stride=(1, 1, 1), padding=[0, 0, 0], bias=False)
+              (norm_a): BatchNorm3d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_a): ReLU()
+              (conv_b): Conv3d(128, 128, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=[0, 1, 1], bias=False)
+              (norm_b): BatchNorm3d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_b): ReLU()
+              (conv_c): Conv3d(128, 512, kernel_size=(1, 1, 1), stride=(1, 1, 1), bias=False)
+              (norm_c): BatchNorm3d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            )
+            (activation): ReLU()
+          )
+          (2): ResBlock(
+            (branch2): BottleneckBlock(
+              (conv_a): Conv3d(512, 128, kernel_size=(1, 1, 1), stride=(1, 1, 1), padding=[0, 0, 0], bias=False)
+              (norm_a): BatchNorm3d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_a): ReLU()
+              (conv_b): Conv3d(128, 128, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=[0, 1, 1], bias=False)
+              (norm_b): BatchNorm3d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_b): ReLU()
+              (conv_c): Conv3d(128, 512, kernel_size=(1, 1, 1), stride=(1, 1, 1), bias=False)
+              (norm_c): BatchNorm3d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            )
+            (activation): ReLU()
+          )
+          (3): ResBlock(
+            (branch2): BottleneckBlock(
+              (conv_a): Conv3d(512, 128, kernel_size=(1, 1, 1), stride=(1, 1, 1), padding=[0, 0, 0], bias=False)
+              (norm_a): BatchNorm3d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_a): ReLU()
+              (conv_b): Conv3d(128, 128, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=[0, 1, 1], bias=False)
+              (norm_b): BatchNorm3d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_b): ReLU()
+              (conv_c): Conv3d(128, 512, kernel_size=(1, 1, 1), stride=(1, 1, 1), bias=False)
+              (norm_c): BatchNorm3d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            )
+            (activation): ReLU()
+          )
+        )
+      )
+      (3): ResStage(
+        (res_blocks): ModuleList(
+          (0): ResBlock(
+            (branch1_conv): Conv3d(512, 1024, kernel_size=(1, 1, 1), stride=(1, 2, 2), bias=False)
+            (branch1_norm): BatchNorm3d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (branch2): BottleneckBlock(
+              (conv_a): Conv3d(512, 256, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=[1, 0, 0], bias=False)
+              (norm_a): BatchNorm3d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_a): ReLU()
+              (conv_b): Conv3d(256, 256, kernel_size=(1, 3, 3), stride=(1, 2, 2), padding=[0, 1, 1], bias=False)
+              (norm_b): BatchNorm3d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_b): ReLU()
+              (conv_c): Conv3d(256, 1024, kernel_size=(1, 1, 1), stride=(1, 1, 1), bias=False)
+              (norm_c): BatchNorm3d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            )
+            (activation): ReLU()
+          )
+          (1): ResBlock(
+            (branch2): BottleneckBlock(
+              (conv_a): Conv3d(1024, 256, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=[1, 0, 0], bias=False)
+              (norm_a): BatchNorm3d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_a): ReLU()
+              (conv_b): Conv3d(256, 256, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=[0, 1, 1], bias=False)
+              (norm_b): BatchNorm3d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_b): ReLU()
+              (conv_c): Conv3d(256, 1024, kernel_size=(1, 1, 1), stride=(1, 1, 1), bias=False)
+              (norm_c): BatchNorm3d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            )
+            (activation): ReLU()
+          )
+          (2): ResBlock(
+            (branch2): BottleneckBlock(
+              (conv_a): Conv3d(1024, 256, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=[1, 0, 0], bias=False)
+              (norm_a): BatchNorm3d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_a): ReLU()
+              (conv_b): Conv3d(256, 256, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=[0, 1, 1], bias=False)
+              (norm_b): BatchNorm3d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_b): ReLU()
+              (conv_c): Conv3d(256, 1024, kernel_size=(1, 1, 1), stride=(1, 1, 1), bias=False)
+              (norm_c): BatchNorm3d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            )
+            (activation): ReLU()
+          )
+          (3): ResBlock(
+            (branch2): BottleneckBlock(
+              (conv_a): Conv3d(1024, 256, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=[1, 0, 0], bias=False)
+              (norm_a): BatchNorm3d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_a): ReLU()
+              (conv_b): Conv3d(256, 256, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=[0, 1, 1], bias=False)
+              (norm_b): BatchNorm3d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_b): ReLU()
+              (conv_c): Conv3d(256, 1024, kernel_size=(1, 1, 1), stride=(1, 1, 1), bias=False)
+              (norm_c): BatchNorm3d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            )
+            (activation): ReLU()
+          )
+          (4): ResBlock(
+            (branch2): BottleneckBlock(
+              (conv_a): Conv3d(1024, 256, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=[1, 0, 0], bias=False)
+              (norm_a): BatchNorm3d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_a): ReLU()
+              (conv_b): Conv3d(256, 256, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=[0, 1, 1], bias=False)
+              (norm_b): BatchNorm3d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_b): ReLU()
+              (conv_c): Conv3d(256, 1024, kernel_size=(1, 1, 1), stride=(1, 1, 1), bias=False)
+              (norm_c): BatchNorm3d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            )
+            (activation): ReLU()
+          )
+          (5): ResBlock(
+            (branch2): BottleneckBlock(
+              (conv_a): Conv3d(1024, 256, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=[1, 0, 0], bias=False)
+              (norm_a): BatchNorm3d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_a): ReLU()
+              (conv_b): Conv3d(256, 256, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=[0, 1, 1], bias=False)
+              (norm_b): BatchNorm3d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_b): ReLU()
+              (conv_c): Conv3d(256, 1024, kernel_size=(1, 1, 1), stride=(1, 1, 1), bias=False)
+              (norm_c): BatchNorm3d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            )
+            (activation): ReLU()
+          )
+        )
+      )
+      (4): ResStage(
+        (res_blocks): ModuleList(
+          (0): ResBlock(
+            (branch1_conv): Conv3d(1024, 2048, kernel_size=(1, 1, 1), stride=(1, 2, 2), bias=False)
+            (branch1_norm): BatchNorm3d(2048, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (branch2): BottleneckBlock(
+              (conv_a): Conv3d(1024, 512, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=[1, 0, 0], bias=False)
+              (norm_a): BatchNorm3d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_a): ReLU()
+              (conv_b): Conv3d(512, 512, kernel_size=(1, 3, 3), stride=(1, 2, 2), padding=[0, 1, 1], bias=False)
+              (norm_b): BatchNorm3d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_b): ReLU()
+              (conv_c): Conv3d(512, 2048, kernel_size=(1, 1, 1), stride=(1, 1, 1), bias=False)
+              (norm_c): BatchNorm3d(2048, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            )
+            (activation): ReLU()
+          )
+          (1): ResBlock(
+            (branch2): BottleneckBlock(
+              (conv_a): Conv3d(2048, 512, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=[1, 0, 0], bias=False)
+              (norm_a): BatchNorm3d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_a): ReLU()
+              (conv_b): Conv3d(512, 512, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=[0, 1, 1], bias=False)
+              (norm_b): BatchNorm3d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_b): ReLU()
+              (conv_c): Conv3d(512, 2048, kernel_size=(1, 1, 1), stride=(1, 1, 1), bias=False)
+              (norm_c): BatchNorm3d(2048, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            )
+            (activation): ReLU()
+          )
+          (2): ResBlock(
+            (branch2): BottleneckBlock(
+              (conv_a): Conv3d(2048, 512, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=[1, 0, 0], bias=False)
+              (norm_a): BatchNorm3d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_a): ReLU()
+              (conv_b): Conv3d(512, 512, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=[0, 1, 1], bias=False)
+              (norm_b): BatchNorm3d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (act_b): ReLU()
+              (conv_c): Conv3d(512, 2048, kernel_size=(1, 1, 1), stride=(1, 1, 1), bias=False)
+              (norm_c): BatchNorm3d(2048, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            )
+            (activation): ReLU()
+          )
+        )
+      )
+      (5): ResNetBasicHead(
+        (pool): AvgPool3d(kernel_size=(8, 7, 7), stride=(1, 1, 1), padding=(0, 0, 0))
+        (dropout): Dropout(p=0.5, inplace=False)
+        (proj): Linear(in_features=2048, out_features=400, bias=True)
+        (output_pool): AdaptiveAvgPool3d(output_size=1)
+      )
+    )
+  )
+  (classifier_layer): Sequential(
+    (0): Linear(in_features=400, out_features=256, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Dropout(p=0.5, inplace=False)
+    (3): Linear(in_features=256, out_features=7, bias=True)
+  )
+)
+Trainable parameters: 4337047
+2021-09-21 23:48:30,441 - trainer - INFO -     epoch          : 1
+2021-09-21 23:48:30,441 - trainer - INFO -     loss           : 1.8247757892512797
+2021-09-21 23:48:30,443 - trainer - INFO -     accuracy       : 0.2655464824120603
+2021-09-21 23:48:30,443 - trainer - INFO -     top_k_acc      : 0.4690640703517588
+2021-09-21 23:48:30,443 - trainer - INFO -     val_loss       : 1.690226263999939
+2021-09-21 23:48:30,444 - trainer - INFO -     val_accuracy   : 0.33065789473684215
+2021-09-21 23:48:30,444 - trainer - INFO -     val_top_k_acc  : 0.5413157894736842
+2021-09-21 23:48:30,445 - trainer - INFO -     conf mat       : tensor([[186.,  12.,  67.,  15.,  36.,   0.,   9.],
+        [ 30.,  18.,  53.,   5.,  36.,   0.,   0.],
+        [ 50.,  10., 208.,  12.,  34.,   0.,   3.],
+        [ 42.,   1.,  80.,  40.,  17.,   0.,  12.],
+        [ 73.,  10., 108.,   6.,  57.,   0.,   6.],
+        [ 56.,   2.,  29.,   6.,  11.,   0.,   9.],
+        [115.,   5.,  65.,   9.,  26.,   0.,  18.]])
+2021-09-21 23:48:30,446 - trainer - INFO -     class prec     : tensor([0.3370, 0.3103, 0.3410, 0.4301, 0.2627, 0.0000, 0.3158])
+2021-09-21 23:48:30,448 - trainer - INFO -     class rec      : tensor([0.5723, 0.1268, 0.6562, 0.2083, 0.2192, 0.0000, 0.0756])
+2021-09-21 23:48:30,449 - trainer - INFO -     f1             : tensor([0.4242, 0.1800, 0.4488, 0.2807, 0.2390, 0.0000, 0.1220])
+2021-09-21 23:48:30,450 - trainer - INFO -     avg prec       : 0.2852649390697479
+2021-09-21 23:48:30,451 - trainer - INFO -     avg rec        : 0.2654877305030823
+2021-09-21 23:48:30,452 - trainer - INFO -     avg f1         : 0.24209460616111755
+2021-09-21 23:48:32,366 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch1.pth ...
+2021-09-21 23:48:34,276 - trainer - INFO - Saving current best: model_best.pth ...
+2021-09-22 00:05:47,063 - trainer - INFO -     epoch          : 2
+2021-09-22 00:05:47,064 - trainer - INFO -     loss           : 1.7163402584928964
+2021-09-22 00:05:47,067 - trainer - INFO -     accuracy       : 0.3234924623115578
+2021-09-22 00:05:47,067 - trainer - INFO -     top_k_acc      : 0.5332914572864321
+2021-09-22 00:05:47,068 - trainer - INFO -     val_loss       : 1.6377033257484437
+2021-09-22 00:05:47,068 - trainer - INFO -     val_accuracy   : 0.3644407894736842
+2021-09-22 00:05:47,068 - trainer - INFO -     val_top_k_acc  : 0.5692763157894737
+2021-09-22 00:05:47,070 - trainer - INFO -     conf mat       : tensor([[181.,  24.,  46.,   9.,  34.,   1.,  30.],
+        [ 14.,  46.,  41.,   3.,  31.,   0.,   7.],
+        [ 44.,  28., 183.,  13.,  35.,   0.,  14.],
+        [ 38.,   5.,  71.,  39.,  15.,   0.,  24.],
+        [ 60.,  28.,  77.,   5.,  73.,   1.,  16.],
+        [ 44.,  11.,  18.,   7.,  12.,   1.,  20.],
+        [ 84.,  20.,  49.,   7.,  22.,   0.,  56.]])
+2021-09-22 00:05:47,071 - trainer - INFO -     class prec     : tensor([0.3892, 0.2840, 0.3773, 0.4699, 0.3288, 0.3333, 0.3353])
+2021-09-22 00:05:47,072 - trainer - INFO -     class rec      : tensor([0.5569, 0.3239, 0.5773, 0.2031, 0.2808, 0.0088, 0.2353])
+2021-09-22 00:05:47,073 - trainer - INFO -     f1             : tensor([0.4582, 0.3026, 0.4564, 0.2836, 0.3029, 0.0172, 0.2765])
+2021-09-22 00:05:47,074 - trainer - INFO -     avg prec       : 0.3596983551979065
+2021-09-22 00:05:47,075 - trainer - INFO -     avg rec        : 0.31231310963630676
+2021-09-22 00:05:47,075 - trainer - INFO -     avg f1         : 0.2996491491794586
+2021-09-22 00:05:48,990 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch2.pth ...
+2021-09-22 00:05:50,933 - trainer - INFO - Saving current best: model_best.pth ...
+2021-09-22 00:23:00,672 - trainer - INFO -     epoch          : 3
+2021-09-22 00:23:00,673 - trainer - INFO -     loss           : 1.671668652913079
+2021-09-22 00:23:00,674 - trainer - INFO -     accuracy       : 0.3376256281407035
+2021-09-22 00:23:00,675 - trainer - INFO -     top_k_acc      : 0.5576319095477387
+2021-09-22 00:23:00,676 - trainer - INFO -     val_loss       : 1.6066558790206908
+2021-09-22 00:23:00,676 - trainer - INFO -     val_accuracy   : 0.3869736842105263
+2021-09-22 00:23:00,677 - trainer - INFO -     val_top_k_acc  : 0.5882565789473684
+2021-09-22 00:23:00,678 - trainer - INFO -     conf mat       : tensor([[170.,  17.,  31.,   9.,  51.,   1.,  46.],
+        [ 13.,  34.,  19.,   5.,  60.,   0.,  11.],
+        [ 40.,  17., 160.,  12.,  66.,   0.,  22.],
+        [ 32.,   3.,  54.,  43.,  28.,   0.,  32.],
+        [ 38.,  12.,  42.,   5., 128.,   1.,  34.],
+        [ 35.,   6.,  16.,   6.,  16.,   3.,  31.],
+        [ 70.,  17.,  31.,   3.,  42.,   0.,  75.]])
+2021-09-22 00:23:00,679 - trainer - INFO -     class prec     : tensor([0.4271, 0.3208, 0.4533, 0.5181, 0.3274, 0.6000, 0.2988])
+2021-09-22 00:23:00,679 - trainer - INFO -     class rec      : tensor([0.5231, 0.2394, 0.5047, 0.2240, 0.4923, 0.0265, 0.3151])
+2021-09-22 00:23:00,680 - trainer - INFO -     f1             : tensor([0.4703, 0.2742, 0.4776, 0.3127, 0.3932, 0.0508, 0.3067])
+2021-09-22 00:23:00,680 - trainer - INFO -     avg prec       : 0.4207701086997986
+2021-09-22 00:23:00,681 - trainer - INFO -     avg rec        : 0.33216947317123413
+2021-09-22 00:23:00,681 - trainer - INFO -     avg f1         : 0.3265189528465271
+2021-09-22 00:23:02,604 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch3.pth ...
+2021-09-22 00:23:04,569 - trainer - INFO - Saving current best: model_best.pth ...
+2021-09-22 00:40:15,983 - trainer - INFO -     epoch          : 4
+2021-09-22 00:40:15,984 - trainer - INFO -     loss           : 1.6394628861441685
+2021-09-22 00:40:15,986 - trainer - INFO -     accuracy       : 0.36228015075376885
+2021-09-22 00:40:15,987 - trainer - INFO -     top_k_acc      : 0.5826005025125628
+2021-09-22 00:40:15,987 - trainer - INFO -     val_loss       : 1.5810224580764771
+2021-09-22 00:40:15,988 - trainer - INFO -     val_accuracy   : 0.389046052631579
+2021-09-22 00:40:15,988 - trainer - INFO -     val_top_k_acc  : 0.6030263157894737
+2021-09-22 00:40:15,990 - trainer - INFO -     conf mat       : tensor([[158.,  15.,  32.,  11.,  55.,   1.,  53.],
+        [ 18.,  28.,  16.,   4.,  64.,   0.,  12.],
+        [ 33.,  12., 164.,  12.,  72.,   1.,  23.],
+        [ 21.,   3.,  57.,  50.,  31.,   1.,  29.],
+        [ 38.,  10.,  39.,   4., 136.,   2.,  31.],
+        [ 34.,   6.,  12.,   7.,  25.,   4.,  25.],
+        [ 65.,  12.,  34.,   6.,  43.,   1.,  77.]])
+2021-09-22 00:40:15,991 - trainer - INFO -     class prec     : tensor([0.4305, 0.3256, 0.4633, 0.5319, 0.3192, 0.4000, 0.3080])
+2021-09-22 00:40:15,992 - trainer - INFO -     class rec      : tensor([0.4862, 0.1972, 0.5174, 0.2604, 0.5231, 0.0354, 0.3235])
+2021-09-22 00:40:15,993 - trainer - INFO -     f1             : tensor([0.4566, 0.2456, 0.4888, 0.3497, 0.3965, 0.0650, 0.3156])
+2021-09-22 00:40:15,994 - trainer - INFO -     avg prec       : 0.39693427085876465
+2021-09-22 00:40:15,995 - trainer - INFO -     avg rec        : 0.33472976088523865
+2021-09-22 00:40:15,996 - trainer - INFO -     avg f1         : 0.3311214745044708
+2021-09-22 00:40:17,909 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch4.pth ...
+2021-09-22 00:40:19,908 - trainer - INFO - Saving current best: model_best.pth ...
+2021-09-22 00:57:36,831 - trainer - INFO -     epoch          : 5
+2021-09-22 00:57:36,832 - trainer - INFO -     loss           : 1.6152173718016352
+2021-09-22 00:57:36,833 - trainer - INFO -     accuracy       : 0.37013190954773867
+2021-09-22 00:57:36,833 - trainer - INFO -     top_k_acc      : 0.5843278894472361
+2021-09-22 00:57:36,834 - trainer - INFO -     val_loss       : 1.56256187915802
+2021-09-22 00:57:36,834 - trainer - INFO -     val_accuracy   : 0.4048684210526316
+2021-09-22 00:57:36,835 - trainer - INFO -     val_top_k_acc  : 0.609078947368421
+2021-09-22 00:57:36,836 - trainer - INFO -     conf mat       : tensor([[200.,  14.,  37.,   8.,  25.,   2.,  39.],
+        [ 28.,  41.,  27.,   4.,  36.,   0.,   6.],
+        [ 45.,  18., 182.,  11.,  41.,   0.,  20.],
+        [ 31.,   3.,  59.,  45.,  21.,   0.,  33.],
+        [ 48.,  18.,  58.,   2., 103.,   2.,  29.],
+        [ 43.,   6.,  18.,   2.,  19.,   4.,  21.],
+        [ 80.,  21.,  39.,   2.,  26.,   2.,  68.]])
+2021-09-22 00:57:36,836 - trainer - INFO -     class prec     : tensor([0.4211, 0.3388, 0.4333, 0.6081, 0.3801, 0.4000, 0.3148])
+2021-09-22 00:57:36,837 - trainer - INFO -     class rec      : tensor([0.6154, 0.2887, 0.5741, 0.2344, 0.3962, 0.0354, 0.2857])
+2021-09-22 00:57:36,838 - trainer - INFO -     f1             : tensor([0.5000, 0.3118, 0.4939, 0.3383, 0.3879, 0.0650, 0.2996])
+2021-09-22 00:57:36,838 - trainer - INFO -     avg prec       : 0.41374653577804565
+2021-09-22 00:57:36,839 - trainer - INFO -     avg rec        : 0.3471272885799408
+2021-09-22 00:57:36,839 - trainer - INFO -     avg f1         : 0.3423677980899811
+2021-09-22 00:57:38,758 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch5.pth ...
+2021-09-22 00:57:40,697 - trainer - INFO - Saving current best: model_best.pth ...
+2021-09-22 01:14:53,565 - trainer - INFO -     epoch          : 6
+2021-09-22 01:14:53,566 - trainer - INFO -     loss           : 1.5938429227426423
+2021-09-22 01:14:53,567 - trainer - INFO -     accuracy       : 0.38222361809045224
+2021-09-22 01:14:53,567 - trainer - INFO -     top_k_acc      : 0.6005025125628141
+2021-09-22 01:14:53,568 - trainer - INFO -     val_loss       : 1.5696625351905822
+2021-09-22 01:14:53,568 - trainer - INFO -     val_accuracy   : 0.39108552631578947
+2021-09-22 01:14:53,569 - trainer - INFO -     val_top_k_acc  : 0.6042763157894737
+2021-09-22 01:14:53,570 - trainer - INFO -     conf mat       : tensor([[168.,  15.,  51.,   9.,  31.,   1.,  50.],
+        [ 16.,  41.,  37.,   3.,  37.,   0.,   8.],
+        [ 29.,  19., 210.,   8.,  25.,   1.,  25.],
+        [ 27.,   4.,  76.,  43.,  10.,   0.,  32.],
+        [ 40.,  27.,  79.,   3.,  84.,   3.,  24.],
+        [ 26.,  11.,  22.,   4.,  15.,   7.,  28.],
+        [ 62.,  25.,  54.,   2.,  24.,   1.,  70.]])
+2021-09-22 01:14:53,570 - trainer - INFO -     class prec     : tensor([0.4565, 0.2887, 0.3970, 0.5972, 0.3717, 0.5385, 0.2954])
+2021-09-22 01:14:53,571 - trainer - INFO -     class rec      : tensor([0.5169, 0.2887, 0.6625, 0.2240, 0.3231, 0.0619, 0.2941])
+2021-09-22 01:14:53,572 - trainer - INFO -     f1             : tensor([0.4848, 0.2887, 0.4965, 0.3258, 0.3457, 0.1111, 0.2947])
+2021-09-22 01:14:53,572 - trainer - INFO -     avg prec       : 0.420707643032074
+2021-09-22 01:14:53,572 - trainer - INFO -     avg rec        : 0.3387451171875
+2021-09-22 01:14:53,573 - trainer - INFO -     avg f1         : 0.33533135056495667
+2021-09-22 01:14:55,487 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch6.pth ...
+2021-09-22 01:32:09,654 - trainer - INFO -     epoch          : 7
+2021-09-22 01:32:09,655 - trainer - INFO -     loss           : 1.57245172567703
+2021-09-22 01:32:09,656 - trainer - INFO -     accuracy       : 0.3944723618090452
+2021-09-22 01:32:09,657 - trainer - INFO -     top_k_acc      : 0.602858040201005
+2021-09-22 01:32:09,657 - trainer - INFO -     val_loss       : 1.5416551160812377
+2021-09-22 01:32:09,658 - trainer - INFO -     val_accuracy   : 0.4107236842105263
+2021-09-22 01:32:09,658 - trainer - INFO -     val_top_k_acc  : 0.6234539473684211
+2021-09-22 01:32:09,659 - trainer - INFO -     conf mat       : tensor([[166.,  22.,  42.,  14.,  44.,   1.,  36.],
+        [ 13.,  40.,  28.,   6.,  49.,   0.,   6.],
+        [ 28.,  18., 188.,  12.,  51.,   0.,  20.],
+        [ 24.,   4.,  61.,  61.,  22.,   0.,  20.],
+        [ 34.,  22.,  48.,   9., 122.,   2.,  23.],
+        [ 35.,   6.,  16.,   5.,  26.,   5.,  20.],
+        [ 67.,  21.,  31.,   6.,  42.,   2.,  69.]])
+2021-09-22 01:32:09,660 - trainer - INFO -     class prec     : tensor([0.4523, 0.3008, 0.4541, 0.5398, 0.3427, 0.5000, 0.3557])
+2021-09-22 01:32:09,661 - trainer - INFO -     class rec      : tensor([0.5108, 0.2817, 0.5931, 0.3177, 0.4692, 0.0442, 0.2899])
+2021-09-22 01:32:09,662 - trainer - INFO -     f1             : tensor([0.4798, 0.2909, 0.5144, 0.4000, 0.3961, 0.0813, 0.3194])
+2021-09-22 01:32:09,663 - trainer - INFO -     avg prec       : 0.42076629400253296
+2021-09-22 01:32:09,663 - trainer - INFO -     avg rec        : 0.3580889105796814
+2021-09-22 01:32:09,664 - trainer - INFO -     avg f1         : 0.3545558452606201
+2021-09-22 01:32:11,585 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch7.pth ...
+2021-09-22 01:32:13,524 - trainer - INFO - Saving current best: model_best.pth ...
+2021-09-22 01:49:26,184 - trainer - INFO -     epoch          : 8
+2021-09-22 01:49:26,184 - trainer - INFO -     loss           : 1.5543040929727219
+2021-09-22 01:49:26,185 - trainer - INFO -     accuracy       : 0.4005967336683417
+2021-09-22 01:49:26,186 - trainer - INFO -     top_k_acc      : 0.6064698492462312
+2021-09-22 01:49:26,186 - trainer - INFO -     val_loss       : 1.5271991348266603
+2021-09-22 01:49:26,187 - trainer - INFO -     val_accuracy   : 0.41424342105263157
+2021-09-22 01:49:26,188 - trainer - INFO -     val_top_k_acc  : 0.6236513157894737
+2021-09-22 01:49:26,189 - trainer - INFO -     conf mat       : tensor([[153.,  15.,  37.,  15.,  36.,   0.,  69.],
+        [ 16.,  45.,  23.,   8.,  38.,   0.,  12.],
+        [ 29.,  13., 191.,  15.,  37.,   0.,  32.],
+        [ 18.,   5.,  56.,  61.,  14.,   0.,  38.],
+        [ 32.,  22.,  37.,  15., 108.,   1.,  45.],
+        [ 20.,  11.,  17.,   7.,  15.,   5.,  38.],
+        [ 54.,  22.,  35.,   7.,  24.,   1.,  95.]])
+2021-09-22 01:49:26,190 - trainer - INFO -     class prec     : tensor([0.4752, 0.3383, 0.4823, 0.4766, 0.3971, 0.7143, 0.2888])
+2021-09-22 01:49:26,191 - trainer - INFO -     class rec      : tensor([0.4708, 0.3169, 0.6025, 0.3177, 0.4154, 0.0442, 0.3992])
+2021-09-22 01:49:26,191 - trainer - INFO -     f1             : tensor([0.4730, 0.3273, 0.5358, 0.3812, 0.4060, 0.0833, 0.3351])
+2021-09-22 01:49:26,192 - trainer - INFO -     avg prec       : 0.453212171792984
+2021-09-22 01:49:26,192 - trainer - INFO -     avg rec        : 0.3666706681251526
+2021-09-22 01:49:26,193 - trainer - INFO -     avg f1         : 0.36309781670570374
+2021-09-22 01:49:28,154 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch8.pth ...
+2021-09-22 01:49:30,093 - trainer - INFO - Saving current best: model_best.pth ...
+2021-09-22 02:06:44,194 - trainer - INFO -     epoch          : 9
+2021-09-22 02:06:44,195 - trainer - INFO -     loss           : 1.5354954327770214
+2021-09-22 02:06:44,197 - trainer - INFO -     accuracy       : 0.40734924623115576
+2021-09-22 02:06:44,198 - trainer - INFO -     top_k_acc      : 0.6185615577889447
+2021-09-22 02:06:44,199 - trainer - INFO -     val_loss       : 1.5175341248512269
+2021-09-22 02:06:44,200 - trainer - INFO -     val_accuracy   : 0.4261513157894737
+2021-09-22 02:06:44,201 - trainer - INFO -     val_top_k_acc  : 0.6330592105263159
+2021-09-22 02:06:44,203 - trainer - INFO -     conf mat       : tensor([[157.,  15.,  43.,  15.,  59.,   2.,  34.],
+        [  9.,  41.,  28.,   6.,  51.,   1.,   6.],
+        [ 27.,  10., 206.,  10.,  50.,   0.,  14.],
+        [ 17.,   2.,  64.,  62.,  30.,   0.,  17.],
+        [ 23.,  20.,  48.,   6., 140.,   2.,  21.],
+        [ 19.,   4.,  19.,   6.,  32.,   9.,  24.],
+        [ 53.,  24.,  42.,   6.,  51.,   2.,  60.]])
+2021-09-22 02:06:44,204 - trainer - INFO -     class prec     : tensor([0.5148, 0.3534, 0.4578, 0.5586, 0.3390, 0.5625, 0.3409])
+2021-09-22 02:06:44,206 - trainer - INFO -     class rec      : tensor([0.4831, 0.2887, 0.6498, 0.3229, 0.5385, 0.0796, 0.2521])
+2021-09-22 02:06:44,207 - trainer - INFO -     f1             : tensor([0.4984, 0.3178, 0.5372, 0.4092, 0.4160, 0.1395, 0.2899])
+2021-09-22 02:06:44,208 - trainer - INFO -     avg prec       : 0.4467043876647949
+2021-09-22 02:06:44,209 - trainer - INFO -     avg rec        : 0.373539537191391
+2021-09-22 02:06:44,209 - trainer - INFO -     avg f1         : 0.3725826144218445
+2021-09-22 02:06:46,126 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch9.pth ...
+2021-09-22 02:06:48,081 - trainer - INFO - Saving current best: model_best.pth ...
+2021-09-22 02:24:01,190 - trainer - INFO -     epoch          : 10
+2021-09-22 02:24:01,191 - trainer - INFO -     loss           : 1.5134755744406925
+2021-09-22 02:24:01,192 - trainer - INFO -     accuracy       : 0.4156721105527638
+2021-09-22 02:24:01,193 - trainer - INFO -     top_k_acc      : 0.6264133165829145
+2021-09-22 02:24:01,194 - trainer - INFO -     val_loss       : 1.5067456483840942
+2021-09-22 02:24:01,194 - trainer - INFO -     val_accuracy   : 0.43276315789473685
+2021-09-22 02:24:01,195 - trainer - INFO -     val_top_k_acc  : 0.632203947368421
+2021-09-22 02:24:01,196 - trainer - INFO -     conf mat       : tensor([[201.,  14.,  30.,  20.,  38.,   2.,  20.],
+        [ 18.,  41.,  22.,   9.,  49.,   0.,   3.],
+        [ 37.,  14., 178.,  20.,  56.,   0.,  12.],
+        [ 24.,   2.,  50.,  76.,  23.,   1.,  16.],
+        [ 48.,  18.,  26.,  17., 136.,   3.,  12.],
+        [ 35.,   9.,  15.,   8.,  22.,   9.,  15.],
+        [ 88.,  19.,  34.,  13.,  33.,   3.,  48.]])
+2021-09-22 02:24:01,197 - trainer - INFO -     class prec     : tensor([0.4457, 0.3504, 0.5014, 0.4663, 0.3810, 0.5000, 0.3810])
+2021-09-22 02:24:01,198 - trainer - INFO -     class rec      : tensor([0.6185, 0.2887, 0.5615, 0.3958, 0.5231, 0.0796, 0.2017])
+2021-09-22 02:24:01,198 - trainer - INFO -     f1             : tensor([0.5180, 0.3166, 0.5298, 0.4282, 0.4408, 0.1374, 0.2637])
+2021-09-22 02:24:01,199 - trainer - INFO -     avg prec       : 0.43223923444747925
+2021-09-22 02:24:01,200 - trainer - INFO -     avg rec        : 0.381277859210968
+2021-09-22 02:24:01,200 - trainer - INFO -     avg f1         : 0.37636545300483704
+2021-09-22 02:24:03,112 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch10.pth ...
+2021-09-22 02:24:05,050 - trainer - INFO - Saving current best: model_best.pth ...
+2021-09-22 02:41:16,250 - trainer - INFO -     epoch          : 11
+2021-09-22 02:41:16,251 - trainer - INFO -     loss           : 1.4971187671824315
+2021-09-22 02:41:16,252 - trainer - INFO -     accuracy       : 0.42462311557788945
+2021-09-22 02:41:16,253 - trainer - INFO -     top_k_acc      : 0.635678391959799
+2021-09-22 02:41:16,253 - trainer - INFO -     val_loss       : 1.4992012357711793
+2021-09-22 02:41:16,254 - trainer - INFO -     val_accuracy   : 0.4269736842105263
+2021-09-22 02:41:16,254 - trainer - INFO -     val_top_k_acc  : 0.6270065789473684
+2021-09-22 02:41:16,256 - trainer - INFO -     conf mat       : tensor([[171.,   9.,  36.,  18.,  43.,   6.,  42.],
+        [ 12.,  36.,  36.,   8.,  41.,   0.,   9.],
+        [ 22.,   6., 189.,  28.,  50.,   1.,  21.],
+        [ 22.,   4.,  45.,  77.,  22.,   1.,  21.],
+        [ 35.,  13.,  47.,  18., 121.,   6.,  20.],
+        [ 28.,   5.,  15.,   8.,  19.,  11.,  27.],
+        [ 62.,  12.,  38.,  13.,  38.,   3.,  72.]])
+2021-09-22 02:41:16,257 - trainer - INFO -     class prec     : tensor([0.4858, 0.4235, 0.4655, 0.4529, 0.3623, 0.3929, 0.3396])
+2021-09-22 02:41:16,258 - trainer - INFO -     class rec      : tensor([0.5262, 0.2535, 0.5962, 0.4010, 0.4654, 0.0973, 0.3025])
+2021-09-22 02:41:16,259 - trainer - INFO -     f1             : tensor([0.5052, 0.3172, 0.5228, 0.4254, 0.4074, 0.1560, 0.3200])
+2021-09-22 02:41:16,259 - trainer - INFO -     avg prec       : 0.41750550270080566
+2021-09-22 02:41:16,260 - trainer - INFO -     avg rec        : 0.377454549074173
+2021-09-22 02:41:16,261 - trainer - INFO -     avg f1         : 0.379146009683609
+2021-09-22 02:41:18,174 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch11.pth ...
+2021-09-22 02:41:20,114 - trainer - INFO - Saving current best: model_best.pth ...
+2021-09-22 02:58:30,554 - trainer - INFO -     epoch          : 12
+2021-09-22 02:58:30,555 - trainer - INFO -     loss           : 1.48210880984014
+2021-09-22 02:58:30,557 - trainer - INFO -     accuracy       : 0.42870603015075376
+2021-09-22 02:58:30,558 - trainer - INFO -     top_k_acc      : 0.6430590452261307
+2021-09-22 02:58:30,559 - trainer - INFO -     val_loss       : 1.496913251876831
+2021-09-22 02:58:30,560 - trainer - INFO -     val_accuracy   : 0.4236513157894737
+2021-09-22 02:58:30,560 - trainer - INFO -     val_top_k_acc  : 0.6297368421052632
+2021-09-22 02:58:30,562 - trainer - INFO -     conf mat       : tensor([[172.,  17.,  48.,  10.,  32.,   4.,  42.],
+        [ 11.,  52.,  30.,   2.,  37.,   0.,  10.],
+        [ 22.,  23., 201.,   8.,  37.,   2.,  24.],
+        [ 27.,   5.,  60.,  54.,  21.,   1.,  24.],
+        [ 39.,  22.,  54.,   4., 111.,   5.,  25.],
+        [ 24.,   9.,  18.,   5.,  17.,  10.,  30.],
+        [ 64.,  24.,  41.,   2.,  34.,   2.,  71.]])
+2021-09-22 02:58:30,562 - trainer - INFO -     class prec     : tensor([0.4791, 0.3421, 0.4447, 0.6353, 0.3841, 0.4167, 0.3142])
+2021-09-22 02:58:30,563 - trainer - INFO -     class rec      : tensor([0.5292, 0.3662, 0.6341, 0.2812, 0.4269, 0.0885, 0.2983])
+2021-09-22 02:58:30,564 - trainer - INFO -     f1             : tensor([0.5029, 0.3537, 0.5228, 0.3899, 0.4044, 0.1460, 0.3060])
+2021-09-22 02:58:30,565 - trainer - INFO -     avg prec       : 0.43087249994277954
+2021-09-22 02:58:30,565 - trainer - INFO -     avg rec        : 0.37492647767066956
+2021-09-22 02:58:30,566 - trainer - INFO -     avg f1         : 0.3751007914543152
+2021-09-22 02:58:32,479 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch12.pth ...
+2021-09-22 02:58:34,426 - trainer - INFO - Saving current best: model_best.pth ...
+2021-09-22 03:15:48,550 - trainer - INFO -     epoch          : 13
+2021-09-22 03:15:48,551 - trainer - INFO -     loss           : 1.483392548920521
+2021-09-22 03:15:48,553 - trainer - INFO -     accuracy       : 0.42839195979899497
+2021-09-22 03:15:48,554 - trainer - INFO -     top_k_acc      : 0.6366206030150754
+2021-09-22 03:15:48,555 - trainer - INFO -     val_loss       : 1.5090846967697145
+2021-09-22 03:15:48,556 - trainer - INFO -     val_accuracy   : 0.42733552631578947
+2021-09-22 03:15:48,556 - trainer - INFO -     val_top_k_acc  : 0.637828947368421
+2021-09-22 03:15:48,558 - trainer - INFO -     conf mat       : tensor([[156.,  18.,  49.,  17.,  45.,   7.,  33.],
+        [ 13.,  42.,  30.,   6.,  44.,   0.,   7.],
+        [ 22.,  13., 199.,  18.,  46.,   1.,  18.],
+        [ 15.,   2.,  57.,  72.,  28.,   2.,  16.],
+        [ 33.,  18.,  44.,  11., 136.,   4.,  14.],
+        [ 21.,   4.,  20.,   6.,  30.,  14.,  18.],
+        [ 57.,  17.,  37.,  17.,  45.,   3.,  62.]])
+2021-09-22 03:15:48,559 - trainer - INFO -     class prec     : tensor([0.4921, 0.3684, 0.4564, 0.4898, 0.3636, 0.4516, 0.3690])
+2021-09-22 03:15:48,560 - trainer - INFO -     class rec      : tensor([0.4800, 0.2958, 0.6278, 0.3750, 0.5231, 0.1239, 0.2605])
+2021-09-22 03:15:48,560 - trainer - INFO -     f1             : tensor([0.4860, 0.3281, 0.5286, 0.4248, 0.4290, 0.1944, 0.3054])
+2021-09-22 03:15:48,561 - trainer - INFO -     avg prec       : 0.4272927939891815
+2021-09-22 03:15:48,562 - trainer - INFO -     avg rec        : 0.3837156891822815
+2021-09-22 03:15:48,562 - trainer - INFO -     avg f1         : 0.3851889669895172
+2021-09-22 03:15:50,474 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch13.pth ...
+2021-09-22 03:33:02,464 - trainer - INFO -     epoch          : 14
+2021-09-22 03:33:02,465 - trainer - INFO -     loss           : 1.4640849343496352
+2021-09-22 03:33:02,467 - trainer - INFO -     accuracy       : 0.4495917085427136
+2021-09-22 03:33:02,468 - trainer - INFO -     top_k_acc      : 0.6564070351758794
+2021-09-22 03:33:02,469 - trainer - INFO -     val_loss       : 1.4895020008087159
+2021-09-22 03:33:02,469 - trainer - INFO -     val_accuracy   : 0.43131578947368415
+2021-09-22 03:33:02,470 - trainer - INFO -     val_top_k_acc  : 0.6347039473684211
+2021-09-22 03:33:02,471 - trainer - INFO -     conf mat       : tensor([[179.,  10.,  23.,  25.,  44.,   3.,  41.],
+        [ 14.,  39.,  16.,   9.,  49.,   0.,  15.],
+        [ 28.,  16., 150.,  47.,  53.,   1.,  22.],
+        [ 22.,   3.,  31.,  97.,  18.,   2.,  19.],
+        [ 38.,  17.,  18.,  22., 138.,   4.,  23.],
+        [ 27.,   4.,  11.,  13.,  23.,  10.,  25.],
+        [ 65.,  15.,  21.,  22.,  39.,   3.,  73.]])
+2021-09-22 03:33:02,472 - trainer - INFO -     class prec     : tensor([0.4799, 0.3750, 0.5556, 0.4128, 0.3791, 0.4348, 0.3349])
+2021-09-22 03:33:02,473 - trainer - INFO -     class rec      : tensor([0.5508, 0.2746, 0.4732, 0.5052, 0.5308, 0.0885, 0.3067])
+2021-09-22 03:33:02,474 - trainer - INFO -     f1             : tensor([0.5129, 0.3171, 0.5111, 0.4543, 0.4423, 0.1471, 0.3202])
+2021-09-22 03:33:02,475 - trainer - INFO -     avg prec       : 0.4245685935020447
+2021-09-22 03:33:02,475 - trainer - INFO -     avg rec        : 0.3899712860584259
+2021-09-22 03:33:02,476 - trainer - INFO -     avg f1         : 0.38641640543937683
+2021-09-22 03:33:04,390 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch14.pth ...
+2021-09-22 03:33:06,331 - trainer - INFO - Saving current best: model_best.pth ...
+2021-09-22 03:50:18,882 - trainer - INFO -     epoch          : 15
+2021-09-22 03:50:18,883 - trainer - INFO -     loss           : 1.4528648499867425
+2021-09-22 03:50:18,884 - trainer - INFO -     accuracy       : 0.43828517587939697
+2021-09-22 03:50:18,884 - trainer - INFO -     top_k_acc      : 0.653109296482412
+2021-09-22 03:50:18,885 - trainer - INFO -     val_loss       : 1.4827723455429078
+2021-09-22 03:50:18,885 - trainer - INFO -     val_accuracy   : 0.42881578947368415
+2021-09-22 03:50:18,886 - trainer - INFO -     val_top_k_acc  : 0.6424013157894737
+2021-09-22 03:50:18,887 - trainer - INFO -     conf mat       : tensor([[177.,  12.,  34.,  21.,  48.,   7.,  26.],
+        [ 11.,  43.,  20.,   7.,  56.,   0.,   5.],
+        [ 23.,  15., 176.,  30.,  58.,   2.,  13.],
+        [ 18.,   3.,  52.,  78.,  24.,   3.,  14.],
+        [ 40.,  17.,  30.,  13., 139.,   7.,  14.],
+        [ 22.,   6.,  14.,   9.,  28.,  13.,  21.],
+        [ 66.,  20.,  39.,  11.,  42.,   4.,  56.]])
+2021-09-22 03:50:18,888 - trainer - INFO -     class prec     : tensor([0.4958, 0.3707, 0.4822, 0.4615, 0.3519, 0.3611, 0.3758])
+2021-09-22 03:50:18,888 - trainer - INFO -     class rec      : tensor([0.5446, 0.3028, 0.5552, 0.4062, 0.5346, 0.1150, 0.2353])
+2021-09-22 03:50:18,889 - trainer - INFO -     f1             : tensor([0.5191, 0.3333, 0.5161, 0.4321, 0.4244, 0.1745, 0.2894])
+2021-09-22 03:50:18,889 - trainer - INFO -     avg prec       : 0.41415244340896606
+2021-09-22 03:50:18,890 - trainer - INFO -     avg rec        : 0.3848344385623932
+2021-09-22 03:50:18,890 - trainer - INFO -     avg f1         : 0.3841409683227539
+2021-09-22 03:50:20,803 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch15.pth ...
+2021-09-22 03:50:22,744 - trainer - INFO - Saving current best: model_best.pth ...
+2021-09-22 04:07:35,370 - trainer - INFO -     epoch          : 16
+2021-09-22 04:07:35,370 - trainer - INFO -     loss           : 1.436924768752189
+2021-09-22 04:07:35,372 - trainer - INFO -     accuracy       : 0.45194723618090454
+2021-09-22 04:07:35,372 - trainer - INFO -     top_k_acc      : 0.6600188442211056
+2021-09-22 04:07:35,373 - trainer - INFO -     val_loss       : 1.4640991306304931
+2021-09-22 04:07:35,373 - trainer - INFO -     val_accuracy   : 0.4399013157894737
+2021-09-22 04:07:35,373 - trainer - INFO -     val_top_k_acc  : 0.6451644736842106
+2021-09-22 04:07:35,375 - trainer - INFO -     conf mat       : tensor([[189.,  15.,  39.,  17.,  24.,   7.,  34.],
+        [ 18.,  54.,  24.,   7.,  32.,   1.,   6.],
+        [ 29.,  25., 179.,  28.,  37.,   3.,  16.],
+        [ 26.,   5.,  44.,  74.,  21.,   3.,  19.],
+        [ 39.,  28.,  42.,  13., 112.,   5.,  21.],
+        [ 26.,  10.,  15.,   4.,  18.,  16.,  24.],
+        [ 72.,  24.,  30.,   7.,  27.,   5.,  73.]])
+2021-09-22 04:07:35,375 - trainer - INFO -     class prec     : tensor([0.4737, 0.3354, 0.4799, 0.4933, 0.4133, 0.4000, 0.3782])
+2021-09-22 04:07:35,376 - trainer - INFO -     class rec      : tensor([0.5815, 0.3803, 0.5647, 0.3854, 0.4308, 0.1416, 0.3067])
+2021-09-22 04:07:35,377 - trainer - INFO -     f1             : tensor([0.5221, 0.3564, 0.5188, 0.4327, 0.4218, 0.2092, 0.3387])
+2021-09-22 04:07:35,378 - trainer - INFO -     avg prec       : 0.4248338043689728
+2021-09-22 04:07:35,378 - trainer - INFO -     avg rec        : 0.3987129032611847
+2021-09-22 04:07:35,379 - trainer - INFO -     avg f1         : 0.3999810218811035
+2021-09-22 04:07:37,297 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch16.pth ...
+2021-09-22 04:07:39,233 - trainer - INFO - Saving current best: model_best.pth ...
+2021-09-22 04:24:50,440 - trainer - INFO -     epoch          : 17
+2021-09-22 04:24:50,441 - trainer - INFO -     loss           : 1.4243475956533422
+2021-09-22 04:24:50,442 - trainer - INFO -     accuracy       : 0.45398869346733667
+2021-09-22 04:24:50,443 - trainer - INFO -     top_k_acc      : 0.6630025125628141
+2021-09-22 04:24:50,443 - trainer - INFO -     val_loss       : 1.4811456394195557
+2021-09-22 04:24:50,444 - trainer - INFO -     val_accuracy   : 0.43282894736842104
+2021-09-22 04:24:50,444 - trainer - INFO -     val_top_k_acc  : 0.6397368421052632
+2021-09-22 04:24:50,445 - trainer - INFO -     conf mat       : tensor([[158.,  17.,  53.,  12.,  30.,   3.,  52.],
+        [ 11.,  50.,  35.,   4.,  35.,   0.,   7.],
+        [ 18.,  26., 199.,  23.,  32.,   0.,  19.],
+        [ 16.,   5.,  54.,  70.,  18.,   2.,  27.],
+        [ 30.,  22.,  54.,  10., 110.,   3.,  31.],
+        [ 18.,  10.,  20.,   9.,  15.,   9.,  32.],
+        [ 47.,  22.,  45.,   5.,  25.,   5.,  89.]])
+2021-09-22 04:24:50,446 - trainer - INFO -     class prec     : tensor([0.5302, 0.3289, 0.4326, 0.5263, 0.4151, 0.4091, 0.3463])
+2021-09-22 04:24:50,447 - trainer - INFO -     class rec      : tensor([0.4862, 0.3521, 0.6278, 0.3646, 0.4231, 0.0796, 0.3739])
+2021-09-22 04:24:50,448 - trainer - INFO -     f1             : tensor([0.5072, 0.3401, 0.5122, 0.4308, 0.4190, 0.1333, 0.3596])
+2021-09-22 04:24:50,450 - trainer - INFO -     avg prec       : 0.42693740129470825
+2021-09-22 04:24:50,450 - trainer - INFO -     avg rec        : 0.38675469160079956
+2021-09-22 04:24:50,451 - trainer - INFO -     avg f1         : 0.3860474228858948
+2021-09-22 04:24:52,364 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch17.pth ...
+2021-09-22 04:42:04,575 - trainer - INFO -     epoch          : 18
+2021-09-22 04:42:04,576 - trainer - INFO -     loss           : 1.3982913512081356
+2021-09-22 04:42:04,578 - trainer - INFO -     accuracy       : 0.4641959798994975
+2021-09-22 04:42:04,579 - trainer - INFO -     top_k_acc      : 0.6733668341708543
+2021-09-22 04:42:04,579 - trainer - INFO -     val_loss       : 1.5227247810363769
+2021-09-22 04:42:04,580 - trainer - INFO -     val_accuracy   : 0.43700657894736844
+2021-09-22 04:42:04,581 - trainer - INFO -     val_top_k_acc  : 0.6424342105263158
+2021-09-22 04:42:04,582 - trainer - INFO -     conf mat       : tensor([[144.,  30.,  38.,  15.,  53.,   8.,  37.],
+        [  6.,  56.,  24.,   4.,  49.,   0.,   3.],
+        [ 16.,  23., 193.,  17.,  55.,   1.,  12.],
+        [ 20.,   7.,  52.,  71.,  22.,   2.,  18.],
+        [ 22.,  29.,  32.,  11., 147.,   2.,  17.],
+        [ 18.,  13.,  16.,   6.,  25.,  13.,  22.],
+        [ 53.,  32.,  34.,   9.,  38.,   5.,  67.]])
+2021-09-22 04:42:04,583 - trainer - INFO -     class prec     : tensor([0.5161, 0.2947, 0.4961, 0.5338, 0.3779, 0.4194, 0.3807])
+2021-09-22 04:42:04,584 - trainer - INFO -     class rec      : tensor([0.4431, 0.3944, 0.6088, 0.3698, 0.5654, 0.1150, 0.2815])
+2021-09-22 04:42:04,585 - trainer - INFO -     f1             : tensor([0.4768, 0.3373, 0.5467, 0.4369, 0.4530, 0.1806, 0.3237])
+2021-09-22 04:42:04,586 - trainer - INFO -     avg prec       : 0.4312532842159271
+2021-09-22 04:42:04,587 - trainer - INFO -     avg rec        : 0.39685842394828796
+2021-09-22 04:42:04,588 - trainer - INFO -     avg f1         : 0.3935810923576355
+2021-09-22 04:42:06,501 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch18.pth ...
+2021-09-22 04:59:16,387 - trainer - INFO -     epoch          : 19
+2021-09-22 04:59:16,388 - trainer - INFO -     loss           : 1.3904791333567557
+2021-09-22 04:59:16,390 - trainer - INFO -     accuracy       : 0.4689070351758794
+2021-09-22 04:59:16,391 - trainer - INFO -     top_k_acc      : 0.6765075376884422
+2021-09-22 04:59:16,391 - trainer - INFO -     val_loss       : 1.4895549619197845
+2021-09-22 04:59:16,392 - trainer - INFO -     val_accuracy   : 0.44838815789473685
+2021-09-22 04:59:16,393 - trainer - INFO -     val_top_k_acc  : 0.6511184210526316
+2021-09-22 04:59:16,394 - trainer - INFO -     conf mat       : tensor([[188.,  18.,  40.,  15.,  33.,   5.,  26.],
+        [ 14.,  50.,  23.,   4.,  48.,   0.,   3.],
+        [ 25.,  23., 182.,  24.,  46.,   2.,  15.],
+        [ 20.,   8.,  43.,  76.,  19.,   5.,  21.],
+        [ 38.,  27.,  31.,  12., 136.,   2.,  14.],
+        [ 23.,  11.,  17.,   5.,  22.,  15.,  20.],
+        [ 65.,  25.,  36.,   6.,  34.,   5.,  67.]])
+2021-09-22 04:59:16,395 - trainer - INFO -     class prec     : tensor([0.5040, 0.3086, 0.4892, 0.5352, 0.4024, 0.4412, 0.4036])
+2021-09-22 04:59:16,396 - trainer - INFO -     class rec      : tensor([0.5785, 0.3521, 0.5741, 0.3958, 0.5231, 0.1327, 0.2815])
+2021-09-22 04:59:16,397 - trainer - INFO -     f1             : tensor([0.5387, 0.3289, 0.5283, 0.4551, 0.4548, 0.2041, 0.3317])
+2021-09-22 04:59:16,398 - trainer - INFO -     avg prec       : 0.4406113922595978
+2021-09-22 04:59:16,398 - trainer - INFO -     avg rec        : 0.40541043877601624
+2021-09-22 04:59:16,399 - trainer - INFO -     avg f1         : 0.40594789385795593
+2021-09-22 04:59:18,361 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch19.pth ...
+2021-09-22 05:16:31,214 - trainer - INFO -     epoch          : 20
+2021-09-22 05:16:31,215 - trainer - INFO -     loss           : 1.380077995846619
+2021-09-22 05:16:31,216 - trainer - INFO -     accuracy       : 0.47581658291457285
+2021-09-22 05:16:31,217 - trainer - INFO -     top_k_acc      : 0.6859296482412061
+2021-09-22 05:16:31,217 - trainer - INFO -     val_loss       : 1.4808425450325011
+2021-09-22 05:16:31,218 - trainer - INFO -     val_accuracy   : 0.44549342105263157
+2021-09-22 05:16:31,219 - trainer - INFO -     val_top_k_acc  : 0.6482565789473683
+2021-09-22 05:16:31,220 - trainer - INFO -     conf mat       : tensor([[172.,  15.,  45.,  11.,  39.,   1.,  42.],
+        [ 12.,  42.,  27.,   3.,  53.,   0.,   5.],
+        [ 19.,  17., 201.,  17.,  46.,   1.,  16.],
+        [ 19.,   7.,  51.,  70.,  21.,   3.,  21.],
+        [ 43.,  22.,  37.,   8., 128.,   1.,  21.],
+        [ 23.,  10.,  16.,   3.,  21.,  13.,  27.],
+        [ 57.,  22.,  34.,   4.,  36.,   3.,  82.]])
+2021-09-22 05:16:31,221 - trainer - INFO -     class prec     : tensor([0.4986, 0.3111, 0.4891, 0.6034, 0.3721, 0.5909, 0.3832])
+2021-09-22 05:16:31,222 - trainer - INFO -     class rec      : tensor([0.5292, 0.2958, 0.6341, 0.3646, 0.4923, 0.1150, 0.3445])
+2021-09-22 05:16:31,223 - trainer - INFO -     f1             : tensor([0.5134, 0.3032, 0.5522, 0.4545, 0.4238, 0.1926, 0.3628])
+2021-09-22 05:16:31,224 - trainer - INFO -     avg prec       : 0.46404868364334106
+2021-09-22 05:16:31,224 - trainer - INFO -     avg rec        : 0.3965068459510803
+2021-09-22 05:16:31,225 - trainer - INFO -     avg f1         : 0.40038439631462097
+2021-09-22 05:16:33,141 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch20.pth ...
+2021-09-22 05:33:42,572 - trainer - INFO -     epoch          : 21
+2021-09-22 05:33:42,573 - trainer - INFO -     loss           : 1.374750974190295
+2021-09-22 05:33:42,574 - trainer - INFO -     accuracy       : 0.4806846733668342
+2021-09-22 05:33:42,575 - trainer - INFO -     top_k_acc      : 0.6876570351758794
+2021-09-22 05:33:42,575 - trainer - INFO -     val_loss       : 1.464990224838257
+2021-09-22 05:33:42,576 - trainer - INFO -     val_accuracy   : 0.4536513157894737
+2021-09-22 05:33:42,577 - trainer - INFO -     val_top_k_acc  : 0.6536842105263158
+2021-09-22 05:33:42,578 - trainer - INFO -     conf mat       : tensor([[168.,  16.,  31.,  19.,  40.,   4.,  47.],
+        [ 16.,  47.,  19.,   7.,  44.,   0.,   9.],
+        [ 22.,  21., 178.,  28.,  41.,   2.,  25.],
+        [ 19.,   6.,  34.,  95.,  14.,   1.,  23.],
+        [ 34.,  27.,  29.,  13., 130.,   2.,  25.],
+        [ 19.,  11.,  11.,  10.,  22.,  11.,  29.],
+        [ 54.,  21.,  28.,   8.,  31.,   6.,  90.]])
+2021-09-22 05:33:42,579 - trainer - INFO -     class prec     : tensor([0.5060, 0.3154, 0.5394, 0.5278, 0.4037, 0.4231, 0.3629])
+2021-09-22 05:33:42,580 - trainer - INFO -     class rec      : tensor([0.5169, 0.3310, 0.5615, 0.4948, 0.5000, 0.0973, 0.3782])
+2021-09-22 05:33:42,580 - trainer - INFO -     f1             : tensor([0.5114, 0.3230, 0.5502, 0.5108, 0.4467, 0.1583, 0.3704])
+2021-09-22 05:33:42,581 - trainer - INFO -     avg prec       : 0.43976274132728577
+2021-09-22 05:33:42,582 - trainer - INFO -     avg rec        : 0.41138729453086853
+2021-09-22 05:33:42,582 - trainer - INFO -     avg f1         : 0.41011476516723633
+2021-09-22 05:33:44,503 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch21.pth ...
+2021-09-22 05:50:57,511 - trainer - INFO -     epoch          : 22
+2021-09-22 05:50:57,512 - trainer - INFO -     loss           : 1.3568535339293168
+2021-09-22 05:50:57,512 - trainer - INFO -     accuracy       : 0.4841394472361809
+2021-09-22 05:50:57,513 - trainer - INFO -     top_k_acc      : 0.6920540201005025
+2021-09-22 05:50:57,513 - trainer - INFO -     val_loss       : 1.5104483008384704
+2021-09-22 05:50:57,514 - trainer - INFO -     val_accuracy   : 0.4386513157894737
+2021-09-22 05:50:57,514 - trainer - INFO -     val_top_k_acc  : 0.6441118421052632
+2021-09-22 05:50:57,515 - trainer - INFO -     conf mat       : tensor([[115.,  18.,  33.,  27.,  70.,  14.,  48.],
+        [  7.,  42.,  16.,   7.,  63.,   0.,   7.],
+        [ 12.,  15., 192.,  23.,  61.,   2.,  12.],
+        [  6.,   5.,  45.,  84.,  30.,   4.,  18.],
+        [ 12.,  24.,  24.,  15., 165.,   5.,  15.],
+        [ 11.,   8.,  12.,   8.,  35.,  16.,  23.],
+        [ 35.,  18.,  30.,  12.,  53.,   9.,  81.]])
+2021-09-22 05:50:57,516 - trainer - INFO -     class prec     : tensor([0.5808, 0.3231, 0.5455, 0.4773, 0.3459, 0.3200, 0.3971])
+2021-09-22 05:50:57,517 - trainer - INFO -     class rec      : tensor([0.3538, 0.2958, 0.6057, 0.4375, 0.6346, 0.1416, 0.3403])
+2021-09-22 05:50:57,518 - trainer - INFO -     f1             : tensor([0.4398, 0.3088, 0.5740, 0.4565, 0.4478, 0.1963, 0.3665])
+2021-09-22 05:50:57,519 - trainer - INFO -     avg prec       : 0.427083283662796
+2021-09-22 05:50:57,519 - trainer - INFO -     avg rec        : 0.4013347923755646
+2021-09-22 05:50:57,520 - trainer - INFO -     avg f1         : 0.3985290229320526
+2021-09-22 05:50:59,434 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch22.pth ...
+2021-09-22 06:08:12,907 - trainer - INFO -     epoch          : 23
+2021-09-22 06:08:12,908 - trainer - INFO -     loss           : 1.3448227053910644
+2021-09-22 06:08:12,908 - trainer - INFO -     accuracy       : 0.48759422110552764
+2021-09-22 06:08:12,910 - trainer - INFO -     top_k_acc      : 0.6900125628140703
+2021-09-22 06:08:12,910 - trainer - INFO -     val_loss       : 1.5150110840797424
+2021-09-22 06:08:12,911 - trainer - INFO -     val_accuracy   : 0.4424013157894737
+2021-09-22 06:08:12,911 - trainer - INFO -     val_top_k_acc  : 0.6493092105263157
+2021-09-22 06:08:12,913 - trainer - INFO -     conf mat       : tensor([[136.,  10.,  38.,  17.,  69.,   4.,  51.],
+        [  8.,  39.,  25.,   7.,  56.,   0.,   7.],
+        [ 15.,  11., 198.,  19.,  61.,   0.,  13.],
+        [ 12.,   5.,  53.,  71.,  28.,   0.,  23.],
+        [ 18.,  18.,  31.,  14., 163.,   2.,  14.],
+        [ 12.,   5.,  17.,   8.,  34.,  12.,  25.],
+        [ 41.,  13.,  33.,  11.,  53.,   5.,  82.]])
+2021-09-22 06:08:12,914 - trainer - INFO -     class prec     : tensor([0.5620, 0.3861, 0.5013, 0.4830, 0.3513, 0.5217, 0.3814])
+2021-09-22 06:08:12,914 - trainer - INFO -     class rec      : tensor([0.4185, 0.2746, 0.6246, 0.3698, 0.6269, 0.1062, 0.3445])
+2021-09-22 06:08:12,915 - trainer - INFO -     f1             : tensor([0.4797, 0.3210, 0.5562, 0.4189, 0.4503, 0.1765, 0.3620])
+2021-09-22 06:08:12,916 - trainer - INFO -     avg prec       : 0.4552583694458008
+2021-09-22 06:08:12,916 - trainer - INFO -     avg rec        : 0.3950231671333313
+2021-09-22 06:08:12,917 - trainer - INFO -     avg f1         : 0.39493459463119507
+2021-09-22 06:08:14,830 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch23.pth ...
+2021-09-22 06:25:28,993 - trainer - INFO -     epoch          : 24
+2021-09-22 06:25:28,994 - trainer - INFO -     loss           : 1.3405547654209424
+2021-09-22 06:25:28,995 - trainer - INFO -     accuracy       : 0.4923052763819096
+2021-09-22 06:25:28,996 - trainer - INFO -     top_k_acc      : 0.7036746231155779
+2021-09-22 06:25:28,996 - trainer - INFO -     val_loss       : 1.4987765407562257
+2021-09-22 06:25:28,997 - trainer - INFO -     val_accuracy   : 0.43799342105263156
+2021-09-22 06:25:28,997 - trainer - INFO -     val_top_k_acc  : 0.6443092105263157
+2021-09-22 06:25:28,999 - trainer - INFO -     conf mat       : tensor([[121.,  15.,  30.,  32.,  67.,  10.,  50.],
+        [  6.,  49.,  22.,  10.,  47.,   1.,   7.],
+        [ 14.,  19., 169.,  38.,  58.,   3.,  16.],
+        [  9.,   6.,  28., 106.,  19.,   6.,  18.],
+        [ 15.,  27.,  21.,  21., 146.,   8.,  22.],
+        [ 11.,   9.,  12.,   9.,  25.,  23.,  24.],
+        [ 29.,  23.,  23.,  23.,  49.,   9.,  82.]])
+2021-09-22 06:25:28,999 - trainer - INFO -     class prec     : tensor([0.5902, 0.3311, 0.5541, 0.4435, 0.3552, 0.3833, 0.3744])
+2021-09-22 06:25:29,000 - trainer - INFO -     class rec      : tensor([0.3723, 0.3451, 0.5331, 0.5521, 0.5615, 0.2035, 0.3445])
+2021-09-22 06:25:29,001 - trainer - INFO -     f1             : tensor([0.4566, 0.3379, 0.5434, 0.4919, 0.4352, 0.2659, 0.3589])
+2021-09-22 06:25:29,001 - trainer - INFO -     avg prec       : 0.433133065700531
+2021-09-22 06:25:29,002 - trainer - INFO -     avg rec        : 0.4160286486148834
+2021-09-22 06:25:29,002 - trainer - INFO -     avg f1         : 0.4128216803073883
+2021-09-22 06:25:30,915 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch24.pth ...
+2021-09-22 06:42:45,293 - trainer - INFO -     epoch          : 25
+2021-09-22 06:42:45,294 - trainer - INFO -     loss           : 1.3313442986814221
+2021-09-22 06:42:45,295 - trainer - INFO -     accuracy       : 0.4940326633165829
+2021-09-22 06:42:45,296 - trainer - INFO -     top_k_acc      : 0.7071293969849246
+2021-09-22 06:42:45,296 - trainer - INFO -     val_loss       : 1.4886559796333314
+2021-09-22 06:42:45,297 - trainer - INFO -     val_accuracy   : 0.4463486842105263
+2021-09-22 06:42:45,297 - trainer - INFO -     val_top_k_acc  : 0.6515789473684211
+2021-09-22 06:42:45,298 - trainer - INFO -     conf mat       : tensor([[150.,  14.,  40.,  25.,  29.,   1.,  66.],
+        [ 19.,  44.,  36.,   7.,  29.,   1.,   6.],
+        [ 16.,  21., 195.,  33.,  32.,   1.,  19.],
+        [ 13.,   5.,  38.,  98.,  10.,   4.,  24.],
+        [ 29.,  24.,  41.,  17., 109.,   5.,  35.],
+        [ 16.,   7.,  15.,  10.,  15.,  15.,  35.],
+        [ 47.,  18.,  33.,  12.,  26.,   5.,  97.]])
+2021-09-22 06:42:45,299 - trainer - INFO -     class prec     : tensor([0.5172, 0.3308, 0.4899, 0.4851, 0.4360, 0.4688, 0.3440])
+2021-09-22 06:42:45,300 - trainer - INFO -     class rec      : tensor([0.4615, 0.3099, 0.6151, 0.5104, 0.4192, 0.1327, 0.4076])
+2021-09-22 06:42:45,301 - trainer - INFO -     f1             : tensor([0.4878, 0.3200, 0.5455, 0.4975, 0.4275, 0.2069, 0.3731])
+2021-09-22 06:42:45,301 - trainer - INFO -     avg prec       : 0.43884119391441345
+2021-09-22 06:42:45,302 - trainer - INFO -     avg rec        : 0.40807047486305237
+2021-09-22 06:42:45,302 - trainer - INFO -     avg f1         : 0.4083065390586853
+2021-09-22 06:42:47,215 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch25.pth ...
+2021-09-22 07:00:00,449 - trainer - INFO -     epoch          : 26
+2021-09-22 07:00:00,449 - trainer - INFO -     loss           : 1.3331472328559837
+2021-09-22 07:00:00,451 - trainer - INFO -     accuracy       : 0.4962311557788945
+2021-09-22 07:00:00,452 - trainer - INFO -     top_k_acc      : 0.6988065326633166
+2021-09-22 07:00:00,452 - trainer - INFO -     val_loss       : 1.4933457112312316
+2021-09-22 07:00:00,453 - trainer - INFO -     val_accuracy   : 0.44694078947368415
+2021-09-22 07:00:00,453 - trainer - INFO -     val_top_k_acc  : 0.6522039473684211
+2021-09-22 07:00:00,454 - trainer - INFO -     conf mat       : tensor([[139.,  12.,  52.,  14.,  47.,   6.,  55.],
+        [ 11.,  39.,  40.,   6.,  39.,   1.,   6.],
+        [ 13.,  11., 222.,  15.,  38.,   1.,  17.],
+        [ 10.,   4.,  55.,  78.,  16.,   2.,  27.],
+        [ 18.,  18.,  54.,  11., 132.,   3.,  24.],
+        [ 14.,   9.,  19.,   4.,  24.,  16.,  27.],
+        [ 46.,  19.,  38.,   6.,  38.,   6.,  85.]])
+2021-09-22 07:00:00,455 - trainer - INFO -     class prec     : tensor([0.5538, 0.3482, 0.4625, 0.5821, 0.3952, 0.4571, 0.3527])
+2021-09-22 07:00:00,456 - trainer - INFO -     class rec      : tensor([0.4277, 0.2746, 0.7003, 0.4062, 0.5077, 0.1416, 0.3571])
+2021-09-22 07:00:00,457 - trainer - INFO -     f1             : tensor([0.4826, 0.3071, 0.5571, 0.4785, 0.4444, 0.2162, 0.3549])
+2021-09-22 07:00:00,457 - trainer - INFO -     avg prec       : 0.4502340257167816
+2021-09-22 07:00:00,458 - trainer - INFO -     avg rec        : 0.40219053626060486
+2021-09-22 07:00:00,458 - trainer - INFO -     avg f1         : 0.40584415197372437
+2021-09-22 07:00:02,375 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch26.pth ...
+2021-09-22 07:17:13,715 - trainer - INFO -     epoch          : 27
+2021-09-22 07:17:13,716 - trainer - INFO -     loss           : 1.3195221837441526
+2021-09-22 07:17:13,717 - trainer - INFO -     accuracy       : 0.49890075376884424
+2021-09-22 07:17:13,718 - trainer - INFO -     top_k_acc      : 0.7086997487437185
+2021-09-22 07:17:13,719 - trainer - INFO -     val_loss       : 1.4916017603874208
+2021-09-22 07:17:13,720 - trainer - INFO -     val_accuracy   : 0.45361842105263156
+2021-09-22 07:17:13,720 - trainer - INFO -     val_top_k_acc  : 0.6522039473684211
+2021-09-22 07:17:13,722 - trainer - INFO -     conf mat       : tensor([[177.,  10.,  42.,  17.,  39.,  13.,  27.],
+        [ 15.,  31.,  31.,   8.,  50.,   3.,   4.],
+        [ 23.,   6., 209.,  19.,  43.,   4.,  13.],
+        [ 19.,   1.,  47.,  87.,  18.,   6.,  14.],
+        [ 34.,  13.,  41.,  16., 131.,  11.,  14.],
+        [ 22.,   7.,  14.,  11.,  18.,  20.,  21.],
+        [ 67.,  10.,  35.,  20.,  30.,  10.,  66.]])
+2021-09-22 07:17:13,723 - trainer - INFO -     class prec     : tensor([0.4958, 0.3974, 0.4988, 0.4888, 0.3982, 0.2985, 0.4151])
+2021-09-22 07:17:13,724 - trainer - INFO -     class rec      : tensor([0.5446, 0.2183, 0.6593, 0.4531, 0.5038, 0.1770, 0.2773])
+2021-09-22 07:17:13,725 - trainer - INFO -     f1             : tensor([0.5191, 0.2818, 0.5679, 0.4703, 0.4448, 0.2222, 0.3325])
+2021-09-22 07:17:13,726 - trainer - INFO -     avg prec       : 0.42751187086105347
+2021-09-22 07:17:13,726 - trainer - INFO -     avg rec        : 0.4047863483428955
+2021-09-22 07:17:13,727 - trainer - INFO -     avg f1         : 0.4055175185203552
+2021-09-22 07:17:15,649 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch27.pth ...
+2021-09-22 07:34:31,374 - trainer - INFO -     epoch          : 28
+2021-09-22 07:34:31,375 - trainer - INFO -     loss           : 1.3027943480553938
+2021-09-22 07:34:31,377 - trainer - INFO -     accuracy       : 0.5045540201005025
+2021-09-22 07:34:31,377 - trainer - INFO -     top_k_acc      : 0.7108982412060302
+2021-09-22 07:34:31,378 - trainer - INFO -     val_loss       : 1.4889658427238464
+2021-09-22 07:34:31,378 - trainer - INFO -     val_accuracy   : 0.446578947368421
+2021-09-22 07:34:31,379 - trainer - INFO -     val_top_k_acc  : 0.657467105263158
+2021-09-22 07:34:31,381 - trainer - INFO -     conf mat       : tensor([[169.,  13.,  44.,  24.,  21.,  11.,  43.],
+        [ 15.,  49.,  42.,   6.,  18.,   3.,   9.],
+        [ 25.,  14., 206.,  27.,  22.,   4.,  19.],
+        [ 21.,   6.,  50.,  80.,   8.,   4.,  23.],
+        [ 38.,  20.,  56.,  14.,  94.,   8.,  30.],
+        [ 17.,  10.,  17.,   8.,  12.,  22.,  27.],
+        [ 52.,  14.,  38.,  14.,  22.,  11.,  87.]])
+2021-09-22 07:34:31,382 - trainer - INFO -     class prec     : tensor([0.5015, 0.3889, 0.4547, 0.4624, 0.4772, 0.3492, 0.3655])
+2021-09-22 07:34:31,383 - trainer - INFO -     class rec      : tensor([0.5200, 0.3451, 0.6498, 0.4167, 0.3615, 0.1947, 0.3655])
+2021-09-22 07:34:31,385 - trainer - INFO -     f1             : tensor([0.5106, 0.3657, 0.5351, 0.4384, 0.4114, 0.2500, 0.3655])
+2021-09-22 07:34:31,385 - trainer - INFO -     avg prec       : 0.42849376797676086
+2021-09-22 07:34:31,386 - trainer - INFO -     avg rec        : 0.4076220393180847
+2021-09-22 07:34:31,386 - trainer - INFO -     avg f1         : 0.4109416604042053
+2021-09-22 07:34:33,300 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch28.pth ...
+2021-09-22 07:51:46,912 - trainer - INFO -     epoch          : 29
+2021-09-22 07:51:46,913 - trainer - INFO -     loss           : 1.2996001402337347
+2021-09-22 07:51:46,914 - trainer - INFO -     accuracy       : 0.5147613065326633
+2021-09-22 07:51:46,915 - trainer - INFO -     top_k_acc      : 0.7154522613065326
+2021-09-22 07:51:46,916 - trainer - INFO -     val_loss       : 1.512317078113556
+2021-09-22 07:51:46,916 - trainer - INFO -     val_accuracy   : 0.4561513157894737
+2021-09-22 07:51:46,916 - trainer - INFO -     val_top_k_acc  : 0.6482565789473683
+2021-09-22 07:51:46,917 - trainer - INFO -     conf mat       : tensor([[174.,   7.,  24.,  12.,  57.,   9.,  42.],
+        [ 12.,  38.,  20.,   4.,  59.,   0.,   9.],
+        [ 23.,  10., 180.,  21.,  63.,   3.,  17.],
+        [ 25.,   4.,  41.,  77.,  23.,   4.,  18.],
+        [ 32.,  18.,  24.,  10., 155.,   1.,  20.],
+        [ 18.,   4.,  11.,   6.,  31.,  16.,  27.],
+        [ 60.,  10.,  30.,   7.,  42.,   6.,  83.]])
+2021-09-22 07:51:46,919 - trainer - INFO -     class prec     : tensor([0.5058, 0.4176, 0.5455, 0.5620, 0.3605, 0.4103, 0.3843])
+2021-09-22 07:51:46,919 - trainer - INFO -     class rec      : tensor([0.5354, 0.2676, 0.5678, 0.4010, 0.5962, 0.1416, 0.3487])
+2021-09-22 07:51:46,920 - trainer - INFO -     f1             : tensor([0.5202, 0.3262, 0.5564, 0.4681, 0.4493, 0.2105, 0.3656])
+2021-09-22 07:51:46,921 - trainer - INFO -     avg prec       : 0.4551250636577606
+2021-09-22 07:51:46,921 - trainer - INFO -     avg rec        : 0.40833452343940735
+2021-09-22 07:51:46,922 - trainer - INFO -     avg f1         : 0.4137570261955261
+2021-09-22 07:51:48,835 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch29.pth ...
+2021-09-22 08:09:04,373 - trainer - INFO -     epoch          : 30
+2021-09-22 08:09:04,374 - trainer - INFO -     loss           : 1.2855833789811062
+2021-09-22 08:09:04,375 - trainer - INFO -     accuracy       : 0.5147613065326633
+2021-09-22 08:09:04,376 - trainer - INFO -     top_k_acc      : 0.7217336683417085
+2021-09-22 08:09:04,377 - trainer - INFO -     val_loss       : 1.4701890563964843
+2021-09-22 08:09:04,377 - trainer - INFO -     val_accuracy   : 0.4524013157894737
+2021-09-22 08:09:04,378 - trainer - INFO -     val_top_k_acc  : 0.6584868421052632
+2021-09-22 08:09:04,379 - trainer - INFO -     conf mat       : tensor([[187.,  11.,  18.,  18.,  44.,  11.,  36.],
+        [ 28.,  44.,  15.,   5.,  44.,   1.,   5.],
+        [ 42.,  17., 163.,  28.,  50.,   2.,  15.],
+        [ 26.,   3.,  26.,  91.,  27.,   4.,  15.],
+        [ 41.,  28.,  19.,  11., 140.,   2.,  19.],
+        [ 21.,   6.,   8.,   5.,  26.,  20.,  27.],
+        [ 75.,  18.,  19.,   7.,  38.,   9.,  72.]])
+2021-09-22 08:09:04,380 - trainer - INFO -     class prec     : tensor([0.4452, 0.3465, 0.6082, 0.5515, 0.3794, 0.4082, 0.3810])
+2021-09-22 08:09:04,381 - trainer - INFO -     class rec      : tensor([0.5754, 0.3099, 0.5142, 0.4740, 0.5385, 0.1770, 0.3025])
+2021-09-22 08:09:04,382 - trainer - INFO -     f1             : tensor([0.5020, 0.3271, 0.5573, 0.5098, 0.4452, 0.2469, 0.3372])
+2021-09-22 08:09:04,382 - trainer - INFO -     avg prec       : 0.44570547342300415
+2021-09-22 08:09:04,383 - trainer - INFO -     avg rec        : 0.41305306553840637
+2021-09-22 08:09:04,383 - trainer - INFO -     avg f1         : 0.41793155670166016
+2021-09-22 08:09:06,346 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch30.pth ...
+2021-09-22 08:26:20,453 - trainer - INFO -     epoch          : 31
+2021-09-22 08:26:20,454 - trainer - INFO -     loss           : 1.2827600387472604
+2021-09-22 08:26:20,456 - trainer - INFO -     accuracy       : 0.5026695979899497
+2021-09-22 08:26:20,457 - trainer - INFO -     top_k_acc      : 0.7116834170854272
+2021-09-22 08:26:20,457 - trainer - INFO -     val_loss       : 1.5186464190483093
+2021-09-22 08:26:20,458 - trainer - INFO -     val_accuracy   : 0.44717105263157897
+2021-09-22 08:26:20,459 - trainer - INFO -     val_top_k_acc  : 0.6557565789473684
+2021-09-22 08:26:20,460 - trainer - INFO -     conf mat       : tensor([[154.,  16.,  53.,  21.,  37.,   8.,  36.],
+        [ 15.,  39.,  40.,   6.,  36.,   0.,   6.],
+        [ 16.,  14., 212.,  26.,  34.,   2.,  13.],
+        [ 15.,   6.,  50.,  91.,  14.,   3.,  13.],
+        [ 33.,  23.,  51.,  12., 120.,   4.,  17.],
+        [ 16.,  10.,  18.,  10.,  18.,  18.,  23.],
+        [ 50.,  20.,  48.,  13.,  26.,   5.,  76.]])
+2021-09-22 08:26:20,461 - trainer - INFO -     class prec     : tensor([0.5151, 0.3047, 0.4492, 0.5084, 0.4211, 0.4500, 0.4130])
+2021-09-22 08:26:20,461 - trainer - INFO -     class rec      : tensor([0.4738, 0.2746, 0.6688, 0.4740, 0.4615, 0.1593, 0.3193])
+2021-09-22 08:26:20,462 - trainer - INFO -     f1             : tensor([0.4936, 0.2889, 0.5374, 0.4906, 0.4404, 0.2353, 0.3602])
+2021-09-22 08:26:20,462 - trainer - INFO -     avg prec       : 0.43733805418014526
+2021-09-22 08:26:20,463 - trainer - INFO -     avg rec        : 0.404482901096344
+2021-09-22 08:26:20,463 - trainer - INFO -     avg f1         : 0.4066120684146881
+2021-09-22 08:26:22,376 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch31.pth ...
+2021-09-22 08:43:37,104 - trainer - INFO -     epoch          : 32
+2021-09-22 08:43:37,105 - trainer - INFO -     loss           : 1.2650920083774395
+2021-09-22 08:43:37,107 - trainer - INFO -     accuracy       : 0.520571608040201
+2021-09-22 08:43:37,107 - trainer - INFO -     top_k_acc      : 0.7256595477386935
+2021-09-22 08:43:37,108 - trainer - INFO -     val_loss       : 1.5126075220108033
+2021-09-22 08:43:37,108 - trainer - INFO -     val_accuracy   : 0.4469736842105263
+2021-09-22 08:43:37,109 - trainer - INFO -     val_top_k_acc  : 0.6513815789473684
+2021-09-22 08:43:37,111 - trainer - INFO -     conf mat       : tensor([[173.,  20.,  21.,  12.,  34.,  11.,  54.],
+        [ 18.,  70.,  13.,   1.,  34.,   0.,   6.],
+        [ 31.,  37., 155.,  26.,  37.,   3.,  28.],
+        [ 23.,   9.,  38.,  68.,  18.,   8.,  28.],
+        [ 39.,  47.,  13.,   5., 118.,   3.,  35.],
+        [ 18.,   9.,   6.,   2.,  21.,  25.,  32.],
+        [ 53.,  26.,  19.,   5.,  26.,   9., 100.]])
+2021-09-22 08:43:37,112 - trainer - INFO -     class prec     : tensor([0.4873, 0.3211, 0.5849, 0.5714, 0.4097, 0.4237, 0.3534])
+2021-09-22 08:43:37,113 - trainer - INFO -     class rec      : tensor([0.5323, 0.4930, 0.4890, 0.3542, 0.4538, 0.2212, 0.4202])
+2021-09-22 08:43:37,114 - trainer - INFO -     f1             : tensor([0.5088, 0.3889, 0.5326, 0.4373, 0.4307, 0.2907, 0.3839])
+2021-09-22 08:43:37,115 - trainer - INFO -     avg prec       : 0.4502238631248474
+2021-09-22 08:43:37,116 - trainer - INFO -     avg rec        : 0.42337775230407715
+2021-09-22 08:43:37,116 - trainer - INFO -     avg f1         : 0.4246984124183655
+2021-09-22 08:43:39,036 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch32.pth ...
+2021-09-22 09:00:49,752 - trainer - INFO -     epoch          : 33
+2021-09-22 09:00:49,753 - trainer - INFO -     loss           : 1.2554810697109855
+2021-09-22 09:00:49,754 - trainer - INFO -     accuracy       : 0.5204145728643216
+2021-09-22 09:00:49,756 - trainer - INFO -     top_k_acc      : 0.7349246231155779
+2021-09-22 09:00:49,756 - trainer - INFO -     val_loss       : 1.4870778584480286
+2021-09-22 09:00:49,757 - trainer - INFO -     val_accuracy   : 0.4511513157894737
+2021-09-22 09:00:49,758 - trainer - INFO -     val_top_k_acc  : 0.6634539473684211
+2021-09-22 09:00:49,759 - trainer - INFO -     conf mat       : tensor([[172.,  15.,  38.,  14.,  43.,  10.,  33.],
+        [ 17.,  46.,  28.,   4.,  41.,   1.,   5.],
+        [ 24.,  17., 196.,  24.,  39.,   3.,  14.],
+        [ 19.,   5.,  49.,  77.,  20.,   2.,  20.],
+        [ 28.,  35.,  37.,   9., 131.,   5.,  15.],
+        [ 20.,   8.,  15.,   4.,  20.,  22.,  24.],
+        [ 59.,  20.,  35.,   7.,  37.,   9.,  71.]])
+2021-09-22 09:00:49,761 - trainer - INFO -     class prec     : tensor([0.5074, 0.3151, 0.4925, 0.5540, 0.3958, 0.4231, 0.3901])
+2021-09-22 09:00:49,762 - trainer - INFO -     class rec      : tensor([0.5292, 0.3239, 0.6183, 0.4010, 0.5038, 0.1947, 0.2983])
+2021-09-22 09:00:49,763 - trainer - INFO -     f1             : tensor([0.5181, 0.3194, 0.5483, 0.4653, 0.4433, 0.2667, 0.3381])
+2021-09-22 09:00:49,763 - trainer - INFO -     avg prec       : 0.43968847393989563
+2021-09-22 09:00:49,764 - trainer - INFO -     avg rec        : 0.40990975499153137
+2021-09-22 09:00:49,764 - trainer - INFO -     avg f1         : 0.4141576588153839
+2021-09-22 09:00:51,679 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch33.pth ...
+2021-09-22 09:18:03,839 - trainer - INFO -     epoch          : 34
+2021-09-22 09:18:03,840 - trainer - INFO -     loss           : 1.2550307739919155
+2021-09-22 09:18:03,842 - trainer - INFO -     accuracy       : 0.5226130653266332
+2021-09-22 09:18:03,842 - trainer - INFO -     top_k_acc      : 0.7317839195979899
+2021-09-22 09:18:03,843 - trainer - INFO -     val_loss       : 1.5013234639167785
+2021-09-22 09:18:03,843 - trainer - INFO -     val_accuracy   : 0.44845394736842104
+2021-09-22 09:18:03,844 - trainer - INFO -     val_top_k_acc  : 0.6574342105263158
+2021-09-22 09:18:03,845 - trainer - INFO -     conf mat       : tensor([[188.,  10.,  23.,  15.,  46.,   7.,  36.],
+        [ 33.,  34.,  19.,   7.,  42.,   1.,   6.],
+        [ 41.,  18., 167.,  24.,  56.,   3.,   8.],
+        [ 30.,   4.,  30.,  89.,  23.,   3.,  13.],
+        [ 46.,  23.,  19.,   8., 147.,   1.,  16.],
+        [ 27.,   6.,   8.,   4.,  31.,  20.,  17.],
+        [ 72.,  14.,  25.,   8.,  48.,   6.,  65.]])
+2021-09-22 09:18:03,846 - trainer - INFO -     class prec     : tensor([0.4302, 0.3119, 0.5739, 0.5742, 0.3740, 0.4878, 0.4037])
+2021-09-22 09:18:03,847 - trainer - INFO -     class rec      : tensor([0.5785, 0.2394, 0.5268, 0.4635, 0.5654, 0.1770, 0.2731])
+2021-09-22 09:18:03,848 - trainer - INFO -     f1             : tensor([0.4934, 0.2709, 0.5493, 0.5130, 0.4502, 0.2597, 0.3258])
+2021-09-22 09:18:03,848 - trainer - INFO -     avg prec       : 0.45082664489746094
+2021-09-22 09:18:03,849 - trainer - INFO -     avg rec        : 0.4033912122249603
+2021-09-22 09:18:03,850 - trainer - INFO -     avg f1         : 0.40892139077186584
+2021-09-22 09:18:05,767 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch34.pth ...
+2021-09-22 09:35:17,920 - trainer - INFO -     epoch          : 35
+2021-09-22 09:35:17,921 - trainer - INFO -     loss           : 1.2551313596754219
+2021-09-22 09:35:17,923 - trainer - INFO -     accuracy       : 0.5353329145728644
+2021-09-22 09:35:17,924 - trainer - INFO -     top_k_acc      : 0.7319409547738693
+2021-09-22 09:35:17,925 - trainer - INFO -     val_loss       : 1.502405083179474
+2021-09-22 09:35:17,925 - trainer - INFO -     val_accuracy   : 0.4520065789473684
+2021-09-22 09:35:17,926 - trainer - INFO -     val_top_k_acc  : 0.6603947368421053
+2021-09-22 09:35:17,928 - trainer - INFO -     conf mat       : tensor([[163.,  11.,  23.,  16.,  60.,   9.,  43.],
+        [ 18.,  37.,  20.,   5.,  59.,   0.,   3.],
+        [ 22.,  16., 173.,  27.,  64.,   4.,  11.],
+        [ 22.,   2.,  28.,  87.,  32.,   5.,  16.],
+        [ 23.,  24.,  19.,  12., 164.,   3.,  15.],
+        [ 19.,   4.,  12.,   5.,  35.,  21.,  17.],
+        [ 57.,  15.,  27.,   9.,  55.,   5.,  70.]])
+2021-09-22 09:35:17,929 - trainer - INFO -     class prec     : tensor([0.5031, 0.3394, 0.5728, 0.5404, 0.3497, 0.4468, 0.4000])
+2021-09-22 09:35:17,930 - trainer - INFO -     class rec      : tensor([0.5015, 0.2606, 0.5457, 0.4531, 0.6308, 0.1858, 0.2941])
+2021-09-22 09:35:17,931 - trainer - INFO -     f1             : tensor([0.5023, 0.2948, 0.5590, 0.4929, 0.4499, 0.2625, 0.3390])
+2021-09-22 09:35:17,932 - trainer - INFO -     avg prec       : 0.4503207206726074
+2021-09-22 09:35:17,932 - trainer - INFO -     avg rec        : 0.4102422595024109
+2021-09-22 09:35:17,933 - trainer - INFO -     avg f1         : 0.41434723138809204
+2021-09-22 09:35:19,851 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch35.pth ...
+2021-09-22 09:52:31,494 - trainer - INFO -     epoch          : 36
+2021-09-22 09:52:31,495 - trainer - INFO -     loss           : 1.22678640889163
+2021-09-22 09:52:31,496 - trainer - INFO -     accuracy       : 0.5285804020100503
+2021-09-22 09:52:31,497 - trainer - INFO -     top_k_acc      : 0.7350816582914573
+2021-09-22 09:52:31,497 - trainer - INFO -     val_loss       : 1.5394634485244751
+2021-09-22 09:52:31,497 - trainer - INFO -     val_accuracy   : 0.4450657894736842
+2021-09-22 09:52:31,498 - trainer - INFO -     val_top_k_acc  : 0.6592763157894737
+2021-09-22 09:52:31,499 - trainer - INFO -     conf mat       : tensor([[154.,   8.,  33.,  11.,  62.,  20.,  37.],
+        [ 10.,  33.,  26.,   1.,  58.,   6.,   8.],
+        [ 22.,  11., 194.,  16.,  57.,   4.,  13.],
+        [ 25.,   4.,  44.,  67.,  30.,   5.,  17.],
+        [ 19.,  19.,  25.,   6., 167.,   6.,  18.],
+        [ 14.,   4.,  11.,   3.,  36.,  23.,  22.],
+        [ 47.,  11.,  30.,   5.,  61.,  14.,  70.]])
+2021-09-22 09:52:31,500 - trainer - INFO -     class prec     : tensor([0.5292, 0.3667, 0.5344, 0.6147, 0.3546, 0.2949, 0.3784])
+2021-09-22 09:52:31,500 - trainer - INFO -     class rec      : tensor([0.4738, 0.2324, 0.6120, 0.3490, 0.6423, 0.2035, 0.2941])
+2021-09-22 09:52:31,501 - trainer - INFO -     f1             : tensor([0.5000, 0.2845, 0.5706, 0.4452, 0.4569, 0.2408, 0.3310])
+2021-09-22 09:52:31,501 - trainer - INFO -     avg prec       : 0.43897220492362976
+2021-09-22 09:52:31,502 - trainer - INFO -     avg rec        : 0.40102165937423706
+2021-09-22 09:52:31,502 - trainer - INFO -     avg f1         : 0.4041385054588318
+2021-09-22 09:52:35,876 - trainer - INFO - Saving checkpoint: results/slow_r50/0921_233110/models/checkpoint-epoch36.pth ...
+2021-09-22 10:09:47,276 - trainer - INFO -     epoch          : 37
+2021-09-22 10:09:47,277 - trainer - INFO -     loss           : 1.2375880051497838
+2021-09-22 10:09:47,280 - trainer - INFO -     accuracy       : 0.5315640703517588
+2021-09-22 10:09:47,281 - trainer - INFO -     top_k_acc      : 0.7419912060301508
+2021-09-22 10:09:47,282 - trainer - INFO -     val_loss       : 1.526871256828308
+2021-09-22 10:09:47,283 - trainer - INFO -     val_accuracy   : 0.452171052631579
+2021-09-22 10:09:47,285 - trainer - INFO -     val_top_k_acc  : 0.6657565789473684
+2021-09-22 10:09:47,286 - trainer - INFO -     conf mat       : tensor([[158.,   9.,  37.,  20.,  39.,   8.,  54.],
+        [ 21.,  30.,  32.,   7.,  42.,   2.,   8.],
+        [ 24.,   8., 207.,  19.,  32.,   2.,  25.],
+        [ 16.,   2.,  47.,  86.,  16.,   4.,  21.],
+        [ 31.,  21.,  37.,  17., 122.,   2.,  30.],
+        [ 18.,   5.,  12.,   8.,  18.,  21.,  31.],
+        [ 46.,  13.,  31.,  14.,  34.,   6.,  94.]])
+2021-09-22 10:09:47,288 - trainer - INFO -     class prec     : tensor([0.5032, 0.3409, 0.5136, 0.5029, 0.4026, 0.4667, 0.3574])
+2021-09-22 10:09:47,290 - trainer - INFO -     class rec      : tensor([0.4862, 0.2113, 0.6530, 0.4479, 0.4692, 0.1858, 0.3950])
+2021-09-22 10:09:47,292 - trainer - INFO -     f1             : tensor([0.4945, 0.2609, 0.5750, 0.4738, 0.4334, 0.2658, 0.3752])
+2021-09-22 10:09:47,294 - trainer - INFO -     avg prec       : 0.4410552680492401
+2021-09-22 10:09:47,295 - trainer - INFO -     avg rec        : 0.40690919756889343
+2021-09-22 10:09:47,297 - trainer - INFO -     avg f1         : 0.41124090552330017
+2021-09-22 10:09:47,298 - trainer - INFO - Validation performance didn't improve for 20 epochs. Training stops.

@@ -1,0 +1,67 @@
+{
+    "name": "r50hands",
+    "n_gpu": 4,
+
+    "arch_image": {
+        "type": "ImageModel",
+        "args": {
+            "model_name": "im_resnet50",
+            "num_categories": 7,
+            "tune_layers": 32,
+            "class_layer": "image"
+        }
+    },
+    "arch_hand": {
+        "type": "ImageModel",
+        "args": {
+            "model_name": "im_resnet50",
+            "num_categories": 7,
+            "tune_layers": 32,
+            "class_layer": "image"
+        }
+    },
+    "data_loader": {
+        "type": "HybridDataLoader",
+        "args":{
+            "csv_dir" : "data/our_dataset/own_grasp_labelsV2.csv",
+            "data_dir": "/home/victor.sendinog/data-local/Videos-GoPro/",
+            "batch_size": 32,
+            "categories": "SmallCategories",
+            "shuffle": true,
+            "validation_split": 1.0,
+            "num_workers": 2,
+	    "num_frames": 8
+        }
+    },
+    "optimizer": {
+        "type": "Adam",
+        "args":{
+            "lr": 0.0001,
+            "weight_decay": 0,
+            "amsgrad": true
+        }
+    },
+    "loss": "cross_entropy_loss",
+    "metrics": [
+        "accuracy", "top_k_acc"
+    ],
+    "lr_scheduler": {
+        "type": "StepLR",
+        "args": {
+            "step_size": 50,
+            "gamma": 0.1
+        }
+    },
+    "trainer": {
+        "epochs": 100,
+
+        "save_dir": "results/",
+        "save_period": 5,
+        "verbosity": 2,
+
+        "monitor": "min val_loss",
+        "early_stop": 10,
+
+        "tensorboard": true
+    }
+}

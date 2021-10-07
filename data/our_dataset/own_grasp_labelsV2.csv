@@ -1,0 +1,601 @@
+ID,Video,StartFrame,EndFrame,PIP,SmallCategories,BigCategories,Stance,Object
+1,GH012471.MP4,479,722,Precision,pre-pinch,pre-prismatic,Stand,Beer bottle
+2,GH012471.MP4,890,1170,Precision,pre-pinch,pre-prismatic,Stand,Beer bottle
+3,GH012471.MP4,1315,1483,Precision,pre-pinch,pre-prismatic,Stand,Beer bottle
+4,GH012471.MP4,1713,2053,Precision,pre-pinch,pre-prismatic,Stand,Beer bottle
+5,GH012471.MP4,2241,2477,Precision,pre-pinch,pre-prismatic,Stand,Beer bottle
+6,GH012471.MP4,2711,2856,Precision,pre-pinch,pre-prismatic,Stand,Beer bottle
+7,GH012471.MP4,3029,3195,Precision,pre-pinch,pre-prismatic,Stand,Beer bottle
+8,GH012471.MP4,3369,3596,Precision,pre-pinch,pre-prismatic,Stand,Beer bottle
+9,GH012471.MP4,3703,3860,Precision,pre-pinch,pre-prismatic,Stand,Beer bottle
+10,GH012471.MP4,4016,4199,Precision,pre-pinch,pre-prismatic,Stand,Beer bottle
+11,GH012472.MP4,490,758,Precision,pre-prismatic,pre-prismatic,Stand,Beer bottle
+12,GH012472.MP4,902,1298,Precision,pre-prismatic,pre-prismatic,Stand,Beer bottle
+13,GH012472.MP4,1414,1647,Precision,pre-prismatic,pre-prismatic,Stand,Beer bottle
+14,GH012472.MP4,1823,2124,Precision,pre-prismatic,pre-prismatic,Stand,Beer bottle
+15,GH012472.MP4,2284,2498,Precision,pre-prismatic,pre-prismatic,Stand,Beer bottle
+16,GH012472.MP4,2596,2916,Precision,pre-prismatic,pre-prismatic,Stand,Beer bottle
+17,GH012472.MP4,3093,3313,Precision,pre-prismatic,pre-prismatic,Stand,Beer bottle
+18,GH012472.MP4,3473,3751,Precision,pre-prismatic,pre-prismatic,Stand,Beer bottle
+19,GH012472.MP4,3825,4238,Precision,pre-prismatic,pre-prismatic,Stand,Beer bottle
+20,GH012472.MP4,4420,4888,Precision,pre-prismatic,pre-prismatic,Stand,Beer bottle
+21,GH012473.MP4,610,825,Power,pow-cylindric,pow-prismatic,Stand,Beer bottle
+22,GH012473.MP4,960,1260,Power,pow-cylindric,pow-prismatic,Stand,Beer bottle
+23,GH012473.MP4,1401,1660,Power,pow-cylindric,pow-prismatic,Stand,Beer bottle
+24,GH012473.MP4,1788,2101,Power,pow-cylindric,pow-prismatic,Stand,Beer bottle
+25,GH012473.MP4,2215,2512,Power,pow-cylindric,pow-prismatic,Stand,Beer bottle
+26,GH012473.MP4,2571,3088,Power,pow-cylindric,pow-prismatic,Stand,Beer bottle
+27,GH012473.MP4,3233,3461,Power,pow-cylindric,pow-prismatic,Stand,Beer bottle
+28,GH012473.MP4,3641,3976,Power,pow-cylindric,pow-prismatic,Stand,Beer bottle
+29,GH012473.MP4,4090,4376,Power,pow-cylindric,pow-prismatic,Stand,Beer bottle
+30,GH012473.MP4,4562,4808,Power,pow-cylindric,pow-prismatic,Stand,Beer bottle
+31,GH012474.MP4,508,731,Precision,pre-circular,circular,Stand,Beer bottle
+32,GH012474.MP4,922,1209,Precision,pre-circular,circular,Stand,Beer bottle
+33,GH012474.MP4,1337,1569,Precision,pre-circular,circular,Stand,Beer bottle
+34,GH012474.MP4,1799,2046,Precision,pre-circular,circular,Stand,Beer bottle
+35,GH012474.MP4,2240,2455,Precision,pre-circular,circular,Stand,Beer bottle
+36,GH012474.MP4,2666,2888,Precision,pre-circular,circular,Stand,Beer bottle
+37,GH012474.MP4,3089,3268,Precision,pre-circular,circular,Stand,Beer bottle
+38,GH012474.MP4,3477,3819,Precision,pre-circular,circular,Stand,Beer bottle
+39,GH012474.MP4,4031,4328,Precision,pre-circular,circular,Stand,Beer bottle
+40,GH012474.MP4,4539,4733,Precision,pre-circular,circular,Stand,Beer bottle
+41,GH012476.MP4,376,606,Precision,pre-pinch,pre-prismatic,Stand,Apple
+42,GH012476.MP4,731,944,Precision,pre-pinch,pre-prismatic,Stand,Apple
+43,GH012476.MP4,1065,1493,Precision,pre-pinch,pre-prismatic,Stand,Apple
+44,GH012476.MP4,1616,1987,Precision,pre-pinch,pre-prismatic,Stand,Apple
+45,GH012476.MP4,2137,2430,Precision,pre-pinch,pre-prismatic,Stand,Apple
+46,GH012476.MP4,2511,2799,Precision,pre-pinch,pre-prismatic,Stand,Apple
+47,GH012476.MP4,2945,3151,Precision,pre-pinch,pre-prismatic,Stand,Apple
+48,GH012476.MP4,3246,3594,Precision,pre-pinch,pre-prismatic,Stand,Apple
+49,GH012476.MP4,3725,3933,Precision,pre-pinch,pre-prismatic,Stand,Apple
+50,GH012476.MP4,4033,4259,Precision,pre-pinch,pre-prismatic,Stand,Apple
+51,GH012477.MP4,386,567,Power,pow-circular,circular,Stand,Apple
+52,GH012477.MP4,689,860,Power,pow-circular,circular,Stand,Apple
+53,GH012477.MP4,1009,1305,Power,pow-circular,circular,Stand,Apple
+54,GH012477.MP4,1427,1774,Power,pow-circular,circular,Stand,Apple
+55,GH012477.MP4,1876,2259,Power,pow-circular,circular,Stand,Apple
+56,GH012477.MP4,2382,2658,Power,pow-circular,circular,Stand,Apple
+57,GH012477.MP4,2787,3078,Power,pow-circular,circular,Stand,Apple
+58,GH012477.MP4,3218,3424,Power,pow-circular,circular,Stand,Apple
+59,GH012477.MP4,3547,3810,Power,pow-circular,circular,Stand,Apple
+60,GH012477.MP4,3927,4176,Power,pow-circular,circular,Stand,Apple
+61,GH012478.MP4,362,569,Power,pow-cylindric,pow-prismatic,Stand,Apple
+62,GH012478.MP4,762,1004,Power,pow-cylindric,pow-prismatic,Stand,Apple
+63,GH012478.MP4,1165,1389,Power,pow-cylindric,pow-prismatic,Stand,Apple
+64,GH012478.MP4,1469,1926,Power,pow-cylindric,pow-prismatic,Stand,Apple
+65,GH012478.MP4,2019,2381,Power,pow-cylindric,pow-prismatic,Stand,Apple
+66,GH012478.MP4,2446,2799,Power,pow-cylindric,pow-prismatic,Stand,Apple
+67,GH012478.MP4,2905,3192,Power,pow-cylindric,pow-prismatic,Stand,Apple
+68,GH012478.MP4,3340,3621,Power,pow-cylindric,pow-prismatic,Stand,Apple
+69,GH012478.MP4,3746,3946,Power,pow-cylindric,pow-prismatic,Stand,Apple
+70,GH012478.MP4,4163,4420,Power,pow-cylindric,pow-prismatic,Stand,Apple
+71,GH012479.MP4,282,501,Precision,pre-pinch,pre-prismatic,Stand,Pen
+72,GH012479.MP4,618,882,Precision,pre-pinch,pre-prismatic,Stand,Pen
+73,GH012479.MP4,1027,1223,Precision,pre-pinch,pre-prismatic,Stand,Pen
+74,GH012479.MP4,1312,1618,Precision,pre-pinch,pre-prismatic,Stand,Pen
+75,GH012479.MP4,1732,2031,Precision,pre-pinch,pre-prismatic,Stand,Pen
+76,GH012479.MP4,2130,2455,Precision,pre-pinch,pre-prismatic,Stand,Pen
+77,GH012479.MP4,2728,2994,Precision,pre-pinch,pre-prismatic,Stand,Pen
+78,GH012479.MP4,3110,3360,Precision,pre-pinch,pre-prismatic,Stand,Pen
+79,GH012479.MP4,3503,3763,Precision,pre-pinch,pre-prismatic,Stand,Pen
+80,GH012479.MP4,3896,4115,Precision,pre-pinch,pre-prismatic,Stand,Pen
+81,GH012480.MP4,330,565,Precision,pre-prismatic,pre-prismatic,Stand,Pen
+82,GH012480.MP4,690,1012,Precision,pre-prismatic,pre-prismatic,Stand,Pen
+83,GH012480.MP4,1142,1402,Precision,pre-prismatic,pre-prismatic,Stand,Pen
+84,GH012480.MP4,1532,1937,Precision,pre-prismatic,pre-prismatic,Stand,Pen
+85,GH012480.MP4,2065,2358,Precision,pre-prismatic,pre-prismatic,Stand,Pen
+86,GH012480.MP4,2455,2669,Precision,pre-prismatic,pre-prismatic,Stand,Pen
+87,GH012480.MP4,2853,3045,Precision,pre-prismatic,pre-prismatic,Stand,Pen
+88,GH012480.MP4,3273,3496,Precision,pre-prismatic,pre-prismatic,Stand,Pen
+89,GH012480.MP4,3648,3837,Precision,pre-prismatic,pre-prismatic,Stand,Pen
+90,GH012480.MP4,4021,4335,Precision,pre-prismatic,pre-prismatic,Stand,Pen
+91,GH012481.MP4,485,846,Intermediate,int-lateral,int-lateral,Stand,Pen
+92,GH012481.MP4,950,1621,Intermediate,int-lateral,int-lateral,Stand,Pen
+93,GH012481.MP4,1700,1992,Intermediate,int-lateral,int-lateral,Stand,Pen
+94,GH012481.MP4,2115,2491,Intermediate,int-lateral,int-lateral,Stand,Pen
+95,GH012481.MP4,2586,2924,Intermediate,int-lateral,int-lateral,Stand,Pen
+96,GH012481.MP4,3017,3332,Intermediate,int-lateral,int-lateral,Stand,Pen
+97,GH012481.MP4,3439,3956,Intermediate,int-lateral,int-lateral,Stand,Pen
+98,GH012481.MP4,4088,4371,Intermediate,int-lateral,int-lateral,Stand,Pen
+99,GH012481.MP4,4472,4756,Intermediate,int-lateral,int-lateral,Stand,Pen
+100,GH012481.MP4,4858,5065,Intermediate,int-lateral,int-lateral,Stand,Pen
+101,GH012482.MP4,333,535,Precision,pre-circular,circular,Stand,Coffee mug
+102,GH012482.MP4,700,934,Precision,pre-circular,circular,Stand,Coffee mug
+103,GH012482.MP4,1105,1416,Precision,pre-circular,circular,Stand,Coffee mug
+104,GH012482.MP4,1553,1853,Precision,pre-circular,circular,Stand,Coffee mug
+105,GH012482.MP4,2000,2316,Precision,pre-circular,circular,Stand,Coffee mug
+106,GH012482.MP4,2494,2743,Precision,pre-circular,circular,Stand,Coffee mug
+107,GH012482.MP4,2867,3180,Precision,pre-circular,circular,Stand,Coffee mug
+108,GH012482.MP4,3278,3654,Precision,pre-circular,circular,Stand,Coffee mug
+109,GH012482.MP4,3794,4169,Precision,pre-circular,circular,Stand,Coffee mug
+110,GH012482.MP4,4250,4552,Precision,pre-circular,circular,Stand,Coffee mug
+111,GH012483.MP4,389,617,Precision,pre-prismatic,pre-prismatic,Stand,Coffee mug
+112,GH012483.MP4,725,905,Precision,pre-prismatic,pre-prismatic,Stand,Coffee mug
+113,GH012483.MP4,1057,1309,Precision,pre-prismatic,pre-prismatic,Stand,Coffee mug
+114,GH012483.MP4,1413,1869,Precision,pre-prismatic,pre-prismatic,Stand,Coffee mug
+115,GH012483.MP4,1984,2350,Precision,pre-prismatic,pre-prismatic,Stand,Coffee mug
+116,GH012483.MP4,2452,2840,Precision,pre-prismatic,pre-prismatic,Stand,Coffee mug
+117,GH012483.MP4,2961,3425,Precision,pre-prismatic,pre-prismatic,Stand,Coffee mug
+118,GH012483.MP4,3547,3949,Precision,pre-prismatic,pre-prismatic,Stand,Coffee mug
+119,GH012483.MP4,4099,4484,Precision,pre-prismatic,pre-prismatic,Stand,Coffee mug
+120,GH012483.MP4,4642,4960,Precision,pre-prismatic,pre-prismatic,Stand,Coffee mug
+121,GH012484.MP4,373,602,Precision,pre-pinch,pre-prismatic,Stand,Coffee mug
+122,GH012484.MP4,771,1021,Precision,pre-pinch,pre-prismatic,Stand,Coffee mug
+123,GH012484.MP4,1194,1451,Precision,pre-pinch,pre-prismatic,Stand,Coffee mug
+124,GH012484.MP4,1561,1897,Precision,pre-pinch,pre-prismatic,Stand,Coffee mug
+125,GH012484.MP4,2020,2358,Precision,pre-pinch,pre-prismatic,Stand,Coffee mug
+126,GH012484.MP4,2441,2868,Precision,pre-pinch,pre-prismatic,Stand,Coffee mug
+127,GH012484.MP4,3013,3406,Precision,pre-pinch,pre-prismatic,Stand,Coffee mug
+128,GH012484.MP4,3614,3939,Precision,pre-pinch,pre-prismatic,Stand,Coffee mug
+129,GH012484.MP4,4102,4372,Precision,pre-pinch,pre-prismatic,Stand,Coffee mug
+130,GH012484.MP4,4659,4937,Precision,pre-pinch,pre-prismatic,Stand,Coffee mug
+131,GH012485.MP4,314,541,Power,pow-cylindric,pow-prismatic,Stand,Coffee mug
+132,GH012485.MP4,731,964,Power,pow-cylindric,pow-prismatic,Stand,Coffee mug
+133,GH012485.MP4,1045,1463,Power,pow-cylindric,pow-prismatic,Stand,Coffee mug
+134,GH012485.MP4,1617,2031,Power,pow-cylindric,pow-prismatic,Stand,Coffee mug
+135,GH012485.MP4,2150,2635,Power,pow-cylindric,pow-prismatic,Stand,Coffee mug
+136,GH012485.MP4,3079,3416,Power,pow-cylindric,pow-prismatic,Stand,Coffee mug
+137,GH012485.MP4,3526,3849,Power,pow-cylindric,pow-prismatic,Stand,Coffee mug
+138,GH012485.MP4,3971,4273,Power,pow-cylindric,pow-prismatic,Stand,Coffee mug
+139,GH012485.MP4,4454,4791,Power,pow-cylindric,pow-prismatic,Stand,Coffee mug
+140,GH012485.MP4,4951,5273,Power,pow-cylindric,pow-prismatic,Stand,Coffee mug
+141,GH012486.MP4,376,598,Precision,pre-pinch,pre-prismatic,Stand,Tape
+142,GH012486.MP4,816,1031,Precision,pre-pinch,pre-prismatic,Stand,Tape
+143,GH012486.MP4,1178,1483,Precision,pre-pinch,pre-prismatic,Stand,Tape
+144,GH012486.MP4,1571,1947,Precision,pre-pinch,pre-prismatic,Stand,Tape
+145,GH012486.MP4,2076,2383,Precision,pre-pinch,pre-prismatic,Stand,Tape
+146,GH012486.MP4,2485,2737,Precision,pre-pinch,pre-prismatic,Stand,Tape
+147,GH012486.MP4,2876,3127,Precision,pre-pinch,pre-prismatic,Stand,Tape
+148,GH012486.MP4,3286,3525,Precision,pre-pinch,pre-prismatic,Stand,Tape
+149,GH012486.MP4,3658,3986,Precision,pre-pinch,pre-prismatic,Stand,Tape
+150,GH012486.MP4,4093,4333,Precision,pre-pinch,pre-prismatic,Stand,Tape
+151,GH012487.MP4,408,588,Precision,pre-circular,circular,Stand,Tape
+152,GH012487.MP4,774,981,Precision,pre-circular,circular,Stand,Tape
+153,GH012487.MP4,1086,1376,Precision,pre-circular,circular,Stand,Tape
+154,GH012487.MP4,1491,1731,Precision,pre-circular,circular,Stand,Tape
+155,GH012487.MP4,1915,2140,Precision,pre-circular,circular,Stand,Tape
+156,GH012487.MP4,2263,2621,Precision,pre-circular,circular,Stand,Tape
+157,GH012487.MP4,2764,2974,Precision,pre-circular,circular,Stand,Tape
+158,GH012487.MP4,3167,3378,Precision,pre-circular,circular,Stand,Tape
+159,GH012487.MP4,3579,3948,Precision,pre-circular,circular,Stand,Tape
+160,GH012487.MP4,4061,4295,Precision,pre-circular,circular,Stand,Tape
+161,GH012488.MP4,456,657,Precision,pre-prismatic,pre-prismatic,Stand,Tape
+162,GH012488.MP4,789,1038,Precision,pre-prismatic,pre-prismatic,Stand,Tape
+163,GH012488.MP4,1240,1468,Precision,pre-prismatic,pre-prismatic,Stand,Tape
+164,GH012488.MP4,1564,1918,Precision,pre-prismatic,pre-prismatic,Stand,Tape
+165,GH012488.MP4,2058,2476,Precision,pre-prismatic,pre-prismatic,Stand,Tape
+166,GH012488.MP4,2592,2844,Precision,pre-prismatic,pre-prismatic,Stand,Tape
+167,GH012488.MP4,2988,3321,Precision,pre-prismatic,pre-prismatic,Stand,Tape
+168,GH012488.MP4,3424,3718,Precision,pre-prismatic,pre-prismatic,Stand,Tape
+169,GH012488.MP4,3916,4198,Precision,pre-prismatic,pre-prismatic,Stand,Tape
+170,GH012488.MP4,4343,4654,Precision,pre-prismatic,pre-prismatic,Stand,Tape
+171,GH012489.MP4,549,812,Precision,pre-pinch,pre-prismatic,Stand,Foam pig
+172,GH012489.MP4,1002,1212,Precision,pre-pinch,pre-prismatic,Stand,Foam pig
+173,GH012489.MP4,1390,1590,Precision,pre-pinch,pre-prismatic,Stand,Foam pig
+174,GH012489.MP4,1677,1995,Precision,pre-pinch,pre-prismatic,Stand,Foam pig
+175,GH012489.MP4,2147,2419,Precision,pre-pinch,pre-prismatic,Stand,Foam pig
+176,GH012489.MP4,2667,2886,Precision,pre-pinch,pre-prismatic,Stand,Foam pig
+177,GH012489.MP4,3360,3589,Precision,pre-pinch,pre-prismatic,Stand,Foam pig
+178,GH012489.MP4,3815,4215,Precision,pre-pinch,pre-prismatic,Stand,Foam pig
+179,GH012489.MP4,4502,4782,Precision,pre-pinch,pre-prismatic,Stand,Foam pig
+180,GH012489.MP4,4901,5141,Precision,pre-pinch,pre-prismatic,Stand,Foam pig
+181,GH012490.MP4,348,534,Power,pow-circular,circular,Stand,Foam pig
+182,GH012490.MP4,687,963,Power,pow-circular,circular,Stand,Foam pig
+183,GH012490.MP4,1104,1349,Power,pow-circular,circular,Stand,Foam pig
+184,GH012490.MP4,1545,1790,Power,pow-circular,circular,Stand,Foam pig
+185,GH012490.MP4,1927,2236,Power,pow-circular,circular,Stand,Foam pig
+186,GH012490.MP4,2386,2632,Power,pow-circular,circular,Stand,Foam pig
+187,GH012490.MP4,2823,3061,Power,pow-circular,circular,Stand,Foam pig
+188,GH012490.MP4,3262,3521,Power,pow-circular,circular,Stand,Foam pig
+189,GH012490.MP4,3711,3961,Power,pow-circular,circular,Stand,Foam pig
+190,GH012490.MP4,4065,4492,Power,pow-circular,circular,Stand,Foam pig
+191,GH012491.MP4,357,567,Precision,pre-circular,circular,Stand,Foam pig
+192,GH012491.MP4,736,946,Precision,pre-circular,circular,Stand,Foam pig
+193,GH012491.MP4,1140,1348,Precision,pre-circular,circular,Stand,Foam pig
+194,GH012491.MP4,1571,1750,Precision,pre-circular,circular,Stand,Foam pig
+195,GH012491.MP4,2370,2568,Precision,pre-circular,circular,Stand,Foam pig
+196,GH012491.MP4,2867,3050,Precision,pre-circular,circular,Stand,Foam pig
+197,GH012491.MP4,3215,3381,Precision,pre-circular,circular,Stand,Foam pig
+198,GH012491.MP4,3475,4034,Precision,pre-circular,circular,Stand,Foam pig
+199,GH012491.MP4,4174,4448,Precision,pre-circular,circular,Stand,Foam pig
+200,GH012491.MP4,4644,5075,Precision,pre-circular,circular,Stand,Foam pig
+201,GH012492.MP4,363,587,Precision,pre-pinch,pre-prismatic,Stand,Ceramic plate
+202,GH012492.MP4,734,1035,Precision,pre-pinch,pre-prismatic,Stand,Ceramic plate
+203,GH012492.MP4,1243,1531,Precision,pre-pinch,pre-prismatic,Stand,Ceramic plate
+204,GH012492.MP4,1675,1993,Precision,pre-pinch,pre-prismatic,Stand,Ceramic plate
+205,GH012492.MP4,2165,2488,Precision,pre-pinch,pre-prismatic,Stand,Ceramic plate
+206,GH012492.MP4,2618,3037,Precision,pre-pinch,pre-prismatic,Stand,Ceramic plate
+207,GH012492.MP4,3150,3402,Precision,pre-pinch,pre-prismatic,Stand,Ceramic plate
+208,GH012492.MP4,3679,3991,Precision,pre-pinch,pre-prismatic,Stand,Ceramic plate
+209,GH012492.MP4,4163,4377,Precision,pre-pinch,pre-prismatic,Stand,Ceramic plate
+210,GH012492.MP4,4552,4869,Precision,pre-pinch,pre-prismatic,Stand,Ceramic plate
+211,GH012493.MP4,369,579,Power,pow-circular,circular,Stand,Ceramic plate
+212,GH012493.MP4,740,1112,Power,pow-circular,circular,Stand,Ceramic plate
+213,GH012493.MP4,1266,1660,Power,pow-circular,circular,Stand,Ceramic plate
+214,GH012493.MP4,1783,2139,Power,pow-circular,circular,Stand,Ceramic plate
+215,GH012493.MP4,2257,2606,Power,pow-circular,circular,Stand,Ceramic plate
+216,GH012493.MP4,2714,2937,Power,pow-circular,circular,Stand,Ceramic plate
+217,GH012493.MP4,3055,3226,Power,pow-circular,circular,Stand,Ceramic plate
+218,GH012493.MP4,3395,3600,Power,pow-circular,circular,Stand,Ceramic plate
+219,GH012493.MP4,3774,4095,Power,pow-circular,circular,Stand,Ceramic plate
+220,GH012493.MP4,4328,4575,Power,pow-circular,circular,Stand,Ceramic plate
+221,GH012494.MP4,417,751,Precision,pre-pinch,pre-prismatic,Stand,Cable
+222,GH012494.MP4,868,1194,Precision,pre-pinch,pre-prismatic,Stand,Cable
+223,GH012494.MP4,1363,1741,Precision,pre-pinch,pre-prismatic,Stand,Cable
+224,GH012494.MP4,1844,2149,Precision,pre-pinch,pre-prismatic,Stand,Cable
+225,GH012494.MP4,2315,2559,Precision,pre-pinch,pre-prismatic,Stand,Cable
+226,GH012494.MP4,2720,2976,Precision,pre-pinch,pre-prismatic,Stand,Cable
+227,GH012494.MP4,3112,3349,Precision,pre-pinch,pre-prismatic,Stand,Cable
+228,GH012494.MP4,3475,3712,Precision,pre-pinch,pre-prismatic,Stand,Cable
+229,GH012494.MP4,3868,4163,Precision,pre-pinch,pre-prismatic,Stand,Cable
+230,GH012494.MP4,4274,4612,Precision,pre-pinch,pre-prismatic,Stand,Cable
+231,GH012495.MP4,355,588,Power,pow-cylindric,pow-prismatic,Stand,Beer Can
+232,GH012495.MP4,693,1198,Power,pow-cylindric,pow-prismatic,Stand,Beer Can
+233,GH012495.MP4,1290,1700,Power,pow-cylindric,pow-prismatic,Stand,Beer Can
+234,GH012495.MP4,1811,2280,Power,pow-cylindric,pow-prismatic,Stand,Beer Can
+235,GH012495.MP4,2452,2763,Power,pow-cylindric,pow-prismatic,Stand,Beer Can
+236,GH012495.MP4,2873,3212,Power,pow-cylindric,pow-prismatic,Stand,Beer Can
+237,GH012495.MP4,3363,3704,Power,pow-cylindric,pow-prismatic,Stand,Beer Can
+238,GH012495.MP4,3823,4151,Power,pow-cylindric,pow-prismatic,Stand,Beer Can
+239,GH012495.MP4,4326,4556,Power,pow-cylindric,pow-prismatic,Stand,Beer Can
+240,GH012495.MP4,4672,4991,Power,pow-cylindric,pow-prismatic,Stand,Beer Can
+241,GH012496.MP4,321,552,Power,pow-circular,circular,Stand,Beer Can
+242,GH012496.MP4,707,911,Power,pow-circular,circular,Stand,Beer Can
+243,GH012496.MP4,1045,1243,Power,pow-circular,circular,Stand,Beer Can
+244,GH012496.MP4,1437,1813,Power,pow-circular,circular,Stand,Beer Can
+245,GH012496.MP4,1963,2250,Power,pow-circular,circular,Stand,Beer Can
+246,GH012496.MP4,2403,2746,Power,pow-circular,circular,Stand,Beer Can
+247,GH012496.MP4,2900,3171,Power,pow-circular,circular,Stand,Beer Can
+248,GH012496.MP4,3338,3628,Power,pow-circular,circular,Stand,Beer Can
+249,GH012496.MP4,3841,4148,Power,pow-circular,circular,Stand,Beer Can
+250,GH012496.MP4,4312,4822,Power,pow-circular,circular,Stand,Beer Can
+251,GH012497.MP4,323,533,Precision,pre-pinch,pre-prismatic,Stand,Coffee paper
+252,GH012497.MP4,678,920,Precision,pre-pinch,pre-prismatic,Stand,Coffee paper
+253,GH012497.MP4,1059,1422,Precision,pre-pinch,pre-prismatic,Stand,Coffee paper
+254,GH012497.MP4,1557,1940,Precision,pre-pinch,pre-prismatic,Stand,Coffee paper
+255,GH012497.MP4,2039,2311,Precision,pre-pinch,pre-prismatic,Stand,Coffee paper
+256,GH012497.MP4,2449,2720,Precision,pre-pinch,pre-prismatic,Stand,Coffee paper
+257,GH012497.MP4,2935,3153,Precision,pre-pinch,pre-prismatic,Stand,Coffee paper
+258,GH012497.MP4,3322,3578,Precision,pre-pinch,pre-prismatic,Stand,Coffee paper
+259,GH012497.MP4,3690,4011,Precision,pre-pinch,pre-prismatic,Stand,Coffee paper
+260,GH012497.MP4,4103,4416,Precision,pre-pinch,pre-prismatic,Stand,Coffee paper
+261,GH012498.MP4,307,489,Power,pow-circular,circular,Stand,Coffee paper
+262,GH012498.MP4,708,928,Power,pow-circular,circular,Stand,Coffee paper
+263,GH012498.MP4,1138,1341,Power,pow-circular,circular,Stand,Coffee paper
+264,GH012498.MP4,1563,1788,Power,pow-circular,circular,Stand,Coffee paper
+265,GH012498.MP4,1981,2178,Power,pow-circular,circular,Stand,Coffee paper
+266,GH012498.MP4,2398,2764,Power,pow-circular,circular,Stand,Coffee paper
+267,GH012498.MP4,2947,3284,Power,pow-circular,circular,Stand,Coffee paper
+268,GH012498.MP4,3406,3728,Power,pow-circular,circular,Stand,Coffee paper
+269,GH012498.MP4,3901,4156,Power,pow-circular,circular,Stand,Coffee paper
+270,GH012498.MP4,4389,4704,Power,pow-circular,circular,Stand,Coffee paper
+271,GH012499.MP4,399,599,Power,pow-cylindric,pow-prismatic,Stand,Coffee paper
+272,GH012499.MP4,785,1070,Power,pow-cylindric,pow-prismatic,Stand,Coffee paper
+273,GH012499.MP4,1236,1589,Power,pow-cylindric,pow-prismatic,Stand,Coffee paper
+274,GH012499.MP4,1802,2163,Power,pow-cylindric,pow-prismatic,Stand,Coffee paper
+275,GH012499.MP4,2362,2636,Power,pow-cylindric,pow-prismatic,Stand,Coffee paper
+276,GH012499.MP4,2859,3295,Power,pow-cylindric,pow-prismatic,Stand,Coffee paper
+277,GH012499.MP4,3468,3909,Power,pow-cylindric,pow-prismatic,Stand,Coffee paper
+278,GH012499.MP4,4047,4379,Power,pow-cylindric,pow-prismatic,Stand,Coffee paper
+279,GH012499.MP4,4534,5043,Power,pow-cylindric,pow-prismatic,Stand,Coffee paper
+280,GH012499.MP4,5188,5492,Power,pow-cylindric,pow-prismatic,Stand,Coffee paper
+281,GH012500.MP4,408,602,Precision,pre-prismatic,pre-prismatic,Stand,Coffee paper
+282,GH012500.MP4,746,924,Precision,pre-prismatic,pre-prismatic,Stand,Coffee paper
+283,GH012500.MP4,1021,1431,Precision,pre-prismatic,pre-prismatic,Stand,Coffee paper
+284,GH012500.MP4,1530,1924,Precision,pre-prismatic,pre-prismatic,Stand,Coffee paper
+285,GH012500.MP4,2061,2434,Precision,pre-prismatic,pre-prismatic,Stand,Coffee paper
+286,GH012500.MP4,2555,2866,Precision,pre-prismatic,pre-prismatic,Stand,Coffee paper
+287,GH012500.MP4,3055,3350,Precision,pre-prismatic,pre-prismatic,Stand,Coffee paper
+288,GH012500.MP4,3480,3755,Precision,pre-prismatic,pre-prismatic,Stand,Coffee paper
+289,GH012500.MP4,4010,4245,Precision,pre-prismatic,pre-prismatic,Stand,Coffee paper
+290,GH012500.MP4,4410,4620,Precision,pre-prismatic,pre-prismatic,Stand,Coffee paper
+291,GH012501.MP4,413,651,Power,pow-cylindric,pow-prismatic,Stand,Spatula
+292,GH012501.MP4,837,1108,Power,pow-cylindric,pow-prismatic,Stand,Spatula
+293,GH012501.MP4,1309,1656,Power,pow-cylindric,pow-prismatic,Stand,Spatula
+294,GH012501.MP4,1910,2187,Power,pow-cylindric,pow-prismatic,Stand,Spatula
+295,GH012501.MP4,2297,2684,Power,pow-cylindric,pow-prismatic,Stand,Spatula
+296,GH012501.MP4,2803,3172,Power,pow-cylindric,pow-prismatic,Stand,Spatula
+297,GH012501.MP4,3333,3743,Power,pow-cylindric,pow-prismatic,Stand,Spatula
+298,GH012501.MP4,3925,4268,Power,pow-oblique,pow-prismatic,Stand,Spatula
+299,GH012501.MP4,4489,5034,Power,pow-oblique,pow-prismatic,Stand,Spatula
+300,GH012501.MP4,5160,5504,Power,pow-oblique,pow-prismatic,Stand,Spatula
+301,GH012502.MP4,348,610,Precision,pre-prismatic,pre-prismatic,Stand,Spatula
+302,GH012502.MP4,728,937,Precision,pre-prismatic,pre-prismatic,Stand,Spatula
+303,GH012502.MP4,1097,1497,Precision,pre-prismatic,pre-prismatic,Stand,Spatula
+304,GH012502.MP4,1656,1984,Precision,pre-prismatic,pre-prismatic,Stand,Spatula
+305,GH012502.MP4,2125,2509,Precision,pre-prismatic,pre-prismatic,Stand,Spatula
+306,GH012502.MP4,2652,2899,Precision,pre-prismatic,pre-prismatic,Stand,Spatula
+307,GH012502.MP4,3078,3390,Precision,pre-prismatic,pre-prismatic,Stand,Spatula
+308,GH012502.MP4,3479,3948,Precision,pre-prismatic,pre-prismatic,Stand,Spatula
+309,GH012502.MP4,4081,4513,Precision,pre-prismatic,pre-prismatic,Stand,Spatula
+310,GH012502.MP4,4639,4978,Precision,pre-prismatic,pre-prismatic,Stand,Spatula
+311,GH012503.MP4,301,573,Precision,pre-pinch,pre-prismatic,Stand,Water bottle
+312,GH012503.MP4,694,1072,Precision,pre-pinch,pre-prismatic,Stand,Water bottle
+313,GH012503.MP4,1212,1535,Precision,pre-pinch,pre-prismatic,Stand,Water bottle
+314,GH012503.MP4,1685,2071,Precision,pre-pinch,pre-prismatic,Stand,Water bottle
+315,GH012503.MP4,2203,2549,Precision,pre-pinch,pre-prismatic,Stand,Water bottle
+316,GH012503.MP4,2662,3047,Precision,pre-pinch,pre-prismatic,Stand,Water bottle
+317,GH012503.MP4,3190,3495,Precision,pre-pinch,pre-prismatic,Stand,Water bottle
+318,GH012503.MP4,3616,3955,Precision,pre-pinch,pre-prismatic,Stand,Water bottle
+319,GH012503.MP4,4136,4444,Precision,pre-pinch,pre-prismatic,Stand,Water bottle
+320,GH012503.MP4,4620,4964,Precision,pre-pinch,pre-prismatic,Stand,Water bottle
+321,GH012504.MP4,479,662,Precision,pre-prismatic,pre-prismatic,Stand,Water bottle
+322,GH012504.MP4,824,1286,Precision,pre-prismatic,pre-prismatic,Stand,Water bottle
+323,GH012504.MP4,1411,1744,Precision,pre-prismatic,pre-prismatic,Stand,Water bottle
+324,GH012504.MP4,1904,2258,Precision,pre-prismatic,pre-prismatic,Stand,Water bottle
+325,GH012504.MP4,2444,2686,Precision,pre-prismatic,pre-prismatic,Stand,Water bottle
+326,GH012504.MP4,2844,3264,Precision,pre-prismatic,pre-prismatic,Stand,Water bottle
+327,GH012504.MP4,3382,3921,Precision,pre-prismatic,pre-prismatic,Stand,Water bottle
+328,GH012504.MP4,4012,4549,Precision,pre-prismatic,pre-prismatic,Stand,Water bottle
+329,GH012504.MP4,4656,5037,Precision,pre-prismatic,pre-prismatic,Stand,Water bottle
+330,GH012504.MP4,5103,5388,Precision,pre-prismatic,pre-prismatic,Stand,Water bottle
+331,GH012507.MP4,382,564,Power,pow-cylindric,pow-prismatic,Stand,Water bottle
+332,GH012507.MP4,692,1011,Power,pow-cylindric,pow-prismatic,Stand,Water bottle
+333,GH012507.MP4,1161,1397,Power,pow-cylindric,pow-prismatic,Stand,Water bottle
+334,GH012507.MP4,1495,1921,Power,pow-cylindric,pow-prismatic,Stand,Water bottle
+335,GH012507.MP4,2030,2312,Power,pow-cylindric,pow-prismatic,Stand,Water bottle
+336,GH012507.MP4,2487,2830,Power,pow-cylindric,pow-prismatic,Stand,Water bottle
+337,GH012507.MP4,2954,3482,Power,pow-cylindric,pow-prismatic,Stand,Water bottle
+338,GH012507.MP4,3619,3977,Power,pow-cylindric,pow-prismatic,Stand,Water bottle
+339,GH012507.MP4,4100,4357,Power,pow-cylindric,pow-prismatic,Stand,Water bottle
+340,GH012507.MP4,4499,5029,Power,pow-cylindric,pow-prismatic,Stand,Water bottle
+341,GH012508.MP4,358,507,Power,pow-circular,circular,Stand,Water bottle
+342,GH012508.MP4,684,931,Power,pow-circular,circular,Stand,Water bottle
+343,GH012508.MP4,1073,1274,Power,pow-circular,circular,Stand,Water bottle
+344,GH012508.MP4,1531,1832,Power,pow-circular,circular,Stand,Water bottle
+345,GH012508.MP4,2055,2281,Precision,pre-circular,circular,Stand,Water bottle
+346,GH012508.MP4,2416,2680,Power,pow-circular,circular,Stand,Water bottle
+347,GH012508.MP4,2831,3266,Power,pow-circular,circular,Stand,Water bottle
+348,GH012508.MP4,3374,3781,Power,pow-circular,circular,Stand,Water bottle
+349,GH012508.MP4,3913,4212,Power,pow-circular,circular,Stand,Water bottle
+350,GH012508.MP4,4400,4660,Power,pow-circular,circular,Stand,Water bottle
+351,GH012509.MP4,345,584,Precision,pre-pinch,pre-prismatic,Stand,Gripper
+352,GH012509.MP4,697,1006,Precision,pre-pinch,pre-prismatic,Stand,Gripper
+353,GH012509.MP4,1108,1507,Precision,pre-pinch,pre-prismatic,Stand,Gripper
+354,GH012509.MP4,1648,1952,Precision,pre-pinch,pre-prismatic,Stand,Gripper
+355,GH012509.MP4,2064,2434,Precision,pre-pinch,pre-prismatic,Stand,Gripper
+356,GH012509.MP4,2523,2925,Precision,pre-pinch,pre-prismatic,Stand,Gripper
+357,GH012509.MP4,3074,3562,Precision,pre-pinch,pre-prismatic,Stand,Gripper
+358,GH012509.MP4,3661,3991,Precision,pre-pinch,pre-prismatic,Stand,Gripper
+359,GH012509.MP4,4110,4417,Precision,pre-pinch,pre-prismatic,Stand,Gripper
+360,GH012509.MP4,4516,4836,Precision,pre-pinch,pre-prismatic,Stand,Gripper
+361,GH012510.MP4,333,570,Precision,pre-prismatic,pre-prismatic,Stand,Gripper
+362,GH012510.MP4,694,960,Precision,pre-prismatic,pre-prismatic,Stand,Gripper
+363,GH012510.MP4,1114,1508,Precision,pre-prismatic,pre-prismatic,Stand,Gripper
+364,GH012510.MP4,1599,1903,Precision,pre-prismatic,pre-prismatic,Stand,Gripper
+365,GH012510.MP4,2012,2345,Precision,pre-prismatic,pre-prismatic,Stand,Gripper
+366,GH012510.MP4,2407,2832,Precision,pre-prismatic,pre-prismatic,Stand,Gripper
+367,GH012510.MP4,2929,3231,Precision,pre-prismatic,pre-prismatic,Stand,Gripper
+368,GH012510.MP4,3332,3689,Precision,pre-prismatic,pre-prismatic,Stand,Gripper
+369,GH012510.MP4,3878,4233,Precision,pre-prismatic,pre-prismatic,Stand,Gripper
+370,GH012510.MP4,4332,4638,Precision,pre-prismatic,pre-prismatic,Stand,Gripper
+371,GH012511.MP4,299,681,Precision,pre-pinch,pre-prismatic,Stand,Spoon
+372,GH012511.MP4,791,1144,Precision,pre-pinch,pre-prismatic,Stand,Spoon
+373,GH012511.MP4,1262,1598,Precision,pre-pinch,pre-prismatic,Stand,Spoon
+374,GH012511.MP4,1703,1983,Precision,pre-pinch,pre-prismatic,Stand,Spoon
+375,GH012511.MP4,2114,2378,Precision,pre-pinch,pre-prismatic,Stand,Spoon
+376,GH012511.MP4,2526,2882,Precision,pre-pinch,pre-prismatic,Stand,Spoon
+377,GH012511.MP4,3001,3384,Precision,pre-pinch,pre-prismatic,Stand,Spoon
+378,GH012511.MP4,3462,3783,Precision,pre-pinch,pre-prismatic,Stand,Spoon
+379,GH012511.MP4,3931,4257,Precision,pre-pinch,pre-prismatic,Stand,Spoon
+380,GH012511.MP4,4377,4787,Precision,pre-pinch,pre-prismatic,Stand,Spoon
+381,GH012512.MP4,268,523,Precision,pre-prismatic,pre-prismatic,Stand,Spoon
+382,GH012512.MP4,643,957,Precision,pre-prismatic,pre-prismatic,Stand,Spoon
+383,GH012512.MP4,1070,1359,Precision,pre-prismatic,pre-prismatic,Stand,Spoon
+384,GH012512.MP4,1464,1764,Precision,pre-prismatic,pre-prismatic,Stand,Spoon
+385,GH012512.MP4,1911,2152,Precision,pre-prismatic,pre-prismatic,Stand,Spoon
+386,GH012512.MP4,2263,2574,Precision,pre-prismatic,pre-prismatic,Stand,Spoon
+387,GH012512.MP4,2694,2968,Precision,pre-prismatic,pre-prismatic,Stand,Spoon
+388,GH012512.MP4,3069,3388,Precision,pre-prismatic,pre-prismatic,Stand,Spoon
+389,GH012512.MP4,3518,3807,Precision,pre-prismatic,pre-prismatic,Stand,Spoon
+390,GH012512.MP4,3938,4221,Precision,pre-prismatic,pre-prismatic,Stand,Spoon
+391,GH012513.MP4,438,711,Intermediate,int-lateral,pre-prismatic,Stand,Spoon
+392,GH012513.MP4,886,1305,Intermediate,int-lateral,pre-prismatic,Stand,Spoon
+393,GH012513.MP4,1442,2017,Intermediate,int-lateral,pre-prismatic,Stand,Spoon
+394,GH012513.MP4,2218,2693,Intermediate,int-lateral,pre-prismatic,Stand,Spoon
+395,GH012513.MP4,2796,3181,Intermediate,int-lateral,pre-prismatic,Stand,Spoon
+396,GH012513.MP4,3309,3680,Intermediate,int-lateral,pre-prismatic,Stand,Spoon
+397,GH012513.MP4,3802,4142,Intermediate,int-lateral,pre-prismatic,Stand,Spoon
+398,GH012513.MP4,4258,4756,Intermediate,int-lateral,pre-prismatic,Stand,Spoon
+399,GH012513.MP4,4886,5303,Intermediate,int-lateral,pre-prismatic,Stand,Spoon
+400,GH012513.MP4,5448,5824,Intermediate,int-lateral,pre-prismatic,Stand,Spoon
+401,GH012514.MP4,299,572,Power,pow-cylindric,pow-prismatic,Stand,Spoon
+402,GH012514.MP4,711,1035,Power,pow-cylindric,pow-prismatic,Stand,Spoon
+403,GH012514.MP4,1161,1627,Power,pow-cylindric,pow-prismatic,Stand,Spoon
+404,GH012514.MP4,1729,2069,Power,pow-cylindric,pow-prismatic,Stand,Spoon
+405,GH012514.MP4,2223,2590,Power,pow-cylindric,pow-prismatic,Stand,Spoon
+406,GH012514.MP4,2721,3176,Power,pow-cylindric,pow-prismatic,Stand,Spoon
+407,GH012514.MP4,3304,3739,Power,pow-cylindric,pow-prismatic,Stand,Spoon
+408,GH012514.MP4,3895,4273,Power,pow-cylindric,pow-prismatic,Stand,Spoon
+409,GH012514.MP4,4408,4800,Power,pow-cylindric,pow-prismatic,Stand,Spoon
+410,GH012514.MP4,4941,5428,Power,pow-cylindric,pow-prismatic,Stand,Spoon
+411,GH012515.MP4,373,637,Precision,pre-pinch,pre-prismatic,Stand,Knife
+412,GH012515.MP4,806,1058,Precision,pre-pinch,pre-prismatic,Stand,Knife
+413,GH012515.MP4,1232,1621,Precision,pre-pinch,pre-prismatic,Stand,Knife
+414,GH012515.MP4,1811,2105,Precision,pre-pinch,pre-prismatic,Stand,Knife
+415,GH012515.MP4,2257,2514,Precision,pre-pinch,pre-prismatic,Stand,Knife
+416,GH012515.MP4,2650,2985,Precision,pre-pinch,pre-prismatic,Stand,Knife
+417,GH012515.MP4,3131,3399,Precision,pre-pinch,pre-prismatic,Stand,Knife
+418,GH012515.MP4,3535,3795,Precision,pre-pinch,pre-prismatic,Stand,Knife
+419,GH012515.MP4,3961,4302,Precision,pre-pinch,pre-prismatic,Stand,Knife
+420,GH012515.MP4,4465,4752,Precision,pre-pinch,pre-prismatic,Stand,Knife
+421,GH012516.MP4,387,628,Precision,pre-prismatic,pre-prismatic,Stand,Knife
+422,GH012516.MP4,757,1031,Precision,pre-prismatic,pre-prismatic,Stand,Knife
+423,GH012516.MP4,1225,1542,Precision,pre-prismatic,pre-prismatic,Stand,Knife
+424,GH012516.MP4,1689,2089,Precision,pre-prismatic,pre-prismatic,Stand,Knife
+425,GH012516.MP4,2247,2588,Precision,pre-prismatic,pre-prismatic,Stand,Knife
+426,GH012516.MP4,2737,3064,Precision,pre-prismatic,pre-prismatic,Stand,Knife
+427,GH012516.MP4,3233,3713,Precision,pre-prismatic,pre-prismatic,Stand,Knife
+428,GH012516.MP4,3795,4112,Precision,pre-prismatic,pre-prismatic,Stand,Knife
+429,GH012516.MP4,4211,4492,Precision,pre-prismatic,pre-prismatic,Stand,Knife
+430,GH012516.MP4,4669,4997,Precision,pre-prismatic,pre-prismatic,Stand,Knife
+431,GH012517.MP4,332,706,Power,pow-cylindric,pow-prismatic,Stand,Knife
+432,GH012517.MP4,856,1285,Power,pow-cylindric,pow-prismatic,Stand,Knife
+433,GH012517.MP4,1419,1708,Power,pow-cylindric,pow-prismatic,Stand,Knife
+434,GH012517.MP4,1831,2300,Power,pow-cylindric,pow-prismatic,Stand,Knife
+435,GH012517.MP4,2490,3292,Power,pow-oblique,pow-prismatic,Stand,Knife
+436,GH012517.MP4,3398,4040,Power,pow-oblique,pow-prismatic,Stand,Knife
+437,GH012517.MP4,4149,4575,Power,pow-oblique,pow-prismatic,Stand,Knife
+438,GH012517.MP4,4696,5113,Power,pow-oblique,pow-prismatic,Stand,Knife
+439,GH012517.MP4,5278,5624,Power,pow-oblique,pow-prismatic,Stand,Knife
+440,GH012517.MP4,5737,6228,Power,pow-oblique,pow-prismatic,Stand,Knife
+441,GH012518.MP4,407,583,Precision,pre-pinch,pre-prismatic,Stand,Tic tac
+442,GH012518.MP4,735,947,Precision,pre-pinch,pre-prismatic,Stand,Tic tac
+443,GH012518.MP4,1130,1289,Precision,pre-pinch,pre-prismatic,Stand,Tic tac
+444,GH012518.MP4,1423,1598,Precision,pre-pinch,pre-prismatic,Stand,Tic tac
+445,GH012518.MP4,1806,2120,Precision,pre-pinch,pre-prismatic,Stand,Tic tac
+446,GH012518.MP4,2273,2530,Precision,pre-pinch,pre-prismatic,Stand,Tic tac
+447,GH012518.MP4,2691,3049,Precision,pre-pinch,pre-prismatic,Stand,Tic tac
+448,GH012518.MP4,3213,3508,Precision,pre-pinch,pre-prismatic,Stand,Tic tac
+449,GH012518.MP4,3667,3888,Precision,pre-pinch,pre-prismatic,Stand,Tic tac
+450,GH012518.MP4,4021,4218,Precision,pre-pinch,pre-prismatic,Stand,Tic tac
+451,GH012519.MP4,385,553,Power,pow-circular,circular,Stand,Tic tac
+452,GH012519.MP4,722,916,Power,pow-circular,circular,Stand,Tic tac
+453,GH012519.MP4,1065,1473,Power,pow-circular,circular,Stand,Tic tac
+454,GH012519.MP4,1606,1930,Power,pow-circular,circular,Stand,Tic tac
+455,GH012519.MP4,2026,2415,Power,pow-circular,circular,Stand,Tic tac
+456,GH012519.MP4,2538,2761,Power,pow-circular,circular,Stand,Tic tac
+457,GH012519.MP4,2936,3187,Power,pow-circular,circular,Stand,Tic tac
+458,GH012519.MP4,3346,3610,Power,pow-circular,circular,Stand,Tic tac
+459,GH012519.MP4,3883,4072,Power,pow-circular,circular,Stand,Tic tac
+460,GH012519.MP4,4286,4470,Power,pow-circular,circular,Stand,Tic tac
+461,GH012520.MP4,486,657,Precision,pre-prismatic,pre-prismatic,Stand,Tic tac
+462,GH012520.MP4,811,1073,Precision,pre-prismatic,pre-prismatic,Stand,Tic tac
+463,GH012520.MP4,1229,1461,Precision,pre-prismatic,pre-prismatic,Stand,Tic tac
+464,GH012520.MP4,1588,1939,Precision,pre-prismatic,pre-prismatic,Stand,Tic tac
+465,GH012520.MP4,2048,2321,Precision,pre-prismatic,pre-prismatic,Stand,Tic tac
+466,GH012520.MP4,2445,2706,Precision,pre-prismatic,pre-prismatic,Stand,Tic tac
+467,GH012520.MP4,2853,3090,Precision,pre-prismatic,pre-prismatic,Stand,Tic tac
+468,GH012520.MP4,3233,3507,Precision,pre-prismatic,pre-prismatic,Stand,Tic tac
+469,GH012520.MP4,3677,3877,Precision,pre-prismatic,pre-prismatic,Stand,Tic tac
+470,GH012520.MP4,4038,4269,Precision,pre-prismatic,pre-prismatic,Stand,Tic tac
+471,GH012521.MP4,430,626,Power,pow-cylindric,pow-prismatic,Stand,Tic tac
+472,GH012521.MP4,844,1079,Power,pow-cylindric,pow-prismatic,Stand,Tic tac
+473,GH012521.MP4,1197,1457,Power,pow-cylindric,pow-prismatic,Stand,Tic tac
+474,GH012521.MP4,1619,1962,Power,pow-cylindric,pow-prismatic,Stand,Tic tac
+475,GH012521.MP4,2079,2474,Power,pow-cylindric,pow-prismatic,Stand,Tic tac
+476,GH012521.MP4,2622,2956,Power,pow-cylindric,pow-prismatic,Stand,Tic tac
+477,GH012521.MP4,3138,3424,Power,pow-cylindric,pow-prismatic,Stand,Tic tac
+478,GH012521.MP4,3571,3882,Power,pow-cylindric,pow-prismatic,Stand,Tic tac
+479,GH012521.MP4,4102,4384,Power,pow-cylindric,pow-prismatic,Stand,Tic tac
+480,GH012521.MP4,4539,4831,Power,pow-cylindric,pow-prismatic,Stand,Tic tac
+481,GH012522.MP4,396,548,Precision,pre-pinch,pre-prismatic,Stand,Box
+482,GH012522.MP4,720,980,Precision,pre-pinch,pre-prismatic,Stand,Box
+483,GH012522.MP4,1130,1341,Precision,pre-pinch,pre-prismatic,Stand,Box
+484,GH012522.MP4,1529,1764,Precision,pre-pinch,pre-prismatic,Stand,Box
+485,GH012522.MP4,1929,2077,Precision,pre-pinch,pre-prismatic,Stand,Box
+486,GH012522.MP4,2231,2435,Precision,pre-pinch,pre-prismatic,Stand,Box
+487,GH012522.MP4,2587,2784,Precision,pre-pinch,pre-prismatic,Stand,Box
+488,GH012522.MP4,2944,3263,Precision,pre-pinch,pre-prismatic,Stand,Box
+489,GH012522.MP4,3385,3748,Precision,pre-pinch,pre-prismatic,Stand,Box
+490,GH012522.MP4,3948,4295,Precision,pre-pinch,pre-prismatic,Stand,Box
+491,GH012523.MP4,390,604,Precision,pre-prismatic,pre-prismatic,Stand,Box
+492,GH012523.MP4,734,955,Precision,pre-prismatic,pre-prismatic,Stand,Box
+493,GH012523.MP4,1076,1333,Precision,pre-prismatic,pre-prismatic,Stand,Box
+494,GH012523.MP4,1477,1834,Precision,pre-prismatic,pre-prismatic,Stand,Box
+495,GH012523.MP4,1958,2250,Precision,pre-prismatic,pre-prismatic,Stand,Box
+496,GH012523.MP4,2435,2772,Precision,pre-prismatic,pre-prismatic,Stand,Box
+497,GH012523.MP4,2933,3235,Precision,pre-prismatic,pre-prismatic,Stand,Box
+498,GH012523.MP4,3343,3666,Precision,pre-prismatic,pre-prismatic,Stand,Box
+499,GH012523.MP4,3856,4174,Precision,pre-prismatic,pre-prismatic,Stand,Box
+500,GH012523.MP4,4333,4659,Precision,pre-prismatic,pre-prismatic,Stand,Box
+501,GH012524.MP4,421,614,Precision,pre-circular,circular,Stand,Box
+502,GH012524.MP4,814,1100,Precision,pre-circular,circular,Stand,Box
+503,GH012524.MP4,1285,1517,Precision,pre-circular,circular,Stand,Box
+504,GH012524.MP4,1767,2010,Precision,pre-circular,circular,Stand,Box
+505,GH012524.MP4,2202,2416,Precision,pre-circular,circular,Stand,Box
+506,GH012524.MP4,2652,2898,Precision,pre-circular,circular,Stand,Box
+507,GH012524.MP4,3072,3363,Precision,pre-circular,circular,Stand,Box
+508,GH012524.MP4,3511,3849,Precision,pre-circular,circular,Stand,Box
+509,GH012524.MP4,4009,4343,Precision,pre-circular,circular,Stand,Box
+510,GH012524.MP4,4537,4842,Precision,pre-circular,circular,Stand,Box
+511,GH012525.MP4,440,670,Precision,pre-prismatic,pre-prismatic,Stand,Wallet
+512,GH012525.MP4,764,1108,Precision,pre-prismatic,pre-prismatic,Stand,Wallet
+513,GH012525.MP4,1235,1582,Precision,pre-prismatic,pre-prismatic,Stand,Wallet
+514,GH012525.MP4,1733,2098,Precision,pre-prismatic,pre-prismatic,Stand,Wallet
+515,GH012525.MP4,2205,2561,Precision,pre-prismatic,pre-prismatic,Stand,Wallet
+516,GH012525.MP4,2678,3059,Precision,pre-prismatic,pre-prismatic,Stand,Wallet
+517,GH012525.MP4,3240,3569,Precision,pre-prismatic,pre-prismatic,Stand,Wallet
+518,GH012525.MP4,3673,4037,Precision,pre-prismatic,pre-prismatic,Stand,Wallet
+519,GH012525.MP4,4183,4502,Precision,pre-prismatic,pre-prismatic,Stand,Wallet
+520,GH012525.MP4,4627,4876,Precision,pre-prismatic,pre-prismatic,Stand,Wallet
+521,GH012526.MP4,304,601,Power,pow-cylindric,pow-prismatic,Stand,Wallet
+522,GH012526.MP4,719,1040,Power,pow-cylindric,pow-prismatic,Stand,Wallet
+523,GH012526.MP4,1131,1434,Power,pow-cylindric,pow-prismatic,Stand,Wallet
+524,GH012526.MP4,1565,1889,Power,pow-cylindric,pow-prismatic,Stand,Wallet
+525,GH012526.MP4,2001,2373,Power,pow-cylindric,pow-prismatic,Stand,Wallet
+526,GH012526.MP4,2475,2773,Power,pow-cylindric,pow-prismatic,Stand,Wallet
+527,GH012526.MP4,2912,3182,Power,pow-cylindric,pow-prismatic,Stand,Wallet
+528,GH012526.MP4,3234,3597,Power,pow-cylindric,pow-prismatic,Stand,Wallet
+529,GH012526.MP4,3737,4133,Power,pow-cylindric,pow-prismatic,Stand,Wallet
+530,GH012526.MP4,4254,4565,Power,pow-cylindric,pow-prismatic,Stand,Wallet
+531,GH012527.MP4,396,617,Power,pow-cylindric,pow-prismatic,Stand,Window cleaner
+532,GH012527.MP4,795,985,Power,pow-cylindric,pow-prismatic,Stand,Window cleaner
+533,GH012527.MP4,1293,1593,Power,pow-cylindric,pow-prismatic,Stand,Window cleaner
+534,GH012527.MP4,1766,1990,Power,pow-cylindric,pow-prismatic,Stand,Window cleaner
+535,GH012527.MP4,2076,2218,Power,pow-cylindric,pow-prismatic,Stand,Window cleaner
+536,GH012527.MP4,2590,2716,Power,pow-cylindric,pow-prismatic,Stand,Window cleaner
+537,GH012527.MP4,3056,3470,Power,pow-cylindric,pow-prismatic,Stand,Window cleaner
+538,GH012527.MP4,3656,3944,Power,pow-cylindric,pow-prismatic,Stand,Window cleaner
+539,GH012527.MP4,4080,4685,Power,pow-cylindric,pow-prismatic,Stand,Window cleaner
+540,GH012527.MP4,4823,5046,Power,pow-cylindric,pow-prismatic,Stand,Window cleaner
+541,GH012528.MP4,346,573,Power,pow-oblique,pow-prismatic,Stand,Window cleaner
+542,GH012528.MP4,748,1095,Power,pow-oblique,pow-prismatic,Stand,Window cleaner
+543,GH012528.MP4,1260,1522,Power,pow-oblique,pow-prismatic,Stand,Window cleaner
+544,GH012528.MP4,1672,2078,Power,pow-oblique,pow-prismatic,Stand,Window cleaner
+545,GH012528.MP4,2188,2476,Power,pow-oblique,pow-prismatic,Stand,Window cleaner
+546,GH012528.MP4,2596,2920,Power,pow-oblique,pow-prismatic,Stand,Window cleaner
+547,GH012528.MP4,3036,3317,Power,pow-oblique,pow-prismatic,Stand,Window cleaner
+548,GH012528.MP4,3444,3767,Power,pow-oblique,pow-prismatic,Stand,Window cleaner
+549,GH012528.MP4,3886,4235,Power,pow-oblique,pow-prismatic,Stand,Window cleaner
+550,GH012528.MP4,4355,4632,Power,pow-oblique,pow-prismatic,Stand,Window cleaner
+551,GH012529.MP4,404,605,Precision,pre-prismatic,pre-prismatic,Stand,Paper plate
+552,GH012529.MP4,798,1128,Precision,pre-prismatic,pre-prismatic,Stand,Paper plate
+553,GH012529.MP4,1267,1573,Precision,pre-prismatic,pre-prismatic,Stand,Paper plate
+554,GH012529.MP4,1713,2141,Precision,pre-prismatic,pre-prismatic,Stand,Paper plate
+555,GH012529.MP4,2278,2635,Precision,pre-prismatic,pre-prismatic,Stand,Paper plate
+556,GH012529.MP4,2752,2983,Precision,pre-prismatic,pre-prismatic,Stand,Paper plate
+557,GH012529.MP4,3136,3406,Precision,pre-prismatic,pre-prismatic,Stand,Paper plate
+558,GH012529.MP4,3552,3746,Precision,pre-prismatic,pre-prismatic,Stand,Paper plate
+559,GH012529.MP4,3918,4101,Precision,pre-prismatic,pre-prismatic,Stand,Paper plate
+560,GH012529.MP4,4276,4561,Precision,pre-prismatic,pre-prismatic,Stand,Paper plate
+561,GH012530.MP4,335,539,Precision,pre-pinch,pre-prismatic,Stand,Paper plate
+562,GH012530.MP4,674,871,Precision,pre-pinch,pre-prismatic,Stand,Paper plate
+563,GH012530.MP4,973,1290,Precision,pre-pinch,pre-prismatic,Stand,Paper plate
+564,GH012530.MP4,1422,1663,Precision,pre-pinch,pre-prismatic,Stand,Paper plate
+565,GH012530.MP4,1768,2082,Precision,pre-pinch,pre-prismatic,Stand,Paper plate
+566,GH012530.MP4,2424,2750,Precision,pre-pinch,pre-prismatic,Stand,Paper plate
+567,GH012530.MP4,2847,3102,Precision,pre-pinch,pre-prismatic,Stand,Paper plate
+568,GH012530.MP4,3205,3460,Precision,pre-pinch,pre-prismatic,Stand,Paper plate
+569,GH012530.MP4,3609,3863,Precision,pre-pinch,pre-prismatic,Stand,Paper plate
+570,GH012530.MP4,3966,4176,Precision,pre-pinch,pre-prismatic,Stand,Paper plate
+571,GH012531.MP4,449,631,Power,pow-circular,circular,Stand,Glass
+572,GH012531.MP4,872,1241,Power,pow-circular,circular,Stand,Glass
+573,GH012531.MP4,1479,1808,Power,pow-circular,circular,Stand,Glass
+574,GH012531.MP4,2050,2402,Power,pow-circular,circular,Stand,Glass
+575,GH012531.MP4,2628,2897,Power,pow-circular,circular,Stand,Glass
+576,GH012531.MP4,3128,3406,Power,pow-circular,circular,Stand,Glass
+577,GH012531.MP4,3624,3900,Power,pow-circular,circular,Stand,Glass
+578,GH012531.MP4,4051,4453,Power,pow-circular,circular,Stand,Glass
+579,GH012531.MP4,4570,5078,Power,pow-circular,circular,Stand,Glass
+580,GH012531.MP4,5252,5629,Power,pow-circular,circular,Stand,Glass
+581,GH012532.MP4,408,650,Power,pow-cylindric,pow-prismatic,Stand,Glass
+582,GH012532.MP4,850,1188,Power,pow-cylindric,pow-prismatic,Stand,Glass
+583,GH012532.MP4,1351,1680,Power,pow-cylindric,pow-prismatic,Stand,Glass
+584,GH012532.MP4,1872,2311,Power,pow-cylindric,pow-prismatic,Stand,Glass
+585,GH012532.MP4,2436,2813,Power,pow-cylindric,pow-prismatic,Stand,Glass
+586,GH012532.MP4,3072,3491,Power,pow-cylindric,pow-prismatic,Stand,Glass
+587,GH012532.MP4,3704,4046,Power,pow-cylindric,pow-prismatic,Stand,Glass
+588,GH012532.MP4,4164,4584,Power,pow-cylindric,pow-prismatic,Stand,Glass
+589,GH012532.MP4,4719,5175,Power,pow-cylindric,pow-prismatic,Stand,Glass
+590,GH012532.MP4,5291,5582,Power,pow-cylindric,pow-prismatic,Stand,Glass
+591,GH012533.MP4,385,590,Power,pow-cylindric,pow-prismatic,Stand,Battery
+592,GH012533.MP4,796,1100,Power,pow-cylindric,pow-prismatic,Stand,Battery
+593,GH012533.MP4,1266,1669,Power,pow-cylindric,pow-prismatic,Stand,Battery
+594,GH012533.MP4,1941,2284,Power,pow-cylindric,pow-prismatic,Stand,Battery
+595,GH012533.MP4,2555,2911,Power,pow-cylindric,pow-prismatic,Stand,Battery
+596,GH012533.MP4,3134,3478,Power,pow-cylindric,pow-prismatic,Stand,Battery
+597,GH012533.MP4,3824,4118,Power,pow-cylindric,pow-prismatic,Stand,Battery
+598,GH012533.MP4,4325,4721,Power,pow-cylindric,pow-prismatic,Stand,Battery
+599,GH012533.MP4,4908,5388,Power,pow-cylindric,pow-prismatic,Stand,Battery
+600,GH012533.MP4,5591,5929,Power,pow-cylindric,pow-prismatic,Stand,Battery

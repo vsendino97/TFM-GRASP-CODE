@@ -1,0 +1,168 @@
+ID,Grasp,Video,StartFrame,EndFrame,PIP,Duration,BigCategories,SmallCategories,Timestamp
+0,quadpod,040.mp4,1175,1225,Precision,2.0,circular,pre-circular,0:00:47
+1,lateral pinch,040.mp4,1225,1350,Intermediate,5.0,int-lateral,int-lateral,0:00:49
+2,precision disk,040.mp4,1350,1725,Precision,15.0,circular,pre-circular,0:00:54
+3,lateral pinch,040.mp4,1725,1775,Intermediate,2.0,int-lateral,int-lateral,0:01:09
+5,index finger extension,040.mp4,1850,2325,Power,19.0,pow-prismatic,pow-oblique,0:01:14
+6,lateral pinch,040.mp4,2325,2550,Intermediate,9.0,int-lateral,int-lateral,0:01:33
+8,medium wrap,040.mp4,2725,2850,Power,5.0,pow-prismatic,pow-cylindric,0:01:49
+9,lateral pinch,040.mp4,2850,2900,Intermediate,2.0,int-lateral,int-lateral,0:01:54
+10,precision disk,040.mp4,2900,3350,Precision,18.0,circular,pre-circular,0:01:56
+11,medium wrap,040.mp4,3350,3450,Power,4.0,pow-prismatic,pow-cylindric,0:02:14
+12,medium wrap,040.mp4,3450,3675,Power,9.0,pow-prismatic,pow-cylindric,0:02:18
+13,medium wrap,040.mp4,3725,3825,Power,4.0,pow-prismatic,pow-cylindric,0:02:29
+14,index finger extension,040.mp4,4825,5125,Power,12.0,pow-prismatic,pow-oblique,0:03:13
+15,index finger extension,040.mp4,5125,5625,Power,20.0,pow-prismatic,pow-oblique,0:03:25
+16,adducted thumb,040.mp4,5625,5825,Power,8.0,pow-prismatic,pow-oblique,0:03:45
+17,index finger extension,040.mp4,5825,6000,Power,7.0,pow-prismatic,pow-oblique,0:03:53
+18,medium wrap,040.mp4,6000,6300,Power,12.0,pow-prismatic,pow-cylindric,0:04:00
+19,thumb-3 finger,040.mp4,6850,6950,Precision,4.0,pre-prismatic,pre-prismatic,0:04:34
+20,medium wrap,040.mp4,6950,7075,Power,5.0,pow-prismatic,pow-cylindric,0:04:38
+21,index finger extension,040.mp4,7075,7550,Power,19.0,pow-prismatic,pow-oblique,0:04:43
+23,medium wrap,040.mp4,7875,8500,Power,25.0,pow-prismatic,pow-cylindric,0:05:15
+24,precision disk,040.mp4,9875,10250,Precision,15.0,circular,pre-circular,0:06:35
+25,lateral pinch,040.mp4,10250,10375,Intermediate,5.0,int-lateral,int-lateral,0:06:50
+28,lateral pinch,040.mp4,10800,11075,Intermediate,11.0,int-lateral,int-lateral,0:07:12
+29,power sphere,040.mp4,14825,15575,Power,30.0,circular,pow-circular,0:09:53
+30,precision disk,040.mp4,18775,19625,Precision,34.0,circular,pre-circular,0:12:31
+31,power sphere,040.mp4,19625,20900,Power,51.0,circular,pow-circular,0:13:05
+32,power sphere,040.mp4,21000,21575,Power,23.0,circular,pow-circular,0:14:00
+33,power sphere,040.mp4,21800,22100,Power,12.0,circular,pow-circular,0:14:32
+34,index finger extension,040.mp4,25450,25600,Power,6.0,pow-prismatic,pow-oblique,0:16:58
+35,medium wrap,040.mp4,35125,35750,Power,25.0,pow-prismatic,pow-cylindric,0:23:25
+36,lateral pinch,040.mp4,39875,40775,Intermediate,36.0,int-lateral,int-lateral,0:26:35
+37,medium wrap,041.mp4,375,400,Power,1.0,pow-prismatic,pow-cylindric,0:00:15
+38,adducted thumb,041.mp4,400,450,Power,2.0,pow-prismatic,pow-oblique,0:00:16
+39,medium wrap,041.mp4,700,850,Power,6.0,pow-prismatic,pow-cylindric,0:00:28
+40,medium wrap,041.mp4,1250,1600,Power,14.0,pow-prismatic,pow-cylindric,0:00:50
+41,thumb-2 finger,041.mp4,1600,1625,Precision,1.0,pre-prismatic,pre-prismatic,0:01:04
+42,thumb-4 finger,041.mp4,1625,1725,Precision,4.0,pre-prismatic,pre-prismatic,0:01:05
+43,thumb-index finger,041.mp4,1725,1850,Precision,5.0,pre-pinch,pre-pinch,0:01:09
+44,lateral pinch,041.mp4,1850,1950,Intermediate,4.0,int-lateral,int-lateral,0:01:14
+46,medium wrap,041.mp4,2275,2625,Power,14.0,pow-prismatic,pow-cylindric,0:01:31
+47,power sphere,041.mp4,2625,2725,Power,4.0,circular,pow-circular,0:01:45
+50,thumb-3 finger,041.mp4,3175,3225,Precision,2.0,pre-prismatic,pre-prismatic,0:02:07
+51,thumb-2 finger,041.mp4,3225,3275,Precision,2.0,pre-prismatic,pre-prismatic,0:02:09
+52,thumb-4 finger,041.mp4,3325,3375,Precision,2.0,pre-prismatic,pre-prismatic,0:02:13
+53,power sphere,041.mp4,3425,3475,Power,2.0,circular,pow-circular,0:02:17
+54,medium wrap,041.mp4,3525,3750,Power,9.0,pow-prismatic,pow-cylindric,0:02:21
+55,thumb-2 finger,041.mp4,3775,3800,Precision,1.0,pre-prismatic,pre-prismatic,0:02:31
+56,precision disk,041.mp4,3825,4425,Precision,24.0,circular,pre-circular,0:02:33
+57,sphere-3 finger,041.mp4,4425,4450,Power,1.0,circular,pow-circular,0:02:57
+58,thumb-4 finger,041.mp4,4450,4550,Precision,4.0,pre-prismatic,pre-prismatic,0:02:58
+59,precision disk,041.mp4,4550,4800,Precision,10.0,circular,pre-circular,0:03:02
+60,thumb-4 finger,041.mp4,4800,4850,Precision,2.0,pre-prismatic,pre-prismatic,0:03:12
+61,precision disk,041.mp4,4975,5125,Precision,6.0,circular,pre-circular,0:03:19
+62,power sphere,041.mp4,5125,5175,Power,2.0,circular,pow-circular,0:03:25
+63,adduction,041.mp4,5175,5200,Intermediate,1.0,pre-pinch,pre-pinch,0:03:27
+64,power sphere,041.mp4,5200,5225,Power,1.0,circular,pow-circular,0:03:28
+65,precision disk,041.mp4,5225,5375,Precision,6.0,circular,pre-circular,0:03:29
+66,power sphere,041.mp4,5375,5425,Power,2.0,circular,pow-circular,0:03:35
+67,precision disk,041.mp4,5425,5850,Precision,17.0,circular,pre-circular,0:03:37
+68,thumb-4 finger,041.mp4,5850,5875,Precision,1.0,pre-prismatic,pre-prismatic,0:03:54
+69,thumb-4 finger,041.mp4,5875,5925,Precision,2.0,pre-prismatic,pre-prismatic,0:03:55
+70,precision disk,041.mp4,5925,5975,Precision,2.0,circular,pre-circular,0:03:57
+71,power sphere,041.mp4,5975,6050,Power,3.0,circular,pow-circular,0:03:59
+72,power sphere,041.mp4,6100,6150,Power,2.0,circular,pow-circular,0:04:04
+73,precision disk,041.mp4,6150,6175,Precision,1.0,circular,pre-circular,0:04:06
+74,power sphere,041.mp4,6175,6250,Power,3.0,circular,pow-circular,0:04:07
+76,medium wrap,041.mp4,6500,7450,Power,38.0,pow-prismatic,pow-cylindric,0:04:20
+77,thumb-3 finger,041.mp4,7450,7475,Precision,1.0,pre-prismatic,pre-prismatic,0:04:58
+78,medium wrap,041.mp4,7475,7600,Power,5.0,pow-prismatic,pow-cylindric,0:04:59
+79,precision disk,041.mp4,7900,7925,Precision,1.0,circular,pre-circular,0:05:16
+80,power sphere,041.mp4,7925,8100,Power,7.0,circular,pow-circular,0:05:17
+81,medium wrap,041.mp4,8350,8450,Power,4.0,pow-prismatic,pow-cylindric,0:05:34
+82,power sphere,041.mp4,8450,8500,Power,2.0,circular,pow-circular,0:05:38
+83,precision disk,041.mp4,8500,9100,Precision,24.0,circular,pre-circular,0:05:40
+84,thumb-index finger,041.mp4,9100,9150,Precision,2.0,pre-pinch,pre-pinch,0:06:04
+85,power sphere,041.mp4,9575,9600,Power,1.0,circular,pow-circular,0:06:23
+86,medium wrap,041.mp4,9600,9725,Power,5.0,pow-prismatic,pow-cylindric,0:06:24
+87,power sphere,041.mp4,9750,9775,Power,1.0,circular,pow-circular,0:06:30
+88,index finger extension,041.mp4,9775,10000,Power,9.0,pow-prismatic,pow-oblique,0:06:31
+89,power sphere,041.mp4,10050,10275,Power,9.0,circular,pow-circular,0:06:42
+90,medium wrap,041.mp4,10300,10650,Power,14.0,pow-prismatic,pow-cylindric,0:06:52
+91,index finger extension,041.mp4,10650,10675,Power,1.0,pow-prismatic,pow-oblique,0:07:06
+92,medium wrap,041.mp4,10675,10800,Power,5.0,pow-prismatic,pow-cylindric,0:07:07
+93,index finger extension,041.mp4,10800,10925,Power,5.0,pow-prismatic,pow-oblique,0:07:12
+94,medium wrap,041.mp4,10925,11950,Power,41.0,pow-prismatic,pow-cylindric,0:07:17
+96,medium wrap,041.mp4,12250,12325,Power,3.0,pow-prismatic,pow-cylindric,0:08:10
+97,power sphere,041.mp4,12325,12350,Power,1.0,circular,pow-circular,0:08:13
+98,precision disk,041.mp4,12350,12725,Precision,15.0,circular,pre-circular,0:08:14
+99,medium wrap,041.mp4,12725,12900,Power,7.0,pow-prismatic,pow-cylindric,0:08:29
+100,lateral tripod,041.mp4,12900,12950,Intermediate,2.0,int-lateral,int-lateral,0:08:36
+101,thumb-2 finger,041.mp4,12950,13000,Precision,2.0,pre-prismatic,pre-prismatic,0:08:38
+102,lateral pinch,041.mp4,13000,13050,Intermediate,2.0,int-lateral,int-lateral,0:08:40
+103,thumb-index finger,041.mp4,13050,13100,Precision,2.0,pre-pinch,pre-pinch,0:08:42
+104,lateral pinch,041.mp4,13100,13150,Intermediate,2.0,int-lateral,int-lateral,0:08:44
+106,thumb-4 finger,041.mp4,13275,13300,Precision,1.0,pre-prismatic,pre-prismatic,0:08:51
+107,power sphere,041.mp4,13325,13375,Power,2.0,circular,pow-circular,0:08:53
+108,precision disk,041.mp4,13375,13500,Precision,5.0,circular,pre-circular,0:08:55
+109,thumb-4 finger,041.mp4,13500,13550,Precision,2.0,pre-prismatic,pre-prismatic,0:09:00
+110,lateral pinch,041.mp4,13550,13600,Intermediate,2.0,int-lateral,int-lateral,0:09:02
+111,medium wrap,041.mp4,13600,13675,Power,3.0,pow-prismatic,pow-cylindric,0:09:04
+112,lateral pinch,041.mp4,13700,13750,Intermediate,2.0,int-lateral,int-lateral,0:09:08
+113,power sphere,041.mp4,13775,13850,Power,3.0,circular,pow-circular,0:09:11
+114,thumb-index finger,041.mp4,13850,13900,Precision,2.0,pre-pinch,pre-pinch,0:09:14
+115,power sphere,041.mp4,13900,14125,Power,9.0,circular,pow-circular,0:09:16
+116,precision disk,041.mp4,14125,14375,Precision,10.0,circular,pre-circular,0:09:25
+117,thumb-4 finger,041.mp4,14375,14400,Precision,1.0,pre-prismatic,pre-prismatic,0:09:35
+118,power sphere,041.mp4,14400,14500,Power,4.0,circular,pow-circular,0:09:36
+119,precision disk,041.mp4,14500,14875,Precision,15.0,circular,pre-circular,0:09:40
+120,medium wrap,041.mp4,15350,15475,Power,5.0,pow-prismatic,pow-cylindric,0:10:14
+121,precision disk,041.mp4,15475,15775,Precision,12.0,circular,pre-circular,0:10:19
+122,lateral pinch,041.mp4,15775,15825,Intermediate,2.0,int-lateral,int-lateral,0:10:31
+123,lateral tripod,041.mp4,16125,16275,Intermediate,6.0,int-lateral,int-lateral,0:10:45
+124,medium wrap,041.mp4,18150,18275,Power,5.0,pow-prismatic,pow-cylindric,0:12:06
+125,power sphere,041.mp4,18275,18600,Power,13.0,circular,pow-circular,0:12:11
+126,precision disk,041.mp4,18600,18700,Precision,4.0,circular,pre-circular,0:12:24
+127,power sphere,041.mp4,18700,18800,Power,4.0,circular,pow-circular,0:12:28
+128,tripod,041.mp4,19950,19975,Precision,1.0,circular,pre-circular,0:13:18
+129,precision disk,041.mp4,19975,20100,Precision,5.0,circular,pre-circular,0:13:19
+131,thumb-4 finger,041.mp4,21650,21700,Precision,2.0,pre-prismatic,pre-prismatic,0:14:26
+132,medium wrap,041.mp4,21775,22775,Power,40.0,pow-prismatic,pow-cylindric,0:14:31
+133,medium wrap,041.mp4,22875,23250,Power,15.0,pow-prismatic,pow-cylindric,0:15:15
+134,index finger extension,041.mp4,23300,23325,Power,1.0,pow-prismatic,pow-oblique,0:15:32
+135,medium wrap,041.mp4,23325,23825,Power,20.0,pow-prismatic,pow-cylindric,0:15:33
+136,index finger extension,041.mp4,23825,23950,Power,5.0,pow-prismatic,pow-oblique,0:15:53
+137,medium wrap,041.mp4,23950,24100,Power,6.0,pow-prismatic,pow-cylindric,0:15:58
+138,index finger extension,041.mp4,24100,24250,Power,6.0,pow-prismatic,pow-oblique,0:16:04
+139,medium wrap,041.mp4,24250,24750,Power,20.0,pow-prismatic,pow-cylindric,0:16:10
+140,medium wrap,041.mp4,24825,25350,Power,21.0,pow-prismatic,pow-cylindric,0:16:33
+141,lateral pinch,041.mp4,25425,25450,Intermediate,1.0,int-lateral,int-lateral,0:16:57
+142,medium wrap,041.mp4,25600,25900,Power,12.0,pow-prismatic,pow-cylindric,0:17:04
+143,index finger extension,041.mp4,25900,25950,Power,2.0,pow-prismatic,pow-oblique,0:17:16
+144,medium wrap,041.mp4,25950,26525,Power,23.0,pow-prismatic,pow-cylindric,0:17:18
+145,medium wrap,041.mp4,26550,26650,Power,4.0,pow-prismatic,pow-cylindric,0:17:42
+146,medium wrap,041.mp4,26650,26700,Power,2.0,pow-prismatic,pow-cylindric,0:17:46
+147,medium wrap,041.mp4,26700,26875,Power,7.0,pow-prismatic,pow-cylindric,0:17:48
+148,index finger extension,041.mp4,26875,27025,Power,6.0,pow-prismatic,pow-oblique,0:17:55
+149,thumb-2 finger,041.mp4,28025,28150,Precision,5.0,pre-prismatic,pre-prismatic,0:18:41
+150,lateral pinch,041.mp4,28875,28925,Intermediate,2.0,int-lateral,int-lateral,0:19:15
+151,thumb-4 finger,041.mp4,29025,29050,Precision,1.0,pre-prismatic,pre-prismatic,0:19:21
+152,medium wrap,041.mp4,29750,29925,Power,7.0,pow-prismatic,pow-cylindric,0:19:50
+153,lateral pinch,041.mp4,29925,30000,Intermediate,3.0,int-lateral,int-lateral,0:19:57
+154,precision disk,041.mp4,30000,30175,Precision,7.0,circular,pre-circular,0:20:00
+155,thumb-2 finger,041.mp4,30175,30200,Precision,1.0,pre-prismatic,pre-prismatic,0:20:07
+156,power sphere,041.mp4,30200,30275,Power,3.0,circular,pow-circular,0:20:08
+157,thumb-3 finger,041.mp4,30275,30450,Precision,7.0,pre-prismatic,pre-prismatic,0:20:11
+158,thumb-3 finger,041.mp4,30525,30850,Precision,13.0,pre-prismatic,pre-prismatic,0:20:21
+159,thumb-index finger,041.mp4,30925,31400,Precision,19.0,pre-pinch,pre-pinch,0:20:37
+160,medium wrap,041.mp4,31400,31650,Power,10.0,pow-prismatic,pow-cylindric,0:20:56
+161,medium wrap,041.mp4,31725,31825,Power,4.0,pow-prismatic,pow-cylindric,0:21:09
+162,thumb-index finger,041.mp4,31825,31850,Precision,1.0,pre-pinch,pre-pinch,0:21:13
+163,medium wrap,041.mp4,31850,31900,Power,2.0,pow-prismatic,pow-cylindric,0:21:14
+164,thumb-index finger,041.mp4,31900,32075,Precision,7.0,pre-pinch,pre-pinch,0:21:16
+165,medium wrap,041.mp4,32075,32250,Power,7.0,pow-prismatic,pow-cylindric,0:21:23
+166,thumb-4 finger,041.mp4,32350,32450,Precision,4.0,pre-prismatic,pre-prismatic,0:21:34
+167,power sphere,041.mp4,32450,32525,Power,3.0,circular,pow-circular,0:21:38
+168,precision disk,041.mp4,32525,32575,Precision,2.0,circular,pre-circular,0:21:41
+169,power sphere,041.mp4,32575,33050,Power,19.0,circular,pow-circular,0:21:43
+170,lateral pinch,041.mp4,33225,33275,Intermediate,2.0,int-lateral,int-lateral,0:22:09
+171,thumb-4 finger,041.mp4,33325,33375,Precision,2.0,pre-prismatic,pre-prismatic,0:22:13
+172,thumb-4 finger,041.mp4,33425,33475,Precision,2.0,pre-prismatic,pre-prismatic,0:22:17
+173,thumb-index finger,041.mp4,33475,33550,Precision,3.0,pre-pinch,pre-pinch,0:22:19
+174,thumb-2 finger,041.mp4,33575,33625,Precision,2.0,pre-prismatic,pre-prismatic,0:22:23
+175,thumb-4 finger,041.mp4,33625,33675,Precision,2.0,pre-prismatic,pre-prismatic,0:22:25
+177,thumb-4 finger,041.mp4,34425,34475,Precision,2.0,pre-prismatic,pre-prismatic,0:22:57
+178,power sphere,041.mp4,36475,36525,Power,2.0,circular,pow-circular,0:24:19
+179,lateral pinch,044.mp4,7150,7375,Intermediate,9.0,int-lateral,int-lateral,0:04:46

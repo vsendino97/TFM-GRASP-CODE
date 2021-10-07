@@ -1,0 +1,56 @@
+{
+    "name": "slow_r50",
+    "n_gpu": 4,
+    "arch": {
+        "type": "VideoModel",
+        "args": {
+            "model_name": "slow_r50",
+            "num_categories": 7,
+            "tune_layers": 8,
+            "class_layer": "small"
+        }
+    },
+    "data_loader": {
+        "type": "VideoDataLoader",
+        "args": {
+            "csv_dir": "data/yale_dataset/yale_train.csv",
+            "data_dir": "/home/victor.sendinog/data-local/Yale-Grasp-Dataset/",
+            "batch_size": 32,
+            "shuffle": true,
+            "validation_split": 0.2,
+            "num_workers": 4,
+            "num_frames": 8,
+            "categories": "SmallCategories",
+            "sampling_mode": "uniform"
+        }
+    },
+    "optimizer": {
+        "type": "Adam",
+        "args": {
+            "lr": 0.0001,
+            "weight_decay": 0,
+            "amsgrad": true
+        }
+    },
+    "loss": "cross_entropy_loss",
+    "metrics": [
+        "accuracy",
+        "top_k_acc"
+    ],
+    "lr_scheduler": {
+        "type": "StepLR",
+        "args": {
+            "step_size": 50,
+            "gamma": 0.1
+        }
+    },
+    "trainer": {
+        "epochs": 100,
+        "save_dir": "results/",
+        "save_period": 1,
+        "verbosity": 2,
+        "monitor": "min val_loss",
+        "early_stop": 20,
+        "tensorboard": true
+    }
+}

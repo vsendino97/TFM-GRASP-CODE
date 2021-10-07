@@ -1,0 +1,1514 @@
+ID,Grasp,Video,StartFrame,EndFrame,PIP,Subject,Duration,BigCategories,SmallCategories,Timestamp
+4088,precision disk,177.mp4,9805,9989,Precision,Housekeeper 2,7.36,circular,pre-circular,06:32.2
+1714,precision disk,106.mp4,22265,22365,Precision,Housekeeper 1,4.001,circular,pre-circular,14:50.6
+9177,lateral tripod,077.mp4,1430,1439,Intermediate,Machinist 2,0.36,int-lateral,int-lateral,00:57.2
+8305,lateral tripod,069.mp4,5705,5843,Intermediate,Machinist 2,5.52,int-lateral,int-lateral,03:48.2
+8200,tripod,068.mp4,10092,10262,Precision,Machinist 2,6.8,circular,pre-circular,06:43.7
+6081,lateral tripod,093.mp4,4932,4960,Intermediate,Machinist 1,1.12,int-lateral,int-lateral,03:17.3
+10402,lateral pinch,016.mp4,9122,9154,Intermediate,Machinist 2,1.3,int-lateral,int-lateral,06:04.9
+7852,lateral tripod,064.mp4,8497,8509,Intermediate,Machinist 2,0.48,int-lateral,int-lateral,05:39.9
+3272,medium wrap,159.mp4,14172,14329,Power,Housekeeper 2,6.28,pow-prismatic,pow-cylindric,09:26.9
+7386,lateral tripod,059.mp4,1952,2014,Intermediate,Machinist 2,2.48,int-lateral,int-lateral,01:18.1
+1616,large diameter,052.mp4,9450,9497,Power,Housekeeper 1,1.88,pow-prismatic,pow-cylindric,0:06:18
+6285,tripod,094.mp4,41155,41371,Precision,Machinist 1,8.64,circular,pre-circular,27:26.2
+1186,power sphere,048.mp4,37425,37642,Power,Housekeeper 1,8.68,circular,pow-circular,0:24:57
+2158,lateral pinch,130.mp4,1937,1997,Intermediate,Housekeeper 2,2.4,int-lateral,int-lateral,01:17.5
+7497,thumb-2 finger,060.mp4,3825,3841,Precision,Machinist 2,0.64,pre-prismatic,pre-prismatic,02:33.0
+1150,medium wrap,048.mp4,28650,29562,Power,Housekeeper 1,36.48,pow-prismatic,pow-cylindric,0:19:06
+3477,medium wrap,165.mp4,1155,1994,Power,Housekeeper 2,33.56,pow-prismatic,pow-cylindric,00:46.2
+9877,power sphere,002.mp4,8295,8370,Power,Machinist 2,3.0,circular,pow-circular,05:31.8
+10091,medium wrap,011.mp4,9692,9934,Power,Machinist 2,9.7,pow-prismatic,pow-cylindric,06:27.7
+9833,lateral tripod,001.mp4,10752,10919,Intermediate,Machinist 2,6.7,int-lateral,int-lateral,07:10.1
+2683,power sphere,152.mp4,2372,2405,Power,Housekeeper 2,1.33,circular,pow-circular,01:34.9
+3078,precision disk,157.mp4,11890,12312,Precision,Housekeeper 2,16.88,circular,pre-circular,07:55.6
+6085,lateral tripod,093.mp4,5067,5115,Intermediate,Machinist 1,1.92,int-lateral,int-lateral,03:22.7
+117,thumb-4 finger,041.mp4,14375,14400,Precision,Housekeeper 1,1.0,pre-prismatic,pre-prismatic,0:09:35
+2464,lateral tripod,149.mp4,12325,12416,Intermediate,Housekeeper 2,3.64,int-lateral,int-lateral,08:13.0
+4519,ring,084.mp4,43000,43175,Power,Machinist 1,7.0,pow-prismatic,pow-cylindric,0:28:40
+7658,lateral pinch,062.mp4,3365,3445,Intermediate,Machinist 2,3.2,int-lateral,int-lateral,02:14.6
+6609,lateral pinch,096.mp4,10250,10265,Intermediate,Machinist 1,0.6,int-lateral,int-lateral,06:50.0
+2049,lateral tripod,113.mp4,810,882,Intermediate,Housekeeper 1,2.88,int-lateral,int-lateral,00:32.4
+10224,thumb-3 finger,013.mp4,13085,13245,Precision,Machinist 2,6.4,pre-prismatic,pre-prismatic,08:43.4
+4785,thumb-3 finger,086.mp4,19200,19225,Precision,Machinist 1,1.0,pre-prismatic,pre-prismatic,0:12:48
+3434,lateral pinch,164.mp4,3350,3503,Intermediate,Housekeeper 2,6.12,int-lateral,int-lateral,02:14.0
+5410,medium wrap,089.mp4,10650,10850,Power,Machinist 1,8.0,pow-prismatic,pow-cylindric,0:07:06
+6401,lateral tripod,095.mp4,12960,12982,Intermediate,Machinist 1,0.88,int-lateral,int-lateral,08:38.4
+8540,lateral tripod,070.mp4,10560,10568,Intermediate,Machinist 2,0.32,int-lateral,int-lateral,07:02.4
+10403,lateral pinch,016.mp4,9350,9373,Intermediate,Machinist 2,0.92,int-lateral,int-lateral,06:14.0
+7433,tripod,059.mp4,8970,9067,Precision,Machinist 2,3.88,circular,pre-circular,05:58.8
+812,power sphere,045.mp4,8775,8850,Power,Housekeeper 1,3.0,circular,pow-circular,0:05:51
+8869,lateral tripod,073.mp4,11420,11437,Intermediate,Machinist 2,0.68,int-lateral,int-lateral,07:36.8
+5034,tripod,087.mp4,32625,32650,Precision,Machinist 1,1.0,circular,pre-circular,0:21:45
+6716,thumb-4 finger,096.mp4,29725,29922,Precision,Machinist 1,7.88,pre-prismatic,pre-prismatic,19:49.0
+9017,thumb-2 finger,075.mp4,1430,1524,Precision,Machinist 2,3.76,pre-prismatic,pre-prismatic,00:57.2
+7595,lateral pinch,061.mp4,77,122,Intermediate,Machinist 2,1.8,int-lateral,int-lateral,00:03.1
+8267,tripod,069.mp4,1725,1843,Precision,Machinist 2,4.72,circular,pre-circular,01:09.0
+1422,medium wrap,051.mp4,1075,1246,Power,Housekeeper 1,6.84,pow-prismatic,pow-cylindric,0:00:43
+4920,tripod,087.mp4,1950,2000,Precision,Machinist 1,2.0,circular,pre-circular,0:01:18
+1905,medium wrap,111.mp4,5922,5972,Power,Housekeeper 1,2.0,pow-prismatic,pow-cylindric,03:56.9
+2736,lateral tripod,152.mp4,9937,10028,Intermediate,Housekeeper 2,3.67,int-lateral,int-lateral,06:37.5
+9309,thumb-2 finger,079.mp4,2847,2893,Precision,Machinist 2,1.84,pre-prismatic,pre-prismatic,01:53.9
+5554,lateral pinch,090.mp4,8600,8925,Intermediate,Machinist 1,13.0,int-lateral,int-lateral,0:05:44
+4067,lateral pinch,177.mp4,7215,7227,Intermediate,Housekeeper 2,0.48,int-lateral,int-lateral,04:48.6
+3012,precision disk,157.mp4,1560,1726,Precision,Housekeeper 2,6.64,circular,pre-circular,01:02.4
+1911,medium wrap,111.mp4,7195,7347,Power,Housekeeper 1,6.08,pow-prismatic,pow-cylindric,04:47.8
+3365,lateral tripod,162.mp4,992,1004,Intermediate,Housekeeper 2,0.48,int-lateral,int-lateral,00:39.7
+6109,light tool,093.mp4,12532,12632,Power,Machinist 1,4.0,pow-prismatic,pow-oblique,08:21.3
+6983,adduction,054.mp4,475,497,Intermediate,Machinist 2,0.88,pre-prismatic,pre-pinch,00:19.0
+528,index finger extension,043.mp4,34225,34725,Power,Housekeeper 1,20.0,pow-prismatic,pow-oblique,0:22:49
+10429,medium wrap,016.mp4,14977,15022,Power,Machinist 2,1.8,pow-prismatic,pow-cylindric,09:59.1
+9445,thumb-2 finger,080.mp4,2600,2689,Precision,Machinist 2,3.56,pre-prismatic,pre-prismatic,01:44.0
+1722,medium wrap,106.mp4,23940,24304,Power,Housekeeper 1,14.56,pow-prismatic,pow-cylindric,15:57.6
+6365,tripod,095.mp4,8290,8476,Precision,Machinist 1,7.44,circular,pre-circular,05:31.6
+3503,medium wrap,166.mp4,2137,2342,Power,Housekeeper 2,8.2,pow-prismatic,pow-cylindric,01:25.5
+4272,lateral tripod,117.mp4,5740,5762,Intermediate,Housekeeper 2,0.88,int-lateral,int-lateral,03:49.6
+6664,sphere-4 finger,096.mp4,19637,19964,Power,Machinist 1,13.08,circular,pow-circular,13:05.5
+349,tripod,043.mp4,1850,1875,Precision,Housekeeper 1,1.0,circular,pre-circular,0:01:14
+2317,thumb-2 finger,144.mp4,7930,8010,Precision,Housekeeper 2,3.2,pre-prismatic,pre-prismatic,05:17.2
+8497,lateral tripod,070.mp4,7102,7171,Intermediate,Machinist 2,2.78,int-lateral,int-lateral,04:44.1
+3633,medium wrap,170.mp4,237,336,Power,Housekeeper 2,3.96,pow-prismatic,pow-cylindric,00:09.5
+6039,light tool,092.mp4,39790,39814,Power,Machinist 1,0.97,pow-prismatic,pow-oblique,26:31.6
+7300,adduction,057.mp4,13557,13779,Intermediate,Machinist 2,8.88,pre-prismatic,pre-pinch,09:02.3
+7372,adduction,058.mp4,13577,13737,Intermediate,Machinist 2,6.4,pre-prismatic,pre-pinch,09:03.1
+8870,sphere-3 finger,073.mp4,11437,11454,Power,Machinist 2,0.68,circular,pow-circular,07:37.5
+5948,power sphere,092.mp4,23382,23434,Power,Machinist 1,2.08,circular,pow-circular,15:35.3
+6639,thumb-index finger,096.mp4,14922,14968,Precision,Machinist 1,1.84,pre-prismatic,pre-pinch,09:56.9
+1732,lateral tripod,107.mp4,4715,4845,Intermediate,Housekeeper 1,5.2,int-lateral,int-lateral,03:08.6
+1035,light tool,047.mp4,25975,26134,Power,Housekeeper 1,6.36,pow-prismatic,pow-oblique,0:17:19
+1034,medium wrap,047.mp4,25350,25519,Power,Housekeeper 1,6.76,pow-prismatic,pow-cylindric,0:16:54
+1222,power sphere,048.mp4,44550,44625,Power,Housekeeper 1,3.0,circular,pow-circular,0:29:42
+5895,light tool,092.mp4,9950,10135,Power,Machinist 1,7.4,pow-prismatic,pow-oblique,06:38.0
+5060,thumb-4 finger,087.mp4,35800,35825,Precision,Machinist 1,1.0,pre-prismatic,pre-prismatic,0:23:52
+7082,tip pinch,054.mp4,13644,13664,Precision,Machinist 2,0.8,pre-prismatic,pre-pinch,09:05.8
+1281,precision disk,049.mp4,18300,18949,Precision,Housekeeper 1,25.96,circular,pre-circular,0:12:12
+2327,thumb-4 finger,144.mp4,14890,14949,Precision,Housekeeper 2,2.38,pre-prismatic,pre-prismatic,09:55.6
+1022,lateral pinch,047.mp4,19025,19085,Intermediate,Housekeeper 1,2.4,int-lateral,int-lateral,0:12:41
+3,lateral pinch,040.mp4,1725,1775,Intermediate,Housekeeper 1,2.0,int-lateral,int-lateral,0:01:09
+8402,lateral tripod,069.mp4,14422,14443,Intermediate,Machinist 2,0.84,int-lateral,int-lateral,09:36.9
+8020,medium wrap,066.mp4,8880,8911,Power,Machinist 2,1.24,pow-prismatic,pow-cylindric,05:55.2
+3942,precision disk,176.mp4,6532,6674,Precision,Housekeeper 2,5.68,circular,pre-circular,04:21.3
+1386,lateral tripod,050.mp4,35150,35232,Intermediate,Housekeeper 1,3.28,int-lateral,int-lateral,0:23:26
+7453,lateral tripod,059.mp4,10685,10704,Intermediate,Machinist 2,0.76,int-lateral,int-lateral,07:07.4
+6971,lateral tripod,053.mp4,10107,10127,Intermediate,Machinist 2,0.8,int-lateral,int-lateral,06:44.3
+4243,lateral tripod,117.mp4,735,751,Intermediate,Housekeeper 2,0.64,int-lateral,int-lateral,00:29.4
+4070,medium wrap,177.mp4,7277,7333,Power,Housekeeper 2,2.24,pow-prismatic,pow-cylindric,04:51.1
+760,medium wrap,044.mp4,38125,38175,Power,Housekeeper 1,2.0,pow-prismatic,pow-cylindric,0:25:25
+4894,thumb-index finger,086.mp4,40425,40475,Precision,Machinist 1,2.0,pre-prismatic,pre-pinch,0:26:57
+5526,thumb-2 finger,090.mp4,3450,3650,Precision,Machinist 1,8.0,pre-prismatic,pre-prismatic,0:02:18
+8904,tripod,074.mp4,1395,1406,Precision,Machinist 2,0.44,circular,pre-circular,00:55.8
+8704,lateral tripod,073.mp4,495,535,Intermediate,Machinist 2,1.6,int-lateral,int-lateral,00:19.8
+2635,power sphere,151.mp4,11840,11958,Power,Housekeeper 2,4.72,circular,pow-circular,07:53.6
+6977,tripod,054.mp4,242,322,Precision,Machinist 2,3.2,circular,pre-circular,00:09.7
+9464,thumb-2 finger,080.mp4,4905,5244,Precision,Machinist 2,13.56,pre-prismatic,pre-prismatic,03:16.2
+143,index finger extension,041.mp4,25900,25950,Power,Housekeeper 1,2.0,pow-prismatic,pow-oblique,0:17:16
+1031,power sphere,047.mp4,21375,21500,Power,Housekeeper 1,5.0,circular,pow-circular,0:14:15
+271,medium wrap,042.mp4,17350,17375,Power,Housekeeper 1,1.0,pow-prismatic,pow-cylindric,0:11:34
+7106,lateral tripod,055.mp4,1989,2006,Intermediate,Machinist 2,0.68,int-lateral,int-lateral,01:19.6
+7964,lateral tripod,065.mp4,14042,14099,Intermediate,Machinist 2,2.28,int-lateral,int-lateral,09:21.7
+8073,thumb-index finger,067.mp4,2765,2785,Precision,Machinist 2,0.8,pre-prismatic,pre-pinch,01:50.6
+5483,light tool,089.mp4,40375,40500,Power,Machinist 1,5.0,pow-prismatic,pow-oblique,0:26:55
+6453,power sphere,095.mp4,21515,21579,Power,Machinist 1,2.56,circular,pow-circular,14:20.6
+7410,thumb-2 finger,059.mp4,6350,6360,Precision,Machinist 2,0.4,pre-prismatic,pre-prismatic,04:14.0
+4198,index finger extension,116.mp4,7162,7243,Power,Housekeeper 2,3.24,pow-prismatic,pow-oblique,04:46.5
+6879,light tool,053.mp4,2137,2264,Power,Machinist 2,5.11,pow-prismatic,pow-oblique,01:25.5
+1579,precision disk,051.mp4,40675,41382,Precision,Housekeeper 1,28.28,circular,pre-circular,0:27:07
+7467,tripod,059.mp4,14144,14196,Precision,Machinist 2,2.08,circular,pre-circular,09:25.8
+8154,lateral tripod,068.mp4,4262,4296,Intermediate,Machinist 2,1.36,int-lateral,int-lateral,02:50.5
+1660,medium wrap,106.mp4,5550,5732,Power,Housekeeper 1,7.28,pow-prismatic,pow-cylindric,03:42.0
+9142,thumb-2 finger,076.mp4,12322,12350,Precision,Machinist 2,1.12,pre-prismatic,pre-prismatic,08:12.9
+5449,adduction,089.mp4,27550,27625,Intermediate,Machinist 1,3.0,pre-prismatic,pre-pinch,0:18:22
+9525,lateral tripod,080.mp4,14460,14477,Intermediate,Machinist 2,0.68,int-lateral,int-lateral,09:38.4
+8930,lateral tripod,074.mp4,4752,4763,Intermediate,Machinist 2,0.44,int-lateral,int-lateral,03:10.1
+2905,medium wrap,155.mp4,11790,11888,Power,Housekeeper 2,3.92,pow-prismatic,pow-cylindric,07:51.6
+3372,lateral tripod,162.mp4,1210,1243,Intermediate,Housekeeper 2,1.32,int-lateral,int-lateral,00:48.4
+3854,index finger extension,175.mp4,2215,2536,Power,Housekeeper 2,12.84,pow-prismatic,pow-oblique,01:28.6
+7185,lateral tripod,056.mp4,325,397,Intermediate,Machinist 2,2.88,int-lateral,int-lateral,00:13.0
+1177,precision disk,048.mp4,36350,36520,Precision,Housekeeper 1,6.8,circular,pre-circular,0:24:14
+4930,medium wrap,087.mp4,8800,9700,Power,Machinist 1,36.0,pow-prismatic,pow-cylindric,0:05:52
+3610,precision disk,169.mp4,4205,4595,Precision,Housekeeper 2,15.6,circular,pre-circular,02:48.2
+6607,thumb-3 finger,096.mp4,10097,10166,Precision,Machinist 1,2.76,pre-prismatic,pre-prismatic,06:43.9
+3426,medium wrap,163.mp4,13805,13996,Power,Housekeeper 2,7.66,pow-prismatic,pow-cylindric,09:12.2
+2166,lateral pinch,137.mp4,2010,2092,Intermediate,Housekeeper 2,3.3,int-lateral,int-lateral,01:20.4
+7415,tripod,059.mp4,6850,6891,Precision,Machinist 2,1.64,circular,pre-circular,04:34.0
+9972,lateral pinch,004.mp4,8510,8637,Intermediate,Machinist 2,5.1,int-lateral,int-lateral,05:40.4
+1116,lateral pinch,048.mp4,18325,18362,Intermediate,Housekeeper 1,1.48,int-lateral,int-lateral,0:12:13
+3147,index finger extension,158.mp4,6290,6425,Power,Housekeeper 2,5.41,pow-prismatic,pow-oblique,04:11.6
+401,medium wrap,043.mp4,8750,8825,Power,Housekeeper 1,3.0,pow-prismatic,pow-cylindric,0:05:50
+3054,power sphere,157.mp4,9682,9703,Power,Housekeeper 2,0.84,circular,pow-circular,06:27.3
+10280,lateral pinch,015.mp4,0,114,Intermediate,Machinist 2,4.6,int-lateral,int-lateral,00:00.0
+8321,tip pinch,069.mp4,6784,6828,Precision,Machinist 2,1.76,pre-prismatic,pre-pinch,04:31.4
+2740,precision disk,152.mp4,12869,12913,Precision,Housekeeper 2,1.76,circular,pre-circular,08:34.8
+9622,index finger extension,082.mp4,345,373,Power,Machinist 2,1.12,pow-prismatic,pow-oblique,00:13.8
+7815,lateral pinch,064.mp4,2195,2533,Intermediate,Machinist 2,13.52,int-lateral,int-lateral,01:27.8
+9496,thumb-3 finger,080.mp4,9910,9922,Precision,Machinist 2,0.48,pre-prismatic,pre-prismatic,06:36.4
+6928,thumb-2 finger,053.mp4,6130,6142,Precision,Machinist 2,0.48,pre-prismatic,pre-prismatic,04:05.2
+3106,thumb-4 finger,158.mp4,2172,2216,Precision,Housekeeper 2,1.76,pre-prismatic,pre-prismatic,01:26.9
+9472,thumb-index finger,080.mp4,7230,7238,Precision,Machinist 2,0.32,pre-prismatic,pre-pinch,04:49.2
+1511,precision disk,051.mp4,27200,27243,Precision,Housekeeper 1,1.72,circular,pre-circular,0:18:08
+7233,index finger extension,057.mp4,4022,4106,Power,Machinist 2,3.36,pow-prismatic,pow-oblique,02:40.9
+288,lateral pinch,042.mp4,20500,20575,Intermediate,Housekeeper 1,3.0,int-lateral,int-lateral,0:13:40
+6997,adduction,054.mp4,2185,2194,Intermediate,Machinist 2,0.36,pre-prismatic,pre-pinch,01:27.4
+9953,thumb-3 finger,004.mp4,1327,1359,Precision,Machinist 2,1.3,pre-prismatic,pre-prismatic,00:53.1
+1387,medium wrap,050.mp4,35250,35755,Power,Housekeeper 1,20.2,pow-prismatic,pow-cylindric,0:23:30
+392,thumb-4 finger,043.mp4,8075,8100,Precision,Housekeeper 1,1.0,pre-prismatic,pre-prismatic,0:05:23
+1612,precision disk,052.mp4,8450,9220,Precision,Housekeeper 1,30.8,circular,pre-circular,0:05:38
+5133,lateral pinch,088.mp4,4200,4300,Intermediate,Machinist 1,4.0,int-lateral,int-lateral,0:02:48
+2923,lateral pinch,155.mp4,13890,13941,Intermediate,Housekeeper 2,2.04,int-lateral,int-lateral,09:15.6
+1304,medium wrap,049.mp4,29250,30501,Power,Housekeeper 1,50.04,pow-prismatic,pow-cylindric,0:19:30
+3474,adducted thumb,164.mp4,14377,14478,Power,Housekeeper 2,4.04,pow-prismatic,pow-oblique,09:35.1
+934,power sphere,178.mp4,15100,15475,Power,Housekeeper 1,15.0,circular,pow-circular,0:10:04
+3721,precision disk,171.mp4,13294,13618,Precision,Housekeeper 2,12.96,circular,pre-circular,08:51.8
+5331,tripod,088.mp4,41600,41675,Precision,Machinist 1,3.0,circular,pre-circular,0:27:44
+8106,tripod,068.mp4,505,597,Precision,Machinist 2,3.68,circular,pre-circular,00:20.2
+9876,thumb-index finger,002.mp4,8267,8287,Precision,Machinist 2,0.8,pre-prismatic,pre-pinch,05:30.7
+7601,thumb-4 finger,061.mp4,1555,1610,Precision,Machinist 2,2.2,pre-prismatic,pre-prismatic,01:02.2
+346,thumb-3 finger,043.mp4,1375,1450,Precision,Housekeeper 1,3.0,pre-prismatic,pre-prismatic,0:00:55
+7173,tripod,055.mp4,14312,14364,Precision,Machinist 2,2.08,circular,pre-circular,09:32.5
+3114,thumb-4 finger,158.mp4,2755,2826,Precision,Housekeeper 2,2.84,pre-prismatic,pre-prismatic,01:50.2
+2342,thumb-4 finger,145.mp4,3475,3615,Precision,Housekeeper 2,5.6,pre-prismatic,pre-prismatic,02:19.0
+8168,tip pinch,068.mp4,5287,5335,Precision,Machinist 2,1.92,pre-prismatic,pre-pinch,03:31.5
+3280,precision disk,160.mp4,2370,2788,Precision,Housekeeper 2,16.72,circular,pre-circular,01:34.8
+4859,lateral tripod,086.mp4,35625,35750,Intermediate,Machinist 1,5.0,int-lateral,int-lateral,0:23:45
+8816,thumb-2 finger,073.mp4,6240,6450,Precision,Machinist 2,8.4,pre-prismatic,pre-prismatic,04:09.6
+1406,power sphere,050.mp4,39925,39997,Power,Housekeeper 1,2.88,circular,pow-circular,0:26:37
+8412,tripod,070.mp4,137,168,Precision,Machinist 2,1.24,circular,pre-circular,00:05.5
+3094,adducted thumb,158.mp4,1102,1191,Power,Housekeeper 2,3.58,pow-prismatic,pow-oblique,00:44.1
+4812,tripod,086.mp4,22375,22400,Precision,Machinist 1,1.0,circular,pre-circular,0:14:55
+9799,power sphere,001.mp4,657,762,Power,Machinist 2,4.2,circular,pow-circular,00:26.3
+290,lateral pinch,042.mp4,20650,20875,Intermediate,Housekeeper 1,9.0,int-lateral,int-lateral,0:13:46
+636,thumb-index finger,044.mp4,10050,10075,Precision,Housekeeper 1,1.0,pre-prismatic,pre-pinch,0:06:42
+9527,thumb-2 finger,080.mp4,14530,14574,Precision,Machinist 2,1.76,pre-prismatic,pre-prismatic,09:41.2
+4763,lateral pinch,086.mp4,15600,15675,Intermediate,Machinist 1,3.0,int-lateral,int-lateral,0:10:24
+3862,precision disk,176.mp4,442,541,Precision,Housekeeper 2,3.96,circular,pre-circular,00:17.7
+10450,precision disk,017.mp4,7127,7204,Precision,Machinist 2,3.1,circular,pre-circular,04:45.1
+1260,precision disk,049.mp4,8025,8648,Precision,Housekeeper 1,24.92,circular,pre-circular,0:05:21
+5394,adduction,089.mp4,6950,7125,Intermediate,Machinist 1,7.0,pre-prismatic,pre-pinch,0:04:38
+4307,medium wrap,117.mp4,10762,10804,Power,Housekeeper 2,1.68,pow-prismatic,pow-cylindric,07:10.5
+7262,medium wrap,057.mp4,8057,8124,Power,Machinist 2,2.68,pow-prismatic,pow-cylindric,05:22.3
+4798,precision disk,086.mp4,20875,21025,Precision,Machinist 1,6.0,circular,pre-circular,0:13:55
+6719,tripod,096.mp4,30105,30288,Precision,Machinist 1,7.32,circular,pre-circular,20:04.2
+5423,ring,089.mp4,13225,13300,Power,Machinist 1,3.0,pow-prismatic,pow-cylindric,0:08:49
+5754,light tool,091.mp4,15140,15249,Power,Machinist 1,4.36,pow-prismatic,pow-oblique,10:05.6
+4779,light tool,086.mp4,17950,18125,Power,Machinist 1,7.0,pow-prismatic,pow-oblique,0:11:58
+8086,thumb-2 finger,067.mp4,4232,4246,Precision,Machinist 2,0.56,pre-prismatic,pre-prismatic,02:49.3
+4073,index finger extension,177.mp4,8220,8281,Power,Housekeeper 2,2.44,pow-prismatic,pow-oblique,05:28.8
+3948,medium wrap,176.mp4,6820,6860,Power,Housekeeper 2,1.6,pow-prismatic,pow-cylindric,04:32.8
+7534,lateral tripod,060.mp4,5765,5776,Intermediate,Machinist 2,0.44,int-lateral,int-lateral,03:50.6
+9545,precision disk,081.mp4,1727,1898,Precision,Machinist 2,6.84,circular,pre-circular,01:09.1
+7455,medium wrap,059.mp4,10767,12208,Power,Machinist 2,57.64,pow-prismatic,pow-cylindric,07:10.7
+3265,tripod,159.mp4,13572,13594,Precision,Housekeeper 2,0.88,circular,pre-circular,09:02.9
+5367,quadpod,089.mp4,2000,2075,Precision,Machinist 1,3.0,circular,pre-circular,0:01:20
+10465,power sphere,017.mp4,11625,11652,Power,Machinist 2,1.1,circular,pow-circular,07:45.0
+9075,thumb-index finger,076.mp4,2415,2423,Precision,Machinist 2,0.32,pre-prismatic,pre-pinch,01:36.6
+4078,lateral pinch,177.mp4,8715,8773,Intermediate,Housekeeper 2,2.32,int-lateral,int-lateral,05:48.6
+9151,thumb-4 finger,076.mp4,13505,13532,Precision,Machinist 2,1.08,pre-prismatic,pre-prismatic,09:00.2
+483,thumb-index finger,043.mp4,25525,25550,Precision,Housekeeper 1,1.0,pre-prismatic,pre-pinch,0:17:01
+8805,lateral tripod,073.mp4,5915,5926,Intermediate,Machinist 2,0.44,int-lateral,int-lateral,03:56.6
+8932,small diameter,074.mp4,4885,4914,Power,Machinist 2,1.16,pow-prismatic,pow-cylindric,03:15.4
+524,thumb-4 finger,043.mp4,33375,33550,Precision,Housekeeper 1,7.0,pre-prismatic,pre-prismatic,0:22:15
+9042,thumb-2 finger,075.mp4,7559,7658,Precision,Machinist 2,3.96,pre-prismatic,pre-prismatic,05:02.4
+842,precision disk,045.mp4,16900,17700,Precision,Housekeeper 1,32.0,circular,pre-circular,0:11:16
+9549,small diameter,081.mp4,2195,2213,Power,Machinist 2,0.72,pow-prismatic,pow-cylindric,01:27.8
+815,thumb-index finger,045.mp4,9650,9700,Precision,Housekeeper 1,2.0,pre-prismatic,pre-pinch,0:06:26
+5049,tripod,087.mp4,33900,34125,Precision,Machinist 1,9.0,circular,pre-circular,0:22:36
+9798,thumb-2 finger,001.mp4,525,585,Precision,Machinist 2,2.4,pre-prismatic,pre-prismatic,00:21.0
+7443,lateral pinch,059.mp4,10107,10115,Intermediate,Machinist 2,0.32,int-lateral,int-lateral,06:44.3
+1737,medium wrap,107.mp4,5785,5929,Power,Housekeeper 1,5.76,pow-prismatic,pow-cylindric,03:51.4
+376,power sphere,043.mp4,20250,20275,Power,Housekeeper 1,1.0,circular,pow-circular,0:13:30
+5971,light tool,092.mp4,27547,27559,Power,Machinist 1,0.48,pow-prismatic,pow-oblique,18:21.9
+4040,medium wrap,177.mp4,2780,2797,Power,Housekeeper 2,0.68,pow-prismatic,pow-cylindric,01:51.2
+343,thumb-index finger,043.mp4,1275,1300,Precision,Housekeeper 1,1.0,pre-prismatic,pre-pinch,0:00:51
+8255,thumb-2 finger,069.mp4,890,996,Precision,Machinist 2,4.24,pre-prismatic,pre-prismatic,00:35.6
+6089,thumb-2 finger,093.mp4,5250,5575,Precision,Machinist 1,13.0,pre-prismatic,pre-prismatic,03:30.0
+2834,medium wrap,153.mp4,13815,14339,Power,Housekeeper 2,20.96,pow-prismatic,pow-cylindric,09:12.6
+3822,adducted thumb,174.mp4,1805,2189,Power,Housekeeper 2,15.36,pow-prismatic,pow-oblique,01:12.2
+5534,index finger extension,090.mp4,5525,5575,Power,Machinist 1,2.0,pow-prismatic,pow-oblique,0:03:41
+3444,adducted thumb,164.mp4,5727,5844,Power,Housekeeper 2,4.68,pow-prismatic,pow-oblique,03:49.1
+8501,thumb-4 finger,070.mp4,7417,7473,Precision,Machinist 2,2.24,pre-prismatic,pre-prismatic,04:56.7
+8873,lateral tripod,073.mp4,11495,11514,Intermediate,Machinist 2,0.76,int-lateral,int-lateral,07:39.8
+1197,power sphere,048.mp4,39000,39026,Power,Housekeeper 1,1.04,circular,pow-circular,0:26:00
+8359,thumb-index finger,069.mp4,10250,10292,Precision,Machinist 2,1.68,pre-prismatic,pre-pinch,06:50.0
+668,thumb-4 finger,044.mp4,16875,17075,Precision,Housekeeper 1,8.0,pre-prismatic,pre-prismatic,0:11:15
+451,thumb-index finger,043.mp4,20050,20100,Precision,Housekeeper 1,2.0,pre-prismatic,pre-pinch,0:13:22
+4455,medium wrap,084.mp4,18950,19050,Power,Machinist 1,4.0,pow-prismatic,pow-cylindric,0:12:38
+1158,power sphere,048.mp4,32675,32710,Power,Housekeeper 1,1.4,circular,pow-circular,0:21:47
+9119,lateral tripod,076.mp4,10252,10277,Intermediate,Machinist 2,1.0,int-lateral,int-lateral,06:50.1
+5777,thumb-index finger,091.mp4,20635,20649,Precision,Machinist 1,0.56,pre-prismatic,pre-pinch,13:45.4
+6289,tripod,094.mp4,43475,43574,Precision,Machinist 1,3.96,circular,pre-circular,28:59.0
+2173,thumb-2 finger,137.mp4,7215,7224,Precision,Housekeeper 2,0.36,pre-prismatic,pre-prismatic,04:48.6
+3599,small diameter,169.mp4,457,528,Power,Housekeeper 2,2.87,pow-prismatic,pow-cylindric,00:18.3
+6523,tripod,095.mp4,33880,34087,Precision,Machinist 1,8.29,circular,pre-circular,22:35.2
+6028,light tool,092.mp4,37225,37237,Power,Machinist 1,0.48,pow-prismatic,pow-oblique,24:49.0
+1645,sphere-3 finger,106.mp4,2510,2546,Power,Housekeeper 1,1.44,circular,pow-circular,01:40.4
+10326,thumb-2 finger,015.mp4,9370,9460,Precision,Machinist 2,3.6,pre-prismatic,pre-prismatic,06:14.8
+9415,thumb-2 finger,079.mp4,14557,14629,Precision,Machinist 2,2.88,pre-prismatic,pre-prismatic,09:42.3
+1967,lateral pinch,111.mp4,19762,19776,Intermediate,Housekeeper 1,0.56,int-lateral,int-lateral,13:10.5
+7917,lateral pinch,065.mp4,7142,7235,Intermediate,Machinist 2,3.72,int-lateral,int-lateral,04:45.7
+714,medium wrap,044.mp4,31225,31425,Power,Housekeeper 1,8.0,pow-prismatic,pow-cylindric,0:20:49
+182,thumb-index finger,041.mp4,37275,37325,Precision,Housekeeper 1,2.0,pre-prismatic,pre-pinch,0:24:51
+1724,large diameter,107.mp4,337,389,Power,Housekeeper 1,2.08,pow-prismatic,pow-cylindric,00:13.5
+607,power sphere,044.mp4,6450,6500,Power,Housekeeper 1,2.0,circular,pow-circular,0:04:18
+10181,lateral tripod,013.mp4,2275,2445,Intermediate,Machinist 2,6.8,int-lateral,int-lateral,01:31.0
+1138,index finger extension,048.mp4,24875,25032,Power,Housekeeper 1,6.28,pow-prismatic,pow-oblique,0:16:35
+8756,lateral tripod,073.mp4,3092,3125,Intermediate,Machinist 2,1.32,int-lateral,int-lateral,02:03.7
+1570,thumb-index finger,051.mp4,40050,40077,Precision,Housekeeper 1,1.08,pre-prismatic,pre-pinch,0:26:42
+626,precision disk,044.mp4,9325,9375,Precision,Housekeeper 1,2.0,circular,pre-circular,0:06:13
+5983,light tool,092.mp4,29614,29704,Power,Machinist 1,3.63,pow-prismatic,pow-oblique,19:44.6
+1090,lateral pinch,048.mp4,8825,8851,Intermediate,Housekeeper 1,1.04,int-lateral,int-lateral,0:05:53
+9036,thumb-3 finger,075.mp4,4380,4397,Precision,Machinist 2,0.68,pre-prismatic,pre-prismatic,02:55.2
+8018,lateral tripod,066.mp4,8850,8863,Intermediate,Machinist 2,0.52,int-lateral,int-lateral,05:54.0
+264,index finger extension,042.mp4,15500,15600,Power,Housekeeper 1,4.0,pow-prismatic,pow-oblique,0:10:20
+4151,medium wrap,179.mp4,6792,6806,Power,Housekeeper 2,0.56,pow-prismatic,pow-cylindric,04:31.7
+10199,thumb-3 finger,013.mp4,5670,5682,Precision,Machinist 2,0.5,pre-prismatic,pre-prismatic,03:46.8
+6861,thumb-4 finger,099.mp4,2230,2250,Precision,Machinist 1,0.8,pre-prismatic,pre-prismatic,01:29.2
+58,thumb-4 finger,041.mp4,4450,4550,Precision,Housekeeper 1,4.0,pre-prismatic,pre-prismatic,0:02:58
+3922,thumb-index finger,176.mp4,4472,4493,Precision,Housekeeper 2,0.84,pre-prismatic,pre-pinch,02:58.9
+2945,adducted thumb,156.mp4,2882,3177,Power,Housekeeper 2,11.8,pow-prismatic,pow-oblique,01:55.3
+5399,thumb-2 finger,089.mp4,8025,8100,Precision,Machinist 1,3.0,pre-prismatic,pre-prismatic,0:05:21
+5605,lateral pinch,090.mp4,21000,21150,Intermediate,Machinist 1,6.0,int-lateral,int-lateral,0:14:00
+3308,precision disk,161.mp4,2320,4604,Precision,Housekeeper 2,91.36,circular,pre-circular,01:32.8
+4444,thumb-index finger,084.mp4,15025,15200,Precision,Machinist 1,7.0,pre-prismatic,pre-pinch,0:10:01
+4706,thumb-4 finger,086.mp4,3625,3650,Precision,Machinist 1,1.0,pre-prismatic,pre-prismatic,0:02:25
+1934,thumb-2 finger,111.mp4,13122,13186,Precision,Housekeeper 1,2.56,pre-prismatic,pre-prismatic,08:44.9
+3852,adducted thumb,175.mp4,1465,1558,Power,Housekeeper 2,3.72,pow-prismatic,pow-oblique,00:58.6
+8531,inferior pincer,070.mp4,9860,9871,Precision,Machinist 2,0.44,pre-prismatic,pre-pinch,06:34.4
+7953,light tool,065.mp4,13425,13530,Power,Machinist 2,4.2,pow-prismatic,pow-oblique,08:57.0
+4348,precision disk,118.mp4,9637,11620,Precision,Housekeeper 2,79.32,circular,pre-circular,06:25.5
+4217,lateral tripod,116.mp4,13035,13109,Intermediate,Housekeeper 2,2.96,int-lateral,int-lateral,08:41.4
+8878,lateral tripod,073.mp4,11995,12004,Intermediate,Machinist 2,0.36,int-lateral,int-lateral,07:59.8
+4655,tripod,085.mp4,34775,34925,Precision,Machinist 1,6.0,circular,pre-circular,0:23:11
+2630,power sphere,151.mp4,11285,11331,Power,Housekeeper 2,1.84,circular,pow-circular,07:31.4
+3674,large diameter,170.mp4,6982,7458,Power,Housekeeper 2,19.04,pow-prismatic,pow-cylindric,04:39.3
+2024,medium wrap,112.mp4,4292,4434,Power,Housekeeper 1,5.68,pow-prismatic,pow-cylindric,02:51.7
+10358,lateral pinch,015.mp4,14307,14357,Intermediate,Machinist 2,2.0,int-lateral,int-lateral,09:32.3
+7515,tripod,060.mp4,4875,4891,Precision,Machinist 2,0.64,circular,pre-circular,03:15.0
+3313,lateral pinch,161.mp4,5020,5046,Intermediate,Housekeeper 2,1.04,int-lateral,int-lateral,03:20.8
+4350,precision disk,118.mp4,11987,13467,Precision,Housekeeper 2,59.2,circular,pre-circular,07:59.5
+5900,light tool,092.mp4,10727,10796,Power,Machinist 1,2.76,pow-prismatic,pow-oblique,07:09.1
+8225,thumb-index finger,068.mp4,12395,12413,Precision,Machinist 2,0.72,pre-prismatic,pre-pinch,08:15.8
+55,thumb-2 finger,041.mp4,3775,3800,Precision,Housekeeper 1,1.0,pre-prismatic,pre-prismatic,0:02:31
+5749,light tool,091.mp4,14955,14970,Power,Machinist 1,0.6,pow-prismatic,pow-oblique,09:58.2
+1409,medium wrap,050.mp4,40300,40641,Power,Housekeeper 1,13.64,pow-prismatic,pow-cylindric,0:26:52
+10069,medium wrap,010.mp4,2850,2865,Power,Machinist 2,0.6,pow-prismatic,pow-cylindric,01:54.0
+1868,medium wrap,110.mp4,7259,8398,Power,Housekeeper 1,45.56,pow-prismatic,pow-cylindric,04:50.4
+5808,light tool,091.mp4,29460,29485,Power,Machinist 1,1.0,pow-prismatic,pow-oblique,19:38.4
+10115,thumb-4 finger,012.mp4,1587,1809,Precision,Machinist 2,8.9,pre-prismatic,pre-prismatic,01:03.5
+10418,thumb-4 finger,016.mp4,12667,12912,Precision,Machinist 2,9.8,pre-prismatic,pre-prismatic,08:26.7
+10198,thumb-3 finger,013.mp4,5615,5645,Precision,Machinist 2,1.2,pre-prismatic,pre-prismatic,03:44.6
+7938,tripod,065.mp4,11352,11399,Precision,Machinist 2,1.88,circular,pre-circular,07:34.1
+9968,lateral tripod,004.mp4,6297,6379,Intermediate,Machinist 2,3.3,int-lateral,int-lateral,04:11.9
+10174,lateral pinch,013.mp4,590,727,Intermediate,Machinist 2,5.5,int-lateral,int-lateral,00:23.6
+7408,ring,059.mp4,6080,6131,Power,Machinist 2,2.04,pow-prismatic,pow-cylindric,04:03.2
+5881,light tool,092.mp4,7109,7590,Power,Machinist 1,19.25,pow-prismatic,pow-oblique,04:44.4
+5924,light tool,092.mp4,16787,16845,Power,Machinist 1,2.32,pow-prismatic,pow-oblique,11:11.5
+4543,ring,085.mp4,6225,6375,Power,Machinist 1,6.0,pow-prismatic,pow-cylindric,0:04:09
+814,tripod,045.mp4,9600,9650,Precision,Housekeeper 1,2.0,circular,pre-circular,0:06:24
+1866,medium wrap,110.mp4,6075,6852,Power,Housekeeper 1,31.08,pow-prismatic,pow-cylindric,04:03.0
+9147,thumb-2 finger,076.mp4,12890,13359,Precision,Machinist 2,18.76,pre-prismatic,pre-prismatic,08:35.6
+2217,medium wrap,141.mp4,1300,1345,Power,Housekeeper 2,1.82,pow-prismatic,pow-cylindric,00:52.0
+10194,lateral pinch,013.mp4,4962,5492,Intermediate,Machinist 2,21.2,int-lateral,int-lateral,03:18.5
+131,thumb-4 finger,041.mp4,21650,21700,Precision,Housekeeper 1,2.0,pre-prismatic,pre-prismatic,0:14:26
+2926,precision disk,155.mp4,14027,14524,Precision,Housekeeper 2,19.91,circular,pre-circular,09:21.1
+3798,large diameter,173.mp4,3345,3474,Power,Housekeeper 2,5.16,pow-prismatic,pow-cylindric,02:13.8
+6805,thumb-4 finger,098.mp4,7740,7827,Precision,Machinist 1,3.5,pre-prismatic,pre-prismatic,05:09.6
+2243,medium wrap,141.mp4,13142,13174,Power,Housekeeper 2,1.28,pow-prismatic,pow-cylindric,08:45.7
+496,power sphere,043.mp4,26825,26900,Power,Housekeeper 1,3.0,circular,pow-circular,0:17:53
+9369,precision disk,079.mp4,9690,9723,Precision,Machinist 2,1.32,circular,pre-circular,06:27.6
+9670,adduction,082.mp4,4342,4366,Intermediate,Machinist 2,0.96,pre-prismatic,pre-pinch,02:53.7
+4557,thumb-4 finger,085.mp4,11875,12100,Precision,Machinist 1,9.0,pre-prismatic,pre-prismatic,0:07:55
+2045,sphere-3 finger,113.mp4,632,645,Power,Housekeeper 1,0.52,circular,pow-circular,00:25.3
+2481,precision disk,150.mp4,357,383,Precision,Housekeeper 2,1.05,circular,pre-circular,00:14.3
+1849,large diameter,110.mp4,1125,1277,Power,Housekeeper 1,6.08,pow-prismatic,pow-cylindric,00:45.0
+98,precision disk,041.mp4,12350,12725,Precision,Housekeeper 1,15.0,circular,pre-circular,0:08:14
+2130,medium wrap,114.mp4,14325,14346,Power,Housekeeper 1,0.84,pow-prismatic,pow-cylindric,09:33.0
+8509,light tool,070.mp4,7950,8159,Power,Machinist 2,8.36,pow-prismatic,pow-oblique,05:18.0
+8983,thumb-2 finger,074.mp4,8192,8221,Precision,Machinist 2,1.16,pre-prismatic,pre-prismatic,05:27.7
+757,medium wrap,044.mp4,37550,37600,Power,Housekeeper 1,2.0,pow-prismatic,pow-cylindric,0:25:02
+8218,lateral pinch,068.mp4,11765,11797,Intermediate,Machinist 2,1.28,int-lateral,int-lateral,07:50.6
+9760,medium wrap,082.mp4,11795,12211,Power,Machinist 2,16.64,pow-prismatic,pow-cylindric,07:51.8
+5546,lateral pinch,090.mp4,7950,8000,Intermediate,Machinist 1,2.0,int-lateral,int-lateral,0:05:18
+2866,power sphere,155.mp4,2755,2788,Power,Housekeeper 2,1.35,circular,pow-circular,01:50.2
+7681,tripod,062.mp4,6582,6652,Precision,Machinist 2,2.8,circular,pre-circular,04:23.3
+2733,precision disk,152.mp4,9540,9610,Precision,Housekeeper 2,2.8,circular,pre-circular,06:21.6
+3709,index finger extension,171.mp4,2235,2310,Power,Housekeeper 2,3.0,pow-prismatic,pow-oblique,01:29.4
+1185,precision disk,048.mp4,37075,37434,Precision,Housekeeper 1,14.36,circular,pre-circular,0:24:43
+3713,medium wrap,171.mp4,4727,4838,Power,Housekeeper 2,4.47,pow-prismatic,pow-cylindric,03:09.1
+1401,precision disk,050.mp4,39375,39578,Precision,Housekeeper 1,8.12,circular,pre-circular,0:26:15
+8239,inferior pincer,068.mp4,14290,14408,Precision,Machinist 2,4.72,pre-prismatic,pre-pinch,09:31.6
+5336,tripod,088.mp4,42175,42250,Precision,Machinist 1,3.0,circular,pre-circular,0:28:07
+3891,precision disk,176.mp4,1870,1985,Precision,Housekeeper 2,4.6,circular,pre-circular,01:14.8
+9864,thumb-3 finger,002.mp4,5905,5947,Precision,Machinist 2,1.7,pre-prismatic,pre-prismatic,03:56.2
+7237,light tool,057.mp4,4840,5117,Power,Machinist 2,11.08,pow-prismatic,pow-oblique,03:13.6
+8436,lateral tripod,070.mp4,1332,1342,Intermediate,Machinist 2,0.4,int-lateral,int-lateral,00:53.3
+5918,thumb-2 finger,092.mp4,15822,16061,Precision,Machinist 1,9.56,pre-prismatic,pre-prismatic,10:32.9
+5043,tripod,087.mp4,33375,33550,Precision,Machinist 1,7.0,circular,pre-circular,0:22:15
+4352,thumb-2 finger,118.mp4,13769,13793,Precision,Housekeeper 2,0.96,pre-prismatic,pre-prismatic,09:10.8
+3070,tripod,157.mp4,10685,10706,Precision,Housekeeper 2,0.84,circular,pre-circular,07:07.4
+4943,light tool,087.mp4,14100,14125,Power,Machinist 1,1.0,pow-prismatic,pow-oblique,0:09:24
+9109,lateral tripod,076.mp4,9387,9511,Intermediate,Machinist 2,4.96,int-lateral,int-lateral,06:15.5
+9703,lateral tripod,082.mp4,7809,7829,Intermediate,Machinist 2,0.8,int-lateral,int-lateral,05:12.4
+10484,thumb-index finger,018.mp4,1822,2612,Precision,Machinist 2,31.6,pre-prismatic,pre-pinch,01:12.9
+4623,medium wrap,085.mp4,28325,28500,Power,Machinist 1,7.0,pow-prismatic,pow-cylindric,0:18:53
+9378,thumb-2 finger,079.mp4,10672,10697,Precision,Machinist 2,1.0,pre-prismatic,pre-prismatic,07:06.9
+9072,thumb-2 finger,076.mp4,1395,1717,Precision,Machinist 2,12.88,pre-prismatic,pre-prismatic,00:55.8
+1550,precision disk,051.mp4,34125,34409,Precision,Housekeeper 1,11.36,circular,pre-circular,0:22:45
+9914,thumb-index finger,003.mp4,730,797,Precision,Machinist 2,2.7,pre-prismatic,pre-pinch,00:29.2
+7340,thumb-2 finger,058.mp4,5895,5936,Precision,Machinist 2,1.64,pre-prismatic,pre-prismatic,03:55.8
+2255,lateral pinch,142.mp4,2860,2880,Intermediate,Housekeeper 2,0.8,int-lateral,int-lateral,01:54.4
+10269,thumb-index finger,014.mp4,11510,11725,Precision,Machinist 2,8.6,pre-prismatic,pre-pinch,07:40.4
+9863,thumb-4 finger,002.mp4,5757,5829,Precision,Machinist 2,2.9,pre-prismatic,pre-prismatic,03:50.3
+5346,tripod,088.mp4,43525,44025,Precision,Machinist 1,20.0,circular,pre-circular,0:29:01
+5303,lateral pinch,088.mp4,37000,37025,Intermediate,Machinist 1,1.0,int-lateral,int-lateral,0:24:40
+9387,tripod,079.mp4,11312,11475,Precision,Machinist 2,6.52,circular,pre-circular,07:32.5
+7486,tripod,060.mp4,1782,2208,Precision,Machinist 2,17.04,circular,pre-circular,01:11.3
+3772,index finger extension,172.mp4,14215,14289,Power,Housekeeper 2,2.96,pow-prismatic,pow-oblique,09:28.6
+2388,thumb-4 finger,149.mp4,3435,3444,Precision,Housekeeper 2,0.36,pre-prismatic,pre-prismatic,02:17.4
+3551,index finger extension,167.mp4,6765,6804,Power,Housekeeper 2,1.56,pow-prismatic,pow-oblique,04:30.6
+2990,precision disk,156.mp4,10620,10696,Precision,Housekeeper 2,3.04,circular,pre-circular,07:04.8
+10307,tripod,015.mp4,5702,5729,Precision,Machinist 2,1.1,circular,pre-circular,03:48.1
+1596,medium wrap,052.mp4,5350,5414,Power,Housekeeper 1,2.56,pow-prismatic,pow-cylindric,0:03:34
+1126,medium wrap,048.mp4,20250,20468,Power,Housekeeper 1,8.72,pow-prismatic,pow-cylindric,0:13:30
+4178,precision disk,115.mp4,1187,2622,Precision,Housekeeper 2,57.42,circular,pre-circular,00:47.5
+4878,thumb-3 finger,086.mp4,38150,38300,Precision,Machinist 1,6.0,pre-prismatic,pre-prismatic,0:25:26
+2257,thumb-4 finger,142.mp4,2955,2970,Precision,Housekeeper 2,0.6,pre-prismatic,pre-prismatic,01:58.2
+6770,medium wrap,097.mp4,750,818,Power,Machinist 1,2.72,pow-prismatic,pow-cylindric,00:30.0
+89,power sphere,041.mp4,10050,10275,Power,Housekeeper 1,9.0,circular,pow-circular,0:06:42
+826,precision disk,045.mp4,13525,13875,Precision,Housekeeper 1,14.0,circular,pre-circular,0:09:01
+85,power sphere,041.mp4,9575,9600,Power,Housekeeper 1,1.0,circular,pow-circular,0:06:23
+5812,ring,091.mp4,30575,30788,Power,Machinist 1,8.52,pow-prismatic,pow-cylindric,20:23.0
+8848,lateral tripod,073.mp4,9985,9999,Intermediate,Machinist 2,0.56,int-lateral,int-lateral,06:39.4
+8430,tripod,070.mp4,1107,1130,Precision,Machinist 2,0.92,circular,pre-circular,00:44.3
+1220,thumb-index finger,048.mp4,44300,44410,Precision,Housekeeper 1,4.4,pre-prismatic,pre-pinch,0:29:32
+7299,medium wrap,057.mp4,13397,13425,Power,Machinist 2,1.12,pow-prismatic,pow-cylindric,08:55.9
+7675,tripod,062.mp4,6095,6183,Precision,Machinist 2,3.52,circular,pre-circular,04:03.8
+682,thumb-3 finger,044.mp4,19275,19325,Precision,Housekeeper 1,2.0,pre-prismatic,pre-prismatic,0:12:51
+5205,light tool,088.mp4,19250,19475,Power,Machinist 1,9.0,pow-prismatic,pow-oblique,0:12:50
+8690,tripod,073.mp4,77,115,Precision,Machinist 2,1.52,circular,pre-circular,00:03.1
+1383,power sphere,050.mp4,34875,34941,Power,Housekeeper 1,2.64,circular,pow-circular,0:23:15
+6730,lateral pinch,096.mp4,31995,32069,Intermediate,Machinist 1,2.96,int-lateral,int-lateral,21:19.8
+7447,thumb-2 finger,059.mp4,10265,10308,Precision,Machinist 2,1.72,pre-prismatic,pre-prismatic,06:50.6
+630,medium wrap,044.mp4,9725,9750,Power,Housekeeper 1,1.0,pow-prismatic,pow-cylindric,0:06:29
+1469,precision disk,051.mp4,17725,17770,Precision,Housekeeper 1,1.8,circular,pre-circular,0:11:49
+5776,thumb-2 finger,091.mp4,20520,20634,Precision,Machinist 1,4.56,pre-prismatic,pre-prismatic,13:40.8
+8343,tripod,069.mp4,8397,8653,Precision,Machinist 2,10.24,circular,pre-circular,05:35.9
+9124,adduction,076.mp4,10552,10583,Intermediate,Machinist 2,1.24,pre-prismatic,pre-pinch,07:02.1
+4301,precision disk,117.mp4,9685,9974,Precision,Housekeeper 2,11.56,circular,pre-circular,06:27.4
+5772,thumb-2 finger,091.mp4,20387,20416,Precision,Machinist 1,1.16,pre-prismatic,pre-prismatic,13:35.5
+10390,thumb-3 finger,016.mp4,7384,7574,Precision,Machinist 2,7.6,pre-prismatic,pre-prismatic,04:55.4
+3802,medium wrap,173.mp4,4880,5180,Power,Housekeeper 2,12.0,pow-prismatic,pow-cylindric,03:15.2
+5995,light tool,092.mp4,31664,31736,Power,Machinist 1,2.88,pow-prismatic,pow-oblique,21:06.6
+6781,lateral pinch,097.mp4,3012,3087,Intermediate,Machinist 1,3.0,int-lateral,int-lateral,02:00.5
+2946,power sphere,156.mp4,3185,3194,Power,Housekeeper 2,0.36,circular,pow-circular,02:07.4
+4809,light tool,086.mp4,22075,22100,Power,Machinist 1,1.0,pow-prismatic,pow-oblique,0:14:43
+6276,lateral pinch,094.mp4,38872,38963,Intermediate,Machinist 1,3.64,int-lateral,int-lateral,25:54.9
+6137,medium wrap,093.mp4,19860,19894,Power,Machinist 1,1.36,pow-prismatic,pow-cylindric,13:14.4
+4622,light tool,085.mp4,27875,28025,Power,Machinist 1,6.0,pow-prismatic,pow-oblique,0:18:35
+5705,thumb-index finger,091.mp4,6757,6802,Precision,Machinist 1,1.8,pre-prismatic,pre-pinch,04:30.3
+3497,index finger extension,165.mp4,14550,14932,Power,Housekeeper 2,15.28,pow-prismatic,pow-oblique,09:42.0
+7020,adduction,054.mp4,5172,5603,Intermediate,Machinist 2,17.24,pre-prismatic,pre-pinch,03:26.9
+9190,lateral pinch,078.mp4,1200,1223,Intermediate,Machinist 2,0.92,int-lateral,int-lateral,00:48.0
+4130,index finger extension,179.mp4,4605,5083,Power,Housekeeper 2,19.12,pow-prismatic,pow-oblique,03:04.2
+3200,precision disk,159.mp4,8630,8762,Precision,Housekeeper 2,5.28,circular,pre-circular,05:45.2
+7045,thumb-4 finger,054.mp4,8972,9010,Precision,Machinist 2,1.52,pre-prismatic,pre-prismatic,05:58.9
+103,thumb-index finger,041.mp4,13050,13100,Precision,Housekeeper 1,2.0,pre-prismatic,pre-pinch,0:08:42
+9211,lateral pinch,078.mp4,6210,6307,Intermediate,Machinist 2,3.88,int-lateral,int-lateral,04:08.4
+8341,light tool,069.mp4,8352,8381,Power,Machinist 2,1.16,pow-prismatic,pow-oblique,05:34.1
+797,power sphere,045.mp4,2950,3075,Power,Housekeeper 1,5.0,circular,pow-circular,0:01:58
+6312,tripod,095.mp4,2460,2540,Precision,Machinist 1,3.2,circular,pre-circular,01:38.4
+5338,thumb-3 finger,088.mp4,42450,42475,Precision,Machinist 1,1.0,pre-prismatic,pre-prismatic,0:28:18
+1348,medium wrap,050.mp4,1950,2036,Power,Housekeeper 1,3.44,pow-prismatic,pow-cylindric,0:01:18
+7320,light tool,058.mp4,1939,2079,Power,Machinist 2,5.6,pow-prismatic,pow-oblique,01:17.6
+1087,medium wrap,048.mp4,7450,7705,Power,Housekeeper 1,10.2,pow-prismatic,pow-cylindric,0:04:58
+8063,lateral pinch,067.mp4,1540,1869,Intermediate,Machinist 2,13.16,int-lateral,int-lateral,01:01.6
+6360,tripod,095.mp4,7415,7438,Precision,Machinist 1,0.92,circular,pre-circular,04:56.6
+7048,sphere-3 finger,054.mp4,9140,9211,Power,Machinist 2,2.84,circular,pow-circular,06:05.6
+1544,lateral pinch,051.mp4,32725,32745,Intermediate,Housekeeper 1,0.8,int-lateral,int-lateral,0:21:49
+6012,tripod,092.mp4,34435,34563,Precision,Machinist 1,5.12,circular,pre-circular,22:57.4
+1916,power sphere,111.mp4,10027,10063,Power,Housekeeper 1,1.44,circular,pow-circular,06:41.1
+5352,index finger extension,088.mp4,44400,44425,Power,Machinist 1,1.0,pow-prismatic,pow-oblique,0:29:36
+7166,power sphere,055.mp4,13680,13799,Power,Machinist 2,4.76,circular,pow-circular,09:07.2
+4819,tripod,086.mp4,23350,23375,Precision,Machinist 1,1.0,circular,pre-circular,0:15:34
+9023,lateral tripod,075.mp4,2400,2413,Intermediate,Machinist 2,0.52,int-lateral,int-lateral,01:36.0
+4810,tripod,086.mp4,22125,22175,Precision,Machinist 1,2.0,circular,pre-circular,0:14:45
+586,lateral pinch,044.mp4,2850,2950,Intermediate,Housekeeper 1,4.0,int-lateral,int-lateral,0:01:54
+9238,tripod,078.mp4,10755,10981,Precision,Machinist 2,9.04,circular,pre-circular,07:10.2
+6182,thumb-2 finger,093.mp4,29997,30829,Precision,Machinist 1,33.28,pre-prismatic,pre-prismatic,19:59.9
+7207,thumb-2 finger,057.mp4,217,226,Precision,Machinist 2,0.36,pre-prismatic,pre-prismatic,00:08.7
+8678,thumb-3 finger,072.mp4,6977,7215,Precision,Machinist 2,9.52,pre-prismatic,pre-prismatic,04:39.1
+2701,lateral tripod,152.mp4,5140,5177,Intermediate,Housekeeper 2,1.48,int-lateral,int-lateral,03:25.6
+5098,inferior pincer,087.mp4,41875,41900,Precision,Machinist 1,1.0,pre-prismatic,pre-pinch,0:27:55
+5582,medium wrap,090.mp4,16900,16925,Power,Machinist 1,1.0,pow-prismatic,pow-cylindric,0:11:16
+2082,medium wrap,114.mp4,2962,3218,Power,Housekeeper 1,10.24,pow-prismatic,pow-cylindric,01:58.5
+8990,thumb-2 finger,074.mp4,9535,9602,Precision,Machinist 2,2.68,pre-prismatic,pre-prismatic,06:21.4
+3461,medium wrap,164.mp4,8307,8366,Power,Housekeeper 2,2.36,pow-prismatic,pow-cylindric,05:32.3
+1699,medium wrap,106.mp4,19467,19714,Power,Housekeeper 1,9.88,pow-prismatic,pow-cylindric,12:58.7
+8478,thumb-2 finger,070.mp4,4492,4572,Precision,Machinist 2,3.2,pre-prismatic,pre-prismatic,02:59.7
+10401,lateral pinch,016.mp4,9055,9090,Intermediate,Machinist 2,1.4,int-lateral,int-lateral,06:02.2
+5791,ring,091.mp4,25020,25518,Power,Machinist 1,19.92,pow-prismatic,pow-cylindric,16:40.8
+2228,medium wrap,141.mp4,3100,4150,Power,Housekeeper 2,42.0,pow-prismatic,pow-cylindric,02:04.0
+5861,tripod,092.mp4,2590,2769,Precision,Machinist 1,7.17,circular,pre-circular,01:43.6
+730,lateral pinch,044.mp4,33400,33475,Intermediate,Housekeeper 1,3.0,int-lateral,int-lateral,0:22:16
+297,lateral pinch,042.mp4,22875,23150,Intermediate,Housekeeper 1,11.0,int-lateral,int-lateral,0:15:15
+3823,medium wrap,174.mp4,2187,2741,Power,Housekeeper 2,22.16,pow-prismatic,pow-cylindric,01:27.5
+8043,medium wrap,066.mp4,12202,12213,Power,Machinist 2,0.44,pow-prismatic,pow-cylindric,08:08.1
+611,lateral pinch,044.mp4,7050,7150,Intermediate,Housekeeper 1,4.0,int-lateral,int-lateral,0:04:42
+4309,thumb-4 finger,117.mp4,12470,12504,Precision,Housekeeper 2,1.36,pre-prismatic,pre-prismatic,08:18.8
+6159,index finger extension,093.mp4,24257,25064,Power,Machinist 1,32.28,pow-prismatic,pow-oblique,16:10.3
+4651,lateral tripod,085.mp4,34400,34500,Intermediate,Machinist 1,4.0,int-lateral,int-lateral,0:22:56
+8573,lateral tripod,071.mp4,2525,2583,Intermediate,Machinist 2,2.32,int-lateral,int-lateral,01:41.0
+1104,medium wrap,048.mp4,15000,15058,Power,Housekeeper 1,2.32,pow-prismatic,pow-cylindric,0:10:00
+3278,precision disk,160.mp4,1660,2302,Precision,Housekeeper 2,25.69,circular,pre-circular,01:06.4
+5343,thumb-index finger,088.mp4,42975,43175,Precision,Machinist 1,8.0,pre-prismatic,pre-pinch,0:28:39
+835,precision disk,045.mp4,14900,15025,Precision,Housekeeper 1,5.0,circular,pre-circular,0:09:56
+4576,light tool,085.mp4,15900,15950,Power,Machinist 1,2.0,pow-prismatic,pow-oblique,0:10:36
+4423,light tool,084.mp4,10675,10875,Power,Machinist 1,8.0,pow-prismatic,pow-oblique,0:07:07
+2406,adducted thumb,149.mp4,4640,4659,Power,Housekeeper 2,0.76,pow-prismatic,pow-oblique,03:05.6
+1962,power sphere,111.mp4,18775,19009,Power,Housekeeper 1,9.36,circular,pow-circular,12:31.0
+4447,power sphere,084.mp4,15625,15750,Power,Machinist 1,5.0,circular,pow-circular,0:10:25
+6518,lateral pinch,095.mp4,33400,33417,Intermediate,Machinist 1,0.7,int-lateral,int-lateral,22:16.0
+1759,power sphere,108.mp4,3095,3283,Power,Housekeeper 1,7.52,circular,pow-circular,02:03.8
+4610,medium wrap,085.mp4,24075,24650,Power,Machinist 1,23.0,pow-prismatic,pow-cylindric,0:16:03
+5584,adducted thumb,090.mp4,17050,17225,Power,Machinist 1,7.0,pow-prismatic,pow-oblique,0:11:22
+3518,large diameter,166.mp4,9360,9640,Power,Housekeeper 2,11.2,pow-prismatic,pow-cylindric,06:14.4
+3087,precision disk,158.mp4,0,64,Precision,Housekeeper 2,2.56,circular,pre-circular,00:00.0
+8036,thumb-4 finger,066.mp4,10635,10646,Precision,Machinist 2,0.44,pre-prismatic,pre-prismatic,07:05.4
+2395,ring,149.mp4,3692,3752,Power,Housekeeper 2,2.4,pow-prismatic,pow-cylindric,02:27.7
+118,power sphere,041.mp4,14400,14500,Power,Housekeeper 1,4.0,circular,pow-circular,0:09:36
+9754,medium wrap,082.mp4,11142,11153,Power,Machinist 2,0.44,pow-prismatic,pow-cylindric,07:25.7
+6244,lateral pinch,094.mp4,12127,12136,Intermediate,Machinist 1,0.36,int-lateral,int-lateral,08:05.1
+3187,thumb-4 finger,159.mp4,3560,3571,Precision,Housekeeper 2,0.44,pre-prismatic,pre-prismatic,02:22.4
+2566,precision disk,151.mp4,875,1920,Precision,Housekeeper 2,41.8,circular,pre-circular,00:35.0
+8296,thumb-3 finger,069.mp4,4812,5382,Precision,Machinist 2,22.8,pre-prismatic,pre-prismatic,03:12.5
+2986,lateral tripod,156.mp4,9220,9359,Intermediate,Housekeeper 2,5.56,int-lateral,int-lateral,06:08.8
+7318,medium wrap,058.mp4,1500,1578,Power,Machinist 2,3.12,pow-prismatic,pow-cylindric,01:00.0
+4461,medium wrap,084.mp4,23475,23650,Power,Machinist 1,7.0,pow-prismatic,pow-cylindric,0:15:39
+4328,thumb-4 finger,118.mp4,2270,2282,Precision,Housekeeper 2,0.48,pre-prismatic,pre-prismatic,01:30.8
+1862,medium wrap,110.mp4,4645,5913,Power,Housekeeper 1,50.72,pow-prismatic,pow-cylindric,03:05.8
+6674,light tool,096.mp4,22272,22337,Power,Machinist 1,2.6,pow-prismatic,pow-oblique,14:50.9
+2433,ring,149.mp4,7850,7878,Power,Housekeeper 2,1.12,pow-prismatic,pow-cylindric,05:14.0
+6049,tripod,092.mp4,41627,41691,Precision,Machinist 1,2.56,circular,pre-circular,27:45.1
+8683,tripod,072.mp4,7765,7794,Precision,Machinist 2,1.16,circular,pre-circular,05:10.6
+9994,thumb-4 finger,005.mp4,797,937,Precision,Machinist 2,5.6,pre-prismatic,pre-prismatic,00:31.9
+7427,tripod,059.mp4,7959,8032,Precision,Machinist 2,2.92,circular,pre-circular,05:18.4
+6623,large diameter,096.mp4,12600,12694,Power,Machinist 1,3.76,pow-prismatic,pow-cylindric,08:24.0
+7643,lateral pinch,061.mp4,14894,14933,Intermediate,Machinist 2,1.56,int-lateral,int-lateral,09:55.8
+10042,thumb-index finger,008.mp4,6122,6267,Precision,Machinist 2,5.8,pre-prismatic,pre-pinch,04:04.9
+2761,lateral tripod,153.mp4,900,910,Intermediate,Housekeeper 2,0.4,int-lateral,int-lateral,00:36.0
+8731,lateral tripod,073.mp4,1862,1872,Intermediate,Machinist 2,0.4,int-lateral,int-lateral,01:14.5
+559,medium wrap,043.mp4,42900,42975,Power,Housekeeper 1,3.0,pow-prismatic,pow-cylindric,0:28:36
+10172,lateral pinch,013.mp4,0,434,Intermediate,Machinist 2,17.4,int-lateral,int-lateral,00:00.0
+8795,lateral pinch,073.mp4,5410,5536,Intermediate,Machinist 2,5.04,int-lateral,int-lateral,03:36.4
+2981,lateral tripod,156.mp4,8915,8936,Intermediate,Housekeeper 2,0.84,int-lateral,int-lateral,05:56.6
+2563,medium wrap,151.mp4,560,671,Power,Housekeeper 2,4.44,pow-prismatic,pow-cylindric,00:22.4
+1300,large diameter,049.mp4,28500,28615,Power,Housekeeper 1,4.6,pow-prismatic,pow-cylindric,0:19:00
+3155,lateral tripod,158.mp4,8617,8628,Intermediate,Housekeeper 2,0.44,int-lateral,int-lateral,05:44.7
+38,adducted thumb,041.mp4,400,450,Power,Housekeeper 1,2.0,pow-prismatic,pow-oblique,0:00:16
+9083,ring,076.mp4,4840,4920,Power,Machinist 2,3.2,pow-prismatic,pow-cylindric,03:13.6
+10228,lateral pinch,013.mp4,14337,14347,Intermediate,Machinist 2,0.4,int-lateral,int-lateral,09:33.5
+7639,lateral pinch,061.mp4,13769,13823,Intermediate,Machinist 2,2.16,int-lateral,int-lateral,09:10.8
+309,index finger extension,042.mp4,28925,28975,Power,Housekeeper 1,2.0,pow-prismatic,pow-oblique,0:19:17
+2749,lateral pinch,152.mp4,13894,13966,Intermediate,Housekeeper 2,2.88,int-lateral,int-lateral,09:15.8
+5333,thumb-index finger,088.mp4,41775,41875,Precision,Machinist 1,4.0,pre-prismatic,pre-pinch,0:27:51
+7577,tripod,060.mp4,12070,12249,Precision,Machinist 2,7.16,circular,pre-circular,08:02.8
+358,thumb-index finger,043.mp4,2900,3000,Precision,Housekeeper 1,4.0,pre-prismatic,pre-pinch,0:01:56
+5807,tripod,091.mp4,29014,29456,Precision,Machinist 1,17.68,circular,pre-circular,19:20.6
+6794,small diameter,098.mp4,4232,4242,Power,Machinist 1,0.4,pow-prismatic,pow-cylindric,02:49.3
+793,thumb-index finger,045.mp4,2525,2575,Precision,Housekeeper 1,2.0,pre-prismatic,pre-pinch,0:01:41
+361,precision disk,043.mp4,4100,4200,Precision,Housekeeper 1,4.0,circular,pre-circular,0:02:44
+1703,medium wrap,106.mp4,19990,20009,Power,Housekeeper 1,0.76,pow-prismatic,pow-cylindric,13:19.6
+665,sphere-3 finger,044.mp4,14325,14375,Power,Housekeeper 1,2.0,circular,pow-circular,0:09:33
+9566,lateral pinch,081.mp4,5100,5129,Intermediate,Machinist 2,1.16,int-lateral,int-lateral,03:24.0
+6217,thumb-2 finger,093.mp4,41157,42174,Precision,Machinist 1,40.68,pre-prismatic,pre-prismatic,27:26.3
+5645,lateral pinch,090.mp4,32125,32275,Intermediate,Machinist 1,6.0,int-lateral,int-lateral,0:21:25
+7547,tripod,060.mp4,6609,6628,Precision,Machinist 2,0.76,circular,pre-circular,04:24.4
+2873,precision disk,155.mp4,4237,4490,Precision,Housekeeper 2,10.12,circular,pre-circular,02:49.5
+541,power sphere,043.mp4,37825,37900,Power,Housekeeper 1,3.0,circular,pow-circular,0:25:13
+5960,thumb-2 finger,092.mp4,25547,25622,Precision,Machinist 1,3.0,pre-prismatic,pre-prismatic,17:01.9
+9704,sphere-4 finger,082.mp4,7830,7865,Power,Machinist 2,1.4,circular,pow-circular,05:13.2
+7054,ring,054.mp4,9770,9938,Power,Machinist 2,6.72,pow-prismatic,pow-cylindric,06:30.8
+106,thumb-4 finger,041.mp4,13275,13300,Precision,Housekeeper 1,1.0,pre-prismatic,pre-prismatic,0:08:51
+3422,medium wrap,163.mp4,11272,11764,Power,Housekeeper 2,19.68,pow-prismatic,pow-cylindric,07:30.9
+6934,lateral tripod,053.mp4,6382,6405,Intermediate,Machinist 2,0.92,int-lateral,int-lateral,04:15.3
+6273,tripod,094.mp4,36787,36955,Precision,Machinist 1,6.72,circular,pre-circular,24:31.5
+267,medium wrap,042.mp4,15975,16425,Power,Housekeeper 1,18.0,pow-prismatic,pow-cylindric,0:10:39
+4103,adducted thumb,179.mp4,0,45,Power,Housekeeper 2,1.8,pow-prismatic,pow-oblique,00:00.0
+1781,lateral tripod,108.mp4,5067,5115,Intermediate,Housekeeper 1,1.92,int-lateral,int-lateral,03:22.7
+10372,lateral pinch,016.mp4,3525,3548,Intermediate,Machinist 2,0.92,int-lateral,int-lateral,02:21.0
+1883,tripod,110.mp4,10435,10502,Precision,Housekeeper 1,2.68,circular,pre-circular,06:57.4
+5915,tripod,092.mp4,14955,15481,Precision,Machinist 1,21.04,circular,pre-circular,09:58.2
+9883,thumb-3 finger,002.mp4,9717,9779,Precision,Machinist 2,2.5,pre-prismatic,pre-prismatic,06:28.7
+4685,power sphere,085.mp4,43125,43200,Power,Machinist 1,3.0,circular,pow-circular,0:28:45
+7402,thumb-2 finger,059.mp4,3810,3844,Precision,Machinist 2,1.36,pre-prismatic,pre-prismatic,02:32.4
+6110,light tool,093.mp4,12645,12667,Power,Machinist 1,0.88,pow-prismatic,pow-oblique,08:25.8
+4630,thumb-index finger,085.mp4,30500,30525,Precision,Machinist 1,1.0,pre-prismatic,pre-pinch,0:20:20
+1921,power sphere,111.mp4,11030,11064,Power,Housekeeper 1,1.36,circular,pow-circular,07:21.2
+1404,power sphere,050.mp4,39700,39766,Power,Housekeeper 1,2.64,circular,pow-circular,0:26:28
+1077,index finger extension,048.mp4,475,1041,Power,Housekeeper 1,22.64,pow-prismatic,pow-oblique,0:00:19
+3532,medium wrap,167.mp4,0,731,Power,Housekeeper 2,29.24,pow-prismatic,pow-cylindric,00:00.0
+1216,medium wrap,048.mp4,43350,43443,Power,Housekeeper 1,3.72,pow-prismatic,pow-cylindric,0:28:54
+4619,tripod,085.mp4,27100,27175,Precision,Machinist 1,3.0,circular,pre-circular,0:18:04
+1554,medium wrap,051.mp4,34800,35004,Power,Housekeeper 1,8.16,pow-prismatic,pow-cylindric,0:23:12
+8686,tripod,072.mp4,8070,8144,Precision,Machinist 2,2.96,circular,pre-circular,05:22.8
+5111,thumb-index finger,087.mp4,43475,43575,Precision,Machinist 1,4.0,pre-prismatic,pre-pinch,0:28:59
+2994,precision disk,156.mp4,10797,10859,Precision,Housekeeper 2,2.48,circular,pre-circular,07:11.9
+9258,lateral tripod,078.mp4,12555,12603,Intermediate,Machinist 2,1.92,int-lateral,int-lateral,08:22.2
+2891,sphere-3 finger,155.mp4,7917,8057,Power,Housekeeper 2,5.6,circular,pow-circular,05:16.7
+156,power sphere,041.mp4,30200,30275,Power,Housekeeper 1,3.0,circular,pow-circular,0:20:08
+10505,tripod,020.mp4,1512,2049,Precision,Machinist 2,21.5,circular,pre-circular,01:00.5
+21,index finger extension,040.mp4,7075,7550,Power,Housekeeper 1,19.0,pow-prismatic,pow-oblique,0:04:43
+1448,lateral tripod,051.mp4,15000,15016,Intermediate,Housekeeper 1,0.64,int-lateral,int-lateral,0:10:00
+669,medium wrap,044.mp4,17100,17500,Power,Housekeeper 1,16.0,pow-prismatic,pow-cylindric,0:11:24
+2578,lateral pinch,151.mp4,3087,3103,Intermediate,Housekeeper 2,0.64,int-lateral,int-lateral,02:03.5
+4173,medium wrap,115.mp4,395,467,Power,Housekeeper 2,2.88,pow-prismatic,pow-cylindric,00:15.8
+8288,light tool,069.mp4,3762,3778,Power,Machinist 2,0.64,pow-prismatic,pow-oblique,02:30.5
+8492,tripod,070.mp4,6509,6530,Precision,Machinist 2,0.84,circular,pre-circular,04:20.4
+7376,adduction,058.mp4,14762,14946,Intermediate,Machinist 2,7.36,pre-prismatic,pre-pinch,09:50.5
+1500,power sphere,051.mp4,24725,24776,Power,Housekeeper 1,2.04,circular,pow-circular,0:16:29
+2368,thumb-4 finger,145.mp4,6950,6977,Precision,Housekeeper 2,1.1,pre-prismatic,pre-prismatic,04:38.0
+3819,medium wrap,174.mp4,0,861,Power,Housekeeper 2,34.46,pow-prismatic,pow-cylindric,00:00.0
+6881,light tool,053.mp4,2502,2530,Power,Machinist 2,1.15,pow-prismatic,pow-oblique,01:40.1
+5139,adduction,088.mp4,6000,6075,Intermediate,Machinist 1,3.0,pre-prismatic,pre-pinch,0:04:00
+3607,index finger extension,169.mp4,3392,3784,Power,Housekeeper 2,15.69,pow-prismatic,pow-oblique,02:15.7
+9673,tripod,082.mp4,4500,4565,Precision,Machinist 2,2.6,circular,pre-circular,03:00.0
+1895,medium wrap,111.mp4,2345,2605,Power,Housekeeper 1,10.4,pow-prismatic,pow-cylindric,01:33.8
+415,thumb-index finger,043.mp4,10825,10875,Precision,Housekeeper 1,2.0,pre-prismatic,pre-pinch,0:07:13
+4432,light tool,084.mp4,13575,13800,Power,Machinist 1,9.0,pow-prismatic,pow-oblique,0:09:03
+1701,sphere-3 finger,106.mp4,19862,19907,Power,Housekeeper 1,1.8,circular,pow-circular,13:14.5
+7568,tripod,060.mp4,10997,11024,Precision,Machinist 2,1.08,circular,pre-circular,07:19.9
+1439,power sphere,051.mp4,13775,13921,Power,Housekeeper 1,5.84,circular,pow-circular,0:09:11
+7267,lateral tripod,057.mp4,8380,8629,Intermediate,Machinist 2,9.96,int-lateral,int-lateral,05:35.2
+1337,precision disk,049.mp4,39925,40826,Precision,Housekeeper 1,36.04,circular,pre-circular,0:26:37
+5751,thumb-2 finger,091.mp4,15040,15069,Precision,Machinist 1,1.16,pre-prismatic,pre-prismatic,10:01.6
+5621,index finger extension,090.mp4,24800,24950,Power,Machinist 1,6.0,pow-prismatic,pow-oblique,0:16:32
+9116,lateral tripod,076.mp4,10097,10186,Intermediate,Machinist 2,3.56,int-lateral,int-lateral,06:43.9
+3929,index finger extension,176.mp4,5260,5277,Power,Housekeeper 2,0.68,pow-prismatic,pow-oblique,03:30.4
+8494,adduction,070.mp4,6809,6844,Intermediate,Machinist 2,1.4,pre-prismatic,pre-pinch,04:32.4
+9924,thumb-index finger,003.mp4,3232,3282,Precision,Machinist 2,2.0,pre-prismatic,pre-pinch,02:09.3
+1851,sphere-3 finger,110.mp4,1327,1372,Power,Housekeeper 1,1.8,circular,pow-circular,00:53.1
+10354,medium wrap,015.mp4,13315,13557,Power,Machinist 2,9.7,pow-prismatic,pow-cylindric,08:52.6
+1773,thumb-3 finger,108.mp4,4470,4496,Precision,Housekeeper 1,1.04,pre-prismatic,pre-prismatic,02:58.8
+6673,thumb-2 finger,096.mp4,22067,22119,Precision,Machinist 1,2.08,pre-prismatic,pre-prismatic,14:42.7
+2826,adducted thumb,153.mp4,12377,12518,Power,Housekeeper 2,5.64,pow-prismatic,pow-oblique,08:15.1
+7679,tripod,062.mp4,6402,6500,Precision,Machinist 2,3.92,circular,pre-circular,04:16.1
+5570,lateral pinch,090.mp4,14950,15025,Intermediate,Machinist 1,3.0,int-lateral,int-lateral,0:09:58
+7727,ring,062.mp4,12400,12471,Power,Machinist 2,2.84,pow-prismatic,pow-cylindric,08:16.0
+2109,index finger extension,114.mp4,9900,9932,Power,Housekeeper 1,1.28,pow-prismatic,pow-oblique,06:36.0
+2389,large diameter,149.mp4,3465,3502,Power,Housekeeper 2,1.48,pow-prismatic,pow-cylindric,02:18.6
+5143,thumb-2 finger,088.mp4,6525,6575,Precision,Machinist 1,2.0,pre-prismatic,pre-prismatic,0:04:21
+241,thumb-4 finger,042.mp4,9600,9625,Precision,Housekeeper 1,1.0,pre-prismatic,pre-prismatic,0:06:24
+782,medium wrap,044.mp4,42725,42925,Power,Housekeeper 1,8.0,pow-prismatic,pow-cylindric,0:28:29
+7826,tripod,064.mp4,3857,3869,Precision,Machinist 2,0.48,circular,pre-circular,02:34.3
+4742,precision disk,086.mp4,10650,10750,Precision,Machinist 1,4.0,circular,pre-circular,0:07:06
+5624,lateral pinch,090.mp4,25225,25450,Intermediate,Machinist 1,9.0,int-lateral,int-lateral,0:16:49
+5145,thumb-2 finger,088.mp4,6625,6675,Precision,Machinist 1,2.0,pre-prismatic,pre-prismatic,0:04:25
+6880,light tool,053.mp4,2307,2358,Power,Machinist 2,2.04,pow-prismatic,pow-oblique,01:32.3
+3509,index finger extension,166.mp4,6875,7223,Power,Housekeeper 2,13.92,pow-prismatic,pow-oblique,04:35.0
+4445,large diameter,084.mp4,15200,15275,Power,Machinist 1,3.0,pow-prismatic,pow-cylindric,0:10:08
+9267,lateral tripod,078.mp4,12767,12789,Intermediate,Machinist 2,0.88,int-lateral,int-lateral,08:30.7
+8597,lateral tripod,071.mp4,4955,4992,Intermediate,Machinist 2,1.48,int-lateral,int-lateral,03:18.2
+10244,thumb-4 finger,014.mp4,2327,3142,Precision,Machinist 2,32.6,pre-prismatic,pre-prismatic,01:33.1
+9323,lateral tripod,079.mp4,4215,4223,Intermediate,Machinist 2,0.32,int-lateral,int-lateral,02:48.6
+8426,lateral tripod,070.mp4,857,874,Intermediate,Machinist 2,0.68,int-lateral,int-lateral,00:34.3
+4072,medium wrap,177.mp4,8202,8219,Power,Housekeeper 2,0.68,pow-prismatic,pow-cylindric,05:28.1
+2811,adducted thumb,153.mp4,9640,9916,Power,Housekeeper 2,11.04,pow-prismatic,pow-oblique,06:25.6
+6191,thumb-2 finger,093.mp4,33405,33456,Precision,Machinist 1,2.04,pre-prismatic,pre-prismatic,22:16.2
+2140,medium wrap,130.mp4,532,554,Power,Housekeeper 2,0.88,pow-prismatic,pow-cylindric,00:21.3
+10043,medium wrap,008.mp4,8127,8404,Power,Machinist 2,11.1,pow-prismatic,pow-cylindric,05:25.1
+2294,thumb-3 finger,143.mp4,8805,8825,Precision,Housekeeper 2,0.8,pre-prismatic,pre-prismatic,05:52.2
+6516,thumb-3 finger,095.mp4,33127,33157,Precision,Machinist 1,1.2,pre-prismatic,pre-prismatic,22:05.1
+5637,thumb-2 finger,090.mp4,29750,29875,Precision,Machinist 1,5.0,pre-prismatic,pre-prismatic,0:19:50
+5296,thumb-2 finger,088.mp4,35950,36150,Precision,Machinist 1,8.0,pre-prismatic,pre-prismatic,0:23:58
+6554,thumb-2 finger,095.mp4,44132,44144,Precision,Machinist 1,0.48,pre-prismatic,pre-prismatic,29:25.3
+9043,thumb-3 finger,075.mp4,7730,7862,Precision,Machinist 2,5.28,pre-prismatic,pre-prismatic,05:09.2
+102,lateral pinch,041.mp4,13000,13050,Intermediate,Housekeeper 1,2.0,int-lateral,int-lateral,0:08:40
+6741,thumb-2 finger,096.mp4,34925,35323,Precision,Machinist 1,15.92,pre-prismatic,pre-prismatic,23:17.0
+4402,tripod,084.mp4,4600,4750,Precision,Machinist 1,6.0,circular,pre-circular,0:03:04
+5398,large diameter,089.mp4,7825,7950,Power,Machinist 1,5.0,pow-prismatic,pow-cylindric,0:05:13
+6044,light tool,092.mp4,40810,40841,Power,Machinist 1,1.24,pow-prismatic,pow-oblique,27:12.4
+2270,medium wrap,143.mp4,2127,2259,Power,Housekeeper 2,5.3,pow-prismatic,pow-cylindric,01:25.1
+7790,ring,063.mp4,10357,10397,Power,Machinist 2,1.6,pow-prismatic,pow-cylindric,06:54.3
+7775,tripod,063.mp4,4437,4483,Precision,Machinist 2,1.84,circular,pre-circular,02:57.5
+6923,sphere-3 finger,053.mp4,5500,5522,Power,Machinist 2,0.88,circular,pow-circular,03:40.0
+3988,thumb-4 finger,176.mp4,13185,13236,Precision,Housekeeper 2,2.04,pre-prismatic,pre-prismatic,08:47.4
+6235,medium wrap,094.mp4,4965,5388,Power,Machinist 1,16.92,pow-prismatic,pow-cylindric,03:18.6
+5733,medium wrap,091.mp4,11772,12083,Power,Machinist 1,12.44,pow-prismatic,pow-cylindric,07:50.9
+9852,thumb-3 finger,002.mp4,697,769,Precision,Machinist 2,2.88,pre-prismatic,pre-prismatic,00:27.9
+4932,medium wrap,087.mp4,10875,11775,Power,Machinist 1,36.0,pow-prismatic,pow-cylindric,0:07:15
+10373,lateral pinch,016.mp4,3804,3839,Intermediate,Machinist 2,1.4,int-lateral,int-lateral,02:32.2
+6037,tripod,092.mp4,39162,39633,Precision,Machinist 1,18.84,circular,pre-circular,26:06.5
+1164,thumb-3 finger,048.mp4,33800,33838,Precision,Housekeeper 1,1.52,pre-prismatic,pre-prismatic,0:22:32
+7381,thumb-2 finger,059.mp4,1047,1376,Precision,Machinist 2,13.16,pre-prismatic,pre-prismatic,00:41.9
+5447,lateral tripod,089.mp4,26675,27400,Intermediate,Machinist 1,29.0,int-lateral,int-lateral,0:17:47
+9188,thumb-4 finger,078.mp4,62,71,Precision,Machinist 2,0.36,pre-prismatic,pre-prismatic,00:02.5
+12,medium wrap,040.mp4,3450,3675,Power,Housekeeper 1,9.0,pow-prismatic,pow-cylindric,0:02:18
+7698,thumb-4 finger,062.mp4,8705,8721,Precision,Machinist 2,0.64,pre-prismatic,pre-prismatic,05:48.2
+9288,thumb-4 finger,078.mp4,14827,14836,Precision,Machinist 2,0.36,pre-prismatic,pre-prismatic,09:53.1
+918,lateral pinch,178.mp4,8950,9000,Intermediate,Housekeeper 1,2.0,int-lateral,int-lateral,0:05:58
+8097,tripod,067.mp4,5850,5866,Precision,Machinist 2,0.64,circular,pre-circular,03:54.0
+10312,thumb-2 finger,015.mp4,6157,6272,Precision,Machinist 2,4.6,pre-prismatic,pre-prismatic,04:06.3
+5843,light tool,091.mp4,41595,41654,Power,Machinist 1,2.36,pow-prismatic,pow-oblique,27:43.8
+5448,tripod,089.mp4,27475,27500,Precision,Machinist 1,1.0,circular,pre-circular,0:18:19
+8090,thumb-2 finger,067.mp4,4487,4603,Precision,Machinist 2,4.64,pre-prismatic,pre-prismatic,02:59.5
+5953,tripod,092.mp4,24390,24734,Precision,Machinist 1,13.76,circular,pre-circular,16:15.6
+4704,lateral tripod,086.mp4,3300,3350,Intermediate,Machinist 1,2.0,int-lateral,int-lateral,0:02:12
+1613,thumb-3 finger,052.mp4,9275,9313,Precision,Housekeeper 1,1.52,pre-prismatic,pre-prismatic,0:06:11
+2975,precision disk,156.mp4,8445,8491,Precision,Housekeeper 2,1.84,circular,pre-circular,05:37.8
+6511,lateral pinch,095.mp4,32420,32482,Intermediate,Machinist 1,2.48,int-lateral,int-lateral,21:36.8
+10333,lateral pinch,015.mp4,10105,10195,Intermediate,Machinist 2,3.6,int-lateral,int-lateral,06:44.2
+9752,medium wrap,082.mp4,11020,11045,Power,Machinist 2,1.0,pow-prismatic,pow-cylindric,07:20.8
+2268,precision disk,142.mp4,5785,15024,Precision,Housekeeper 2,369.58,circular,pre-circular,03:51.4
+5208,lateral tripod,088.mp4,19850,19925,Intermediate,Machinist 1,3.0,int-lateral,int-lateral,0:13:14
+8212,lateral tripod,068.mp4,11365,11430,Intermediate,Machinist 2,2.6,int-lateral,int-lateral,07:34.6
+9823,lateral tripod,001.mp4,8050,8620,Intermediate,Machinist 2,22.8,int-lateral,int-lateral,05:22.0
+7620,tripod,061.mp4,6672,6721,Precision,Machinist 2,1.96,circular,pre-circular,04:26.9
+7758,lateral tripod,063.mp4,3195,3216,Intermediate,Machinist 2,0.84,int-lateral,int-lateral,02:07.8
+7608,ring,061.mp4,2760,2877,Power,Machinist 2,4.68,pow-prismatic,pow-cylindric,01:50.4
+5036,tripod,087.mp4,32675,32725,Precision,Machinist 1,2.0,circular,pre-circular,0:21:47
+8264,lateral tripod,069.mp4,1639,1659,Intermediate,Machinist 2,0.8,int-lateral,int-lateral,01:05.6
+8473,lateral pinch,070.mp4,3675,3709,Intermediate,Machinist 2,1.36,int-lateral,int-lateral,02:27.0
+1309,sphere-3 finger,049.mp4,31500,31519,Power,Housekeeper 1,0.76,circular,pow-circular,0:21:00
+4614,thumb-index finger,085.mp4,26400,26650,Precision,Machinist 1,10.0,pre-prismatic,pre-pinch,0:17:36
+5132,light tool,088.mp4,3675,3950,Power,Machinist 1,11.0,pow-prismatic,pow-oblique,0:02:27
+6753,thumb-4 finger,096.mp4,39035,39110,Precision,Machinist 1,3.0,pre-prismatic,pre-prismatic,26:01.4
+8880,lateral tripod,073.mp4,12012,12026,Intermediate,Machinist 2,0.56,int-lateral,int-lateral,08:00.5
+147,medium wrap,041.mp4,26700,26875,Power,Housekeeper 1,7.0,pow-prismatic,pow-cylindric,0:17:48
+7858,tripod,064.mp4,8780,8793,Precision,Machinist 2,0.52,circular,pre-circular,05:51.2
+9738,lateral pinch,082.mp4,9587,9754,Intermediate,Machinist 2,6.68,int-lateral,int-lateral,06:23.5
+5495,thumb-index finger,089.mp4,42800,43025,Precision,Machinist 1,9.0,pre-prismatic,pre-pinch,0:28:32
+5056,tripod,087.mp4,35100,35425,Precision,Machinist 1,13.0,circular,pre-circular,0:23:24
+9849,power sphere,002.mp4,335,347,Power,Machinist 2,0.48,circular,pow-circular,00:13.4
+9844,lateral tripod,001.mp4,13335,13467,Intermediate,Machinist 2,5.3,int-lateral,int-lateral,08:53.4
+3045,precision disk,157.mp4,6340,7667,Precision,Housekeeper 2,53.08,circular,pre-circular,04:13.6
+5935,lateral pinch,092.mp4,20870,20878,Intermediate,Machinist 1,0.32,int-lateral,int-lateral,13:54.8
+1224,precision disk,048.mp4,44675,44985,Precision,Housekeeper 1,12.4,circular,pre-circular,0:29:47
+5785,thumb-3 finger,091.mp4,23497,23639,Precision,Machinist 1,5.68,pre-prismatic,pre-prismatic,15:39.9
+8752,lateral tripod,073.mp4,2860,2905,Intermediate,Machinist 2,1.8,int-lateral,int-lateral,01:54.4
+5231,lateral pinch,088.mp4,23850,23975,Intermediate,Machinist 1,5.0,int-lateral,int-lateral,0:15:54
+4415,tripod,084.mp4,7050,7075,Precision,Machinist 1,1.0,circular,pre-circular,0:04:42
+6585,medium wrap,096.mp4,7240,7275,Power,Machinist 1,1.4,pow-prismatic,pow-cylindric,04:49.6
+10512,thumb-index finger,020.mp4,3132,3182,Precision,Machinist 2,2.0,pre-prismatic,pre-pinch,02:05.3
+3445,tripod,164.mp4,5845,5885,Precision,Housekeeper 2,1.6,circular,pre-circular,03:53.8
+4799,power sphere,086.mp4,21025,21125,Power,Machinist 1,4.0,circular,pow-circular,0:14:01
+8146,lateral tripod,068.mp4,4067,4103,Intermediate,Machinist 2,1.44,int-lateral,int-lateral,02:42.7
+2865,large diameter,155.mp4,2670,2687,Power,Housekeeper 2,0.68,pow-prismatic,pow-cylindric,01:46.8
+4145,small diameter,179.mp4,6630,6652,Power,Housekeeper 2,0.88,pow-prismatic,pow-cylindric,04:25.2
+1241,thumb-2 finger,049.mp4,2775,2795,Precision,Housekeeper 1,0.8,pre-prismatic,pre-prismatic,0:01:51
+7794,index finger extension,063.mp4,11460,11664,Power,Machinist 2,8.16,pow-prismatic,pow-oblique,07:38.4
+4486,thumb-4 finger,084.mp4,33475,34225,Precision,Machinist 1,30.0,pre-prismatic,pre-prismatic,0:22:19
+10010,medium wrap,007.mp4,307,549,Power,Machinist 2,9.7,pow-prismatic,pow-cylindric,00:12.3
+7367,small diameter,058.mp4,12755,12813,Power,Machinist 2,2.32,pow-prismatic,pow-cylindric,08:30.2
+550,power sphere,043.mp4,40825,40950,Power,Housekeeper 1,5.0,circular,pow-circular,0:27:13
+2521,precision disk,150.mp4,7209,8219,Precision,Housekeeper 2,40.4,circular,pre-circular,04:48.4
+7527,lateral tripod,060.mp4,5495,5511,Intermediate,Machinist 2,0.64,int-lateral,int-lateral,03:39.8
+9455,small diameter,080.mp4,3357,3380,Power,Machinist 2,0.92,pow-prismatic,pow-cylindric,02:14.3
+4014,power sphere,177.mp4,1670,1696,Power,Housekeeper 2,1.04,circular,pow-circular,01:06.8
+9874,lateral tripod,002.mp4,7690,7747,Intermediate,Machinist 2,2.3,int-lateral,int-lateral,05:07.6
+6253,medium wrap,094.mp4,18950,19362,Power,Machinist 1,16.48,pow-prismatic,pow-cylindric,12:38.0
+114,thumb-index finger,041.mp4,13850,13900,Precision,Housekeeper 1,2.0,pre-prismatic,pre-pinch,0:09:14
+3334,power sphere,161.mp4,9822,9849,Power,Housekeeper 2,1.09,circular,pow-circular,06:32.9
+8791,lateral pinch,073.mp4,5107,5135,Intermediate,Machinist 2,1.12,int-lateral,int-lateral,03:24.3
+1653,precision disk,106.mp4,4330,4406,Precision,Housekeeper 1,3.04,circular,pre-circular,02:53.2
+3449,precision disk,164.mp4,6625,6664,Precision,Housekeeper 2,1.56,circular,pre-circular,04:25.0
+3661,thumb-4 finger,170.mp4,4517,4534,Precision,Housekeeper 2,0.68,pre-prismatic,pre-prismatic,03:00.7
+6524,light tool,095.mp4,34095,34320,Power,Machinist 1,9.03,pow-prismatic,pow-oblique,22:43.8
+8178,tripod,068.mp4,7515,7583,Precision,Machinist 2,2.72,circular,pre-circular,05:00.6
+4303,index finger extension,117.mp4,10235,10245,Power,Housekeeper 2,0.4,pow-prismatic,pow-oblique,06:49.4
+2375,medium wrap,149.mp4,442,460,Power,Housekeeper 2,0.72,pow-prismatic,pow-cylindric,00:17.7
+816,medium wrap,045.mp4,11550,11700,Power,Housekeeper 1,6.0,pow-prismatic,pow-cylindric,0:07:42
+6397,thumb-2 finger,095.mp4,12787,12809,Precision,Machinist 1,0.88,pre-prismatic,pre-prismatic,08:31.5
+1783,lateral tripod,108.mp4,5242,5294,Intermediate,Housekeeper 1,2.08,int-lateral,int-lateral,03:29.7
+6521,light tool,095.mp4,33780,33841,Power,Machinist 1,2.44,pow-prismatic,pow-oblique,22:31.2
+7446,tripod,059.mp4,10237,10266,Precision,Machinist 2,1.16,circular,pre-circular,06:49.5
+8396,lateral tripod,069.mp4,13652,13671,Intermediate,Machinist 2,0.76,int-lateral,int-lateral,09:06.1
+998,thumb-index finger,047.mp4,8975,9012,Precision,Housekeeper 1,1.48,pre-prismatic,pre-pinch,0:05:59
+6608,lateral tripod,096.mp4,10167,10250,Intermediate,Machinist 1,3.32,int-lateral,int-lateral,06:46.7
+5616,thumb-3 finger,090.mp4,23875,24000,Precision,Machinist 1,5.0,pre-prismatic,pre-prismatic,0:15:55
+3316,lateral tripod,161.mp4,5307,5367,Intermediate,Housekeeper 2,2.4,int-lateral,int-lateral,03:32.3
+5765,lateral pinch,091.mp4,17350,17372,Intermediate,Machinist 1,0.88,int-lateral,int-lateral,11:34.0
+4618,tripod,085.mp4,26925,27025,Precision,Machinist 1,4.0,circular,pre-circular,0:17:57
+8770,lateral tripod,073.mp4,3815,3825,Intermediate,Machinist 2,0.4,int-lateral,int-lateral,02:32.6
+9275,tripod,078.mp4,14160,14311,Precision,Machinist 2,6.04,circular,pre-circular,09:26.4
+3202,precision disk,159.mp4,8807,8953,Precision,Housekeeper 2,5.84,circular,pre-circular,05:52.3
+4890,power sphere,086.mp4,39775,39850,Power,Machinist 1,3.0,circular,pow-circular,0:26:31
+5539,power sphere,090.mp4,7250,7300,Power,Machinist 1,2.0,circular,pow-circular,0:04:50
+231,tripod,042.mp4,7325,7475,Precision,Housekeeper 1,6.0,circular,pre-circular,0:04:53
+7255,lateral tripod,057.mp4,7600,7615,Intermediate,Machinist 2,0.6,int-lateral,int-lateral,05:04.0
+5631,lateral pinch,090.mp4,28450,28625,Intermediate,Machinist 1,7.0,int-lateral,int-lateral,0:18:58
+2015,medium wrap,112.mp4,1814,2374,Power,Housekeeper 1,22.4,pow-prismatic,pow-cylindric,01:12.6
+5359,thumb-index finger,089.mp4,300,375,Precision,Machinist 1,3.0,pre-prismatic,pre-pinch,0:00:12
+5327,light tool,088.mp4,40775,40825,Power,Machinist 1,2.0,pow-prismatic,pow-oblique,0:27:11
+8940,adduction,074.mp4,5520,5530,Intermediate,Machinist 2,0.4,pre-prismatic,pre-pinch,03:40.8
+2161,precision disk,130.mp4,2225,3509,Precision,Housekeeper 2,51.38,circular,pre-circular,01:29.0
+4466,medium wrap,084.mp4,26175,26275,Power,Machinist 1,4.0,pow-prismatic,pow-cylindric,0:17:27
+2239,index finger extension,141.mp4,12282,12554,Power,Housekeeper 2,10.9,pow-prismatic,pow-oblique,08:11.3
+2069,precision disk,113.mp4,7597,7866,Precision,Housekeeper 1,10.76,circular,pre-circular,05:03.9
+3809,medium wrap,173.mp4,6385,8970,Power,Housekeeper 2,103.41,pow-prismatic,pow-cylindric,04:15.4
+6059,thumb-3 finger,092.mp4,43400,43475,Precision,Machinist 1,3.03,pre-prismatic,pre-prismatic,28:56.0
+9096,lateral tripod,076.mp4,7530,7556,Intermediate,Machinist 2,1.04,int-lateral,int-lateral,05:01.2
+6654,lateral tripod,096.mp4,18462,18508,Intermediate,Machinist 1,1.84,int-lateral,int-lateral,12:18.5
+1514,precision disk,051.mp4,27375,27849,Precision,Housekeeper 1,18.96,circular,pre-circular,0:18:15
+5287,light tool,088.mp4,32875,33550,Power,Machinist 1,27.0,pow-prismatic,pow-oblique,0:21:55
+8152,lateral tripod,068.mp4,4217,4241,Intermediate,Machinist 2,0.96,int-lateral,int-lateral,02:48.7
+9090,thumb-2 finger,076.mp4,5347,5990,Precision,Machinist 2,25.72,pre-prismatic,pre-prismatic,03:33.9
+1572,power sphere,051.mp4,40125,40169,Power,Housekeeper 1,1.76,circular,pow-circular,0:26:45
+9919,small diameter,003.mp4,2185,2245,Power,Machinist 2,2.4,pow-prismatic,pow-cylindric,01:27.4
+9169,lateral tripod,077.mp4,860,1026,Intermediate,Machinist 2,6.64,int-lateral,int-lateral,00:34.4
+1420,medium wrap,051.mp4,750,765,Power,Housekeeper 1,0.6,pow-prismatic,pow-cylindric,0:00:30
+6345,medium wrap,095.mp4,6000,6013,Power,Machinist 1,0.52,pow-prismatic,pow-cylindric,04:00.0
+9795,lateral tripod,001.mp4,360,412,Intermediate,Machinist 2,2.1,int-lateral,int-lateral,00:14.4
+5360,quadpod,089.mp4,450,775,Precision,Machinist 1,13.0,circular,pre-circular,0:00:18
+3572,adducted thumb,168.mp4,6532,6664,Power,Housekeeper 2,5.28,pow-prismatic,pow-oblique,04:21.3
+749,thumb-3 finger,044.mp4,36625,36700,Precision,Housekeeper 1,3.0,pre-prismatic,pre-prismatic,0:24:25
+4816,quadpod,086.mp4,22725,22825,Precision,Machinist 1,4.0,circular,pre-circular,0:15:09
+8625,thumb-4 finger,072.mp4,1027,1110,Precision,Machinist 2,3.32,pre-prismatic,pre-prismatic,00:41.1
+258,medium wrap,042.mp4,14825,14925,Power,Housekeeper 1,4.0,pow-prismatic,pow-cylindric,0:09:53
+1568,precision disk,051.mp4,39275,39802,Precision,Housekeeper 1,21.08,circular,pre-circular,0:26:11
+4971,tripod,087.mp4,19600,19625,Precision,Machinist 1,1.0,circular,pre-circular,0:13:04
+3000,precision disk,156.mp4,12555,12685,Precision,Housekeeper 2,5.2,circular,pre-circular,08:22.2
+5994,tripod,092.mp4,31152,31615,Precision,Machinist 1,18.52,circular,pre-circular,20:46.1
+9518,lateral pinch,080.mp4,13917,13936,Intermediate,Machinist 2,0.76,int-lateral,int-lateral,09:16.7
+9173,lateral tripod,077.mp4,1102,1141,Intermediate,Machinist 2,1.56,int-lateral,int-lateral,00:44.1
+6011,tripod,092.mp4,34322,34403,Precision,Machinist 1,3.24,circular,pre-circular,22:52.9
+4638,light tool,085.mp4,32100,32175,Power,Machinist 1,3.0,pow-prismatic,pow-oblique,0:21:24
+5876,lateral pinch,092.mp4,6597,6637,Intermediate,Machinist 1,1.6,int-lateral,int-lateral,04:23.9
+7685,lateral tripod,062.mp4,7434,7486,Intermediate,Machinist 2,2.08,int-lateral,int-lateral,04:57.4
+996,lateral tripod,047.mp4,7425,7433,Intermediate,Housekeeper 1,0.32,int-lateral,int-lateral,0:04:57
+4567,tripod,085.mp4,14225,14275,Precision,Machinist 1,2.0,circular,pre-circular,0:09:29
+4083,thumb-4 finger,177.mp4,9370,9397,Precision,Housekeeper 2,1.08,pre-prismatic,pre-prismatic,06:14.8
+1723,thumb-2 finger,106.mp4,24477,24690,Precision,Housekeeper 1,8.52,pre-prismatic,pre-prismatic,16:19.1
+2669,lateral pinch,152.mp4,1250,1264,Intermediate,Housekeeper 2,0.56,int-lateral,int-lateral,00:50.0
+5683,medium wrap,091.mp4,3060,3195,Power,Machinist 1,5.42,pow-prismatic,pow-cylindric,02:02.4
+2281,medium wrap,143.mp4,7580,7640,Power,Housekeeper 2,2.4,pow-prismatic,pow-cylindric,05:03.2
+8632,tripod,072.mp4,1617,1752,Precision,Machinist 2,5.4,circular,pre-circular,01:04.7
+8012,sphere-3 finger,066.mp4,7712,7858,Power,Machinist 2,5.84,circular,pow-circular,05:08.5
+7221,adduction,057.mp4,2150,2188,Intermediate,Machinist 2,1.52,pre-prismatic,pre-pinch,01:26.0
+8446,lateral tripod,070.mp4,1739,1771,Intermediate,Machinist 2,1.28,int-lateral,int-lateral,01:09.6
+7659,lateral tripod,062.mp4,3492,3662,Intermediate,Machinist 2,6.8,int-lateral,int-lateral,02:19.7
+1588,thumb-3 finger,052.mp4,2350,2465,Precision,Housekeeper 1,4.6,pre-prismatic,pre-prismatic,0:01:34
+1852,medium wrap,110.mp4,1372,1424,Power,Housekeeper 1,2.08,pow-prismatic,pow-cylindric,00:54.9
+315,index finger extension,042.mp4,30475,30900,Power,Housekeeper 1,17.0,pow-prismatic,pow-oblique,0:20:19
+10296,thumb-index finger,015.mp4,3890,3972,Precision,Machinist 2,3.3,pre-prismatic,pre-pinch,02:35.6
+2450,precision disk,149.mp4,11237,11299,Precision,Housekeeper 2,2.48,circular,pre-circular,07:29.5
+2220,medium wrap,141.mp4,1900,1965,Power,Housekeeper 2,2.6,pow-prismatic,pow-cylindric,01:16.0
+7612,lateral pinch,061.mp4,3607,3647,Intermediate,Machinist 2,1.6,int-lateral,int-lateral,02:24.3
+1263,thumb-2 finger,049.mp4,8825,8882,Precision,Housekeeper 1,2.28,pre-prismatic,pre-prismatic,0:05:53
+9112,thumb-2 finger,076.mp4,9892,9943,Precision,Machinist 2,2.04,pre-prismatic,pre-prismatic,06:35.7
+8741,lateral tripod,073.mp4,2252,2265,Intermediate,Machinist 2,0.52,int-lateral,int-lateral,01:30.1
+383,thumb-index finger,043.mp4,6700,6750,Precision,Housekeeper 1,2.0,pre-prismatic,pre-pinch,0:04:28
+331,thumb-index finger,043.mp4,775,825,Precision,Housekeeper 1,2.0,pre-prismatic,pre-pinch,0:00:31
+1364,precision disk,050.mp4,9800,9872,Precision,Housekeeper 1,2.88,circular,pre-circular,0:06:32
+1527,precision disk,051.mp4,30750,30855,Precision,Housekeeper 1,4.2,circular,pre-circular,0:20:30
+515,power sphere,043.mp4,31625,31650,Power,Housekeeper 1,1.0,circular,pow-circular,0:21:05
+8039,medium wrap,066.mp4,11482,11497,Power,Machinist 2,0.6,pow-prismatic,pow-cylindric,07:39.3
+7689,thumb-3 finger,062.mp4,7609,7652,Precision,Machinist 2,1.72,pre-prismatic,pre-prismatic,05:04.4
+3464,medium wrap,164.mp4,10855,10946,Power,Housekeeper 2,3.64,pow-prismatic,pow-cylindric,07:14.2
+972,index finger extension,046.mp4,4125,4550,Power,Housekeeper 1,17.0,pow-prismatic,pow-oblique,0:02:45
+10332,thumb-4 finger,015.mp4,10040,10105,Precision,Machinist 2,2.6,pre-prismatic,pre-prismatic,06:41.6
+1024,power sphere,047.mp4,20450,20581,Power,Housekeeper 1,5.24,circular,pow-circular,0:13:38
+9578,thumb-index finger,081.mp4,6667,6693,Precision,Machinist 2,1.04,pre-prismatic,pre-pinch,04:26.7
+9028,small diameter,075.mp4,2620,2675,Power,Machinist 2,2.2,pow-prismatic,pow-cylindric,01:44.8
+6621,light tool,096.mp4,12287,12347,Power,Machinist 1,2.4,pow-prismatic,pow-oblique,08:11.5
+5532,index finger extension,090.mp4,5200,5250,Power,Machinist 1,2.0,pow-prismatic,pow-oblique,0:03:28
+4390,tripod,084.mp4,875,1100,Precision,Machinist 1,9.0,circular,pre-circular,0:00:35
+1233,thumb-3 finger,049.mp4,2375,2464,Precision,Housekeeper 1,3.56,pre-prismatic,pre-prismatic,0:01:35
+9134,thumb-2 finger,076.mp4,11585,11623,Precision,Machinist 2,1.52,pre-prismatic,pre-prismatic,07:43.4
+2303,lateral pinch,143.mp4,9315,9353,Intermediate,Housekeeper 2,1.52,int-lateral,int-lateral,06:12.6
+5543,thumb-3 finger,090.mp4,7650,7725,Precision,Machinist 1,3.0,pre-prismatic,pre-prismatic,0:05:06
+8523,lateral tripod,070.mp4,9380,9395,Intermediate,Machinist 2,0.6,int-lateral,int-lateral,06:15.2
+1432,medium wrap,051.mp4,13125,13160,Power,Housekeeper 1,1.4,pow-prismatic,pow-cylindric,0:08:45
+795,power sphere,045.mp4,2825,2875,Power,Housekeeper 1,2.0,circular,pow-circular,0:01:53
+6242,medium wrap,094.mp4,11122,11263,Power,Machinist 1,5.67,pow-prismatic,pow-cylindric,07:24.9
+4582,medium wrap,085.mp4,16750,16825,Power,Machinist 1,3.0,pow-prismatic,pow-cylindric,0:11:10
+1470,power sphere,051.mp4,17775,17875,Power,Housekeeper 1,4.0,circular,pow-circular,0:11:51
+3283,medium wrap,160.mp4,3105,3163,Power,Housekeeper 2,2.32,pow-prismatic,pow-cylindric,02:04.2
+2454,precision disk,149.mp4,11390,11456,Precision,Housekeeper 2,2.64,circular,pre-circular,07:35.6
+9100,lateral tripod,076.mp4,8395,8476,Intermediate,Machinist 2,3.24,int-lateral,int-lateral,05:35.8
+6454,lateral pinch,095.mp4,21630,21683,Intermediate,Machinist 1,2.12,int-lateral,int-lateral,14:25.2
+3466,medium wrap,164.mp4,11307,13517,Power,Housekeeper 2,88.4,pow-prismatic,pow-cylindric,07:32.3
+10128,lateral pinch,012.mp4,4860,4875,Intermediate,Machinist 2,0.6,int-lateral,int-lateral,03:14.4
+9887,thumb-index finger,002.mp4,10797,10882,Precision,Machinist 2,3.4,pre-prismatic,pre-pinch,07:11.9
+5083,medium wrap,087.mp4,40200,40225,Power,Machinist 1,1.0,pow-prismatic,pow-cylindric,0:26:48
+8327,light tool,069.mp4,7332,7350,Power,Machinist 2,0.72,pow-prismatic,pow-oblique,04:53.3
+10368,thumb-3 finger,016.mp4,2230,2322,Precision,Machinist 2,3.7,pre-prismatic,pre-prismatic,01:29.2
+9663,lateral tripod,082.mp4,3832,3847,Intermediate,Machinist 2,0.6,int-lateral,int-lateral,02:33.3
+2367,thumb-4 finger,145.mp4,6917,6934,Precision,Housekeeper 2,0.7,pre-prismatic,pre-prismatic,04:36.7
+1230,precision disk,049.mp4,1425,1996,Precision,Housekeeper 1,22.84,circular,pre-circular,0:00:57
+6084,medium wrap,093.mp4,5027,5068,Power,Machinist 1,1.64,pow-prismatic,pow-cylindric,03:21.1
+4425,lateral pinch,084.mp4,11600,11650,Intermediate,Machinist 1,2.0,int-lateral,int-lateral,0:07:44
+5719,light tool,091.mp4,8192,8240,Power,Machinist 1,1.92,pow-prismatic,pow-oblique,05:27.7
+9204,thumb-2 finger,078.mp4,4105,4132,Precision,Machinist 2,1.08,pre-prismatic,pre-prismatic,02:44.2
+6040,thumb-2 finger,092.mp4,39832,39850,Precision,Machinist 1,0.72,pre-prismatic,pre-prismatic,26:33.3
+1108,light tool,048.mp4,16575,16668,Power,Housekeeper 1,3.72,pow-prismatic,pow-oblique,0:11:03
+7651,lateral pinch,062.mp4,2177,2235,Intermediate,Machinist 2,2.32,int-lateral,int-lateral,01:27.1
+8173,thumb-3 finger,068.mp4,5765,5890,Precision,Machinist 2,5.0,pre-prismatic,pre-prismatic,03:50.6
+10482,lateral pinch,018.mp4,1512,1544,Intermediate,Machinist 2,1.3,int-lateral,int-lateral,01:00.5
+10079,lateral pinch,011.mp4,1555,2020,Intermediate,Machinist 2,18.6,int-lateral,int-lateral,01:02.2
+6031,tripod,092.mp4,37545,38052,Precision,Machinist 1,20.28,circular,pre-circular,25:01.8
+698,medium wrap,044.mp4,24400,25100,Power,Housekeeper 1,28.0,pow-prismatic,pow-cylindric,0:16:16
+8105,thumb-3 finger,068.mp4,457,473,Precision,Machinist 2,0.64,pre-prismatic,pre-prismatic,00:18.3
+1516,precision disk,051.mp4,28100,28754,Precision,Housekeeper 1,26.16,circular,pre-circular,0:18:44
+7715,lateral pinch,062.mp4,10825,10843,Intermediate,Machinist 2,0.72,int-lateral,int-lateral,07:13.0
+5280,thumb-2 finger,088.mp4,31875,31925,Precision,Machinist 1,2.0,pre-prismatic,pre-prismatic,0:21:15
+4710,tripod,086.mp4,3900,3925,Precision,Machinist 1,1.0,circular,pre-circular,0:02:36
+4883,tripod,086.mp4,38775,38800,Precision,Machinist 1,1.0,circular,pre-circular,0:25:51
+7538,lateral tripod,060.mp4,5837,5846,Intermediate,Machinist 2,0.36,int-lateral,int-lateral,03:53.5
+1255,power sphere,049.mp4,5450,5471,Power,Housekeeper 1,0.84,circular,pow-circular,0:03:38
+6145,index finger extension,093.mp4,21435,22537,Power,Machinist 1,44.08,pow-prismatic,pow-oblique,14:17.4
+7692,lateral tripod,062.mp4,7700,7874,Intermediate,Machinist 2,6.96,int-lateral,int-lateral,05:08.0
+4506,lateral tripod,084.mp4,38900,39050,Intermediate,Machinist 1,6.0,int-lateral,int-lateral,0:25:56
+656,precision disk,044.mp4,12950,13050,Precision,Housekeeper 1,4.0,circular,pre-circular,0:08:38
+7517,light tool,060.mp4,4957,5032,Power,Machinist 2,3.0,pow-prismatic,pow-oblique,03:18.3
+7015,adduction,054.mp4,4247,4474,Intermediate,Machinist 2,9.08,pre-prismatic,pre-pinch,02:49.9
+6660,thumb-2 finger,096.mp4,19037,19093,Precision,Machinist 1,2.24,pre-prismatic,pre-prismatic,12:41.5
+5437,lateral pinch,089.mp4,20575,20625,Intermediate,Machinist 1,2.0,int-lateral,int-lateral,0:13:43
+4734,lateral pinch,086.mp4,7000,7175,Intermediate,Machinist 1,7.0,int-lateral,int-lateral,0:04:40
+9130,small diameter,076.mp4,11332,11367,Power,Machinist 2,1.4,pow-prismatic,pow-cylindric,07:33.3
+8329,lateral tripod,069.mp4,7370,7443,Intermediate,Machinist 2,2.92,int-lateral,int-lateral,04:54.8
+598,power sphere,044.mp4,5525,5600,Power,Housekeeper 1,3.0,circular,pow-circular,0:03:41
+4865,thumb-2 finger,086.mp4,36050,36075,Precision,Machinist 1,1.0,pre-prismatic,pre-prismatic,0:24:02
+552,medium wrap,043.mp4,41375,41875,Power,Housekeeper 1,20.0,pow-prismatic,pow-cylindric,0:27:35
+8918,thumb-2 finger,074.mp4,3760,3833,Precision,Machinist 2,2.92,pre-prismatic,pre-prismatic,02:30.4
+1796,medium wrap,109.mp4,3470,3546,Power,Housekeeper 1,3.04,pow-prismatic,pow-cylindric,02:18.8
+4658,power sphere,085.mp4,35300,35325,Power,Machinist 1,1.0,circular,pow-circular,0:23:32
+10159,thumb-index finger,012.mp4,11892,12072,Precision,Machinist 2,7.2,pre-prismatic,pre-pinch,07:55.7
+6128,light tool,093.mp4,17900,17916,Power,Machinist 1,0.64,pow-prismatic,pow-oblique,11:56.0
+1147,medium wrap,048.mp4,27650,27772,Power,Housekeeper 1,4.88,pow-prismatic,pow-cylindric,0:18:26
+10263,medium wrap,014.mp4,8852,9744,Power,Machinist 2,35.7,pow-prismatic,pow-cylindric,05:54.1
+1218,lateral pinch,048.mp4,44200,44225,Intermediate,Housekeeper 1,1.0,int-lateral,int-lateral,0:29:28
+8136,lateral tripod,068.mp4,3554,3646,Intermediate,Machinist 2,3.68,int-lateral,int-lateral,02:22.2
+3438,medium wrap,164.mp4,5005,5063,Power,Housekeeper 2,2.32,pow-prismatic,pow-cylindric,03:20.2
+10240,lateral pinch,014.mp4,1862,1972,Intermediate,Machinist 2,4.4,int-lateral,int-lateral,01:14.5
+1491,power sphere,051.mp4,22375,22434,Power,Housekeeper 1,2.36,circular,pow-circular,0:14:55
+1776,power sphere,108.mp4,4657,4815,Power,Housekeeper 1,6.32,circular,pow-circular,03:06.3
+4678,lateral pinch,085.mp4,40525,40550,Intermediate,Machinist 1,1.0,int-lateral,int-lateral,0:27:01
+5781,lateral pinch,091.mp4,22275,22297,Intermediate,Machinist 1,0.88,int-lateral,int-lateral,14:51.0
+5010,precision disk,087.mp4,28750,28800,Precision,Machinist 1,2.0,circular,pre-circular,0:19:10
+5067,thumb-4 finger,087.mp4,37225,37250,Precision,Machinist 1,1.0,pre-prismatic,pre-prismatic,0:24:49
+4451,lateral pinch,084.mp4,17350,17375,Intermediate,Machinist 1,1.0,int-lateral,int-lateral,0:11:34
+2007,thumb-2 finger,112.mp4,1222,1255,Precision,Housekeeper 1,1.32,pre-prismatic,pre-prismatic,00:48.9
+6457,light tool,095.mp4,21842,21889,Power,Machinist 1,1.88,pow-prismatic,pow-oblique,14:33.7
+10116,lateral pinch,012.mp4,1810,2345,Intermediate,Machinist 2,21.4,int-lateral,int-lateral,01:12.4
+2973,precision disk,156.mp4,8265,8322,Precision,Housekeeper 2,2.28,circular,pre-circular,05:30.6
+8666,thumb-2 finger,072.mp4,5610,5907,Precision,Machinist 2,11.88,pre-prismatic,pre-prismatic,03:44.4
+16,adducted thumb,040.mp4,5625,5825,Power,Housekeeper 1,8.0,pow-prismatic,pow-oblique,0:03:45
+3008,power sphere,156.mp4,14550,14582,Power,Housekeeper 2,1.28,circular,pow-circular,09:42.0
+5003,tripod,087.mp4,27800,27875,Precision,Machinist 1,3.0,circular,pre-circular,0:18:32
+7442,tripod,059.mp4,10027,10106,Precision,Machinist 2,3.16,circular,pre-circular,06:41.1
+9200,thumb-2 finger,078.mp4,3579,3678,Precision,Machinist 2,3.96,pre-prismatic,pre-prismatic,02:23.2
+4708,medium wrap,086.mp4,3750,3775,Power,Machinist 1,1.0,pow-prismatic,pow-cylindric,0:02:30
+4919,tripod,087.mp4,1550,1600,Precision,Machinist 1,2.0,circular,pre-circular,0:01:02
+4542,medium wrap,085.mp4,5950,6100,Power,Machinist 1,6.0,pow-prismatic,pow-cylindric,0:03:58
+8364,lateral tripod,069.mp4,10922,11450,Intermediate,Machinist 2,21.12,int-lateral,int-lateral,07:16.9
+2061,lateral tripod,113.mp4,4847,4946,Intermediate,Housekeeper 1,3.96,int-lateral,int-lateral,03:13.9
+9850,lateral pinch,002.mp4,380,460,Intermediate,Machinist 2,3.2,int-lateral,int-lateral,00:15.2
+8166,lateral tripod,068.mp4,5202,5223,Intermediate,Machinist 2,0.84,int-lateral,int-lateral,03:28.1
+1142,index finger extension,048.mp4,26675,26745,Power,Housekeeper 1,2.8,pow-prismatic,pow-oblique,0:17:47
+2432,thumb-4 finger,149.mp4,7805,7850,Precision,Housekeeper 2,1.8,pre-prismatic,pre-prismatic,05:12.2
+4717,lateral pinch,086.mp4,5000,5050,Intermediate,Machinist 1,2.0,int-lateral,int-lateral,0:03:20
+6051,light tool,092.mp4,42227,42265,Power,Machinist 1,1.52,pow-prismatic,pow-oblique,28:09.1
+8837,tripod,073.mp4,9252,9432,Precision,Machinist 2,7.2,circular,pre-circular,06:10.1
+4185,precision disk,115.mp4,12647,15023,Precision,Housekeeper 2,95.04,circular,pre-circular,08:25.9
+5025,power sphere,087.mp4,30575,30750,Power,Machinist 1,7.0,circular,pow-circular,0:20:23
+9404,lateral tripod,079.mp4,12875,13061,Intermediate,Machinist 2,7.44,int-lateral,int-lateral,08:35.0
+3485,medium wrap,165.mp4,6050,6489,Power,Housekeeper 2,17.56,pow-prismatic,pow-cylindric,04:02.0
+1681,tripod,106.mp4,17165,17218,Precision,Housekeeper 1,2.12,circular,pre-circular,11:26.6
+3629,precision disk,169.mp4,13644,13882,Precision,Housekeeper 2,9.55,circular,pre-circular,09:05.8
+5228,index finger extension,088.mp4,23275,23725,Power,Machinist 1,18.0,pow-prismatic,pow-oblique,0:15:31
+692,power sphere,044.mp4,22975,23125,Power,Housekeeper 1,6.0,circular,pow-circular,0:15:19
+1750,sphere-3 finger,108.mp4,1810,1876,Power,Housekeeper 1,2.64,circular,pow-circular,01:12.4
+4292,lateral tripod,117.mp4,9215,9223,Intermediate,Housekeeper 2,0.32,int-lateral,int-lateral,06:08.6
+2234,medium wrap,141.mp4,5135,6240,Power,Housekeeper 2,44.2,pow-prismatic,pow-cylindric,03:25.4
+9336,lateral tripod,079.mp4,5432,5500,Intermediate,Machinist 2,2.72,int-lateral,int-lateral,03:37.3
+2617,precision disk,151.mp4,9465,9812,Precision,Housekeeper 2,13.88,circular,pre-circular,06:18.6
+8879,lateral tripod,073.mp4,12005,12014,Intermediate,Machinist 2,0.36,int-lateral,int-lateral,08:00.2
+66,power sphere,041.mp4,5375,5425,Power,Housekeeper 1,2.0,circular,pow-circular,0:03:35
+5370,large diameter,089.mp4,2575,2725,Power,Machinist 1,6.0,pow-prismatic,pow-cylindric,0:01:43
+2110,medium wrap,114.mp4,9930,10418,Power,Housekeeper 1,19.52,pow-prismatic,pow-cylindric,06:37.2
+4511,medium wrap,084.mp4,39625,40150,Power,Machinist 1,21.0,pow-prismatic,pow-cylindric,0:26:25
+3258,tripod,159.mp4,13035,13043,Precision,Housekeeper 2,0.32,circular,pre-circular,08:41.4
+7146,light tool,055.mp4,9300,9451,Power,Machinist 2,6.04,pow-prismatic,pow-oblique,06:12.0
+4123,index finger extension,179.mp4,3295,3389,Power,Housekeeper 2,3.76,pow-prismatic,pow-oblique,02:11.8
+2091,medium wrap,114.mp4,3925,4057,Power,Housekeeper 1,5.28,pow-prismatic,pow-cylindric,02:37.0
+10169,thumb-4 finger,012.mp4,14682,14712,Precision,Machinist 2,1.2,pre-prismatic,pre-prismatic,09:47.3
+9171,lateral tripod,077.mp4,1050,1073,Intermediate,Machinist 2,0.92,int-lateral,int-lateral,00:42.0
+9505,lateral pinch,080.mp4,10920,10934,Intermediate,Machinist 2,0.56,int-lateral,int-lateral,07:16.8
+985,ring,047.mp4,3325,3379,Power,Housekeeper 1,2.16,pow-prismatic,pow-cylindric,0:02:13
+9318,lateral tripod,079.mp4,3617,3728,Intermediate,Machinist 2,4.44,int-lateral,int-lateral,02:24.7
+7329,tripod,058.mp4,4177,4340,Precision,Machinist 2,6.52,circular,pre-circular,02:47.1
+2545,medium wrap,150.mp4,14119,14150,Power,Housekeeper 2,1.26,pow-prismatic,pow-cylindric,09:24.8
+7556,lateral tripod,060.mp4,8400,8545,Intermediate,Machinist 2,5.8,int-lateral,int-lateral,05:36.0
+722,index finger extension,044.mp4,32250,32525,Power,Housekeeper 1,11.0,pow-prismatic,pow-oblique,0:21:30
+7261,lateral tripod,057.mp4,8000,8059,Intermediate,Machinist 2,2.36,int-lateral,int-lateral,05:20.0
+3174,power sphere,159.mp4,960,978,Power,Housekeeper 2,0.72,circular,pow-circular,00:38.4
+6503,tripod,095.mp4,31389,31465,Precision,Machinist 1,3.04,circular,pre-circular,20:55.6
+8854,inferior pincer,073.mp4,10197,10373,Precision,Machinist 2,7.04,pre-prismatic,pre-pinch,06:47.9
+1930,thumb-2 finger,111.mp4,12680,12772,Precision,Housekeeper 1,3.68,pre-prismatic,pre-prismatic,08:27.2
+6969,medium wrap,053.mp4,10075,10088,Power,Machinist 2,0.52,pow-prismatic,pow-cylindric,06:43.0
+6442,tripod,095.mp4,20162,20250,Precision,Machinist 1,3.52,circular,pre-circular,13:26.5
+10142,thumb-2 finger,012.mp4,8045,8097,Precision,Machinist 2,2.1,pre-prismatic,pre-prismatic,05:21.8
+7716,lateral tripod,062.mp4,10860,10872,Intermediate,Machinist 2,0.48,int-lateral,int-lateral,07:14.4
+7836,lateral tripod,064.mp4,5180,5200,Intermediate,Machinist 2,0.8,int-lateral,int-lateral,03:27.2
+3409,lateral pinch,163.mp4,2840,2947,Intermediate,Housekeeper 2,4.31,int-lateral,int-lateral,01:53.6
+5236,thumb-index finger,088.mp4,24650,24775,Precision,Machinist 1,5.0,pre-prismatic,pre-pinch,0:16:26
+3261,tripod,159.mp4,13210,13226,Precision,Housekeeper 2,0.64,circular,pre-circular,08:48.4
+929,medium wrap,178.mp4,14075,14200,Power,Housekeeper 1,5.0,pow-prismatic,pow-cylindric,0:09:23
+9149,lateral tripod,076.mp4,13460,13492,Intermediate,Machinist 2,1.28,int-lateral,int-lateral,08:58.4
+9095,lateral tripod,076.mp4,7430,7523,Intermediate,Machinist 2,3.72,int-lateral,int-lateral,04:57.2
+8121,medium wrap,068.mp4,1575,1654,Power,Machinist 2,3.16,pow-prismatic,pow-cylindric,01:03.0
+10510,medium wrap,020.mp4,2805,2967,Power,Machinist 2,6.5,pow-prismatic,pow-cylindric,01:52.2
+3341,power sphere,161.mp4,10800,11252,Power,Housekeeper 2,18.1,circular,pow-circular,07:12.0
+2451,power sphere,149.mp4,11300,11318,Power,Housekeeper 2,0.72,circular,pow-circular,07:32.0
+4384,tripod,084.mp4,125,175,Precision,Machinist 1,2.0,circular,pre-circular,0:00:05
+8821,lateral tripod,073.mp4,7134,7148,Intermediate,Machinist 2,0.56,int-lateral,int-lateral,04:45.4
+9583,thumb-index finger,081.mp4,6897,7184,Precision,Machinist 2,11.48,pre-prismatic,pre-pinch,04:35.9
+7945,lateral pinch,065.mp4,12752,12987,Intermediate,Machinist 2,9.4,int-lateral,int-lateral,08:30.1
+2171,medium wrap,137.mp4,5377,5454,Power,Housekeeper 2,3.08,pow-prismatic,pow-cylindric,03:35.1
+10407,thumb-2 finger,016.mp4,10950,11002,Precision,Machinist 2,2.1,pre-prismatic,pre-prismatic,07:18.0
+9396,lateral tripod,079.mp4,12367,12377,Intermediate,Machinist 2,0.4,int-lateral,int-lateral,08:14.7
+9898,thumb-4 finger,002.mp4,13569,13579,Precision,Machinist 2,0.4,pre-prismatic,pre-prismatic,09:02.8
+9138,thumb-2 finger,076.mp4,11950,12128,Precision,Machinist 2,7.12,pre-prismatic,pre-prismatic,07:58.0
+4268,lateral tripod,117.mp4,5530,5539,Intermediate,Housekeeper 2,0.36,int-lateral,int-lateral,03:41.2
+5481,thumb-4 finger,089.mp4,39475,39800,Precision,Machinist 1,13.0,pre-prismatic,pre-prismatic,0:26:19
+9359,thumb-2 finger,079.mp4,8820,8863,Precision,Machinist 2,1.72,pre-prismatic,pre-prismatic,05:52.8
+7263,lateral tripod,057.mp4,8125,8162,Intermediate,Machinist 2,1.48,int-lateral,int-lateral,05:25.0
+5302,tripod,088.mp4,36800,36850,Precision,Machinist 1,2.0,circular,pre-circular,0:24:32
+4553,tripod,085.mp4,11500,11525,Precision,Machinist 1,1.0,circular,pre-circular,0:07:40
+4319,thumb-4 finger,118.mp4,170,187,Precision,Housekeeper 2,0.68,pre-prismatic,pre-prismatic,00:06.8
+4912,light tool,086.mp4,43450,43500,Power,Machinist 1,2.0,pow-prismatic,pow-oblique,0:28:58
+10203,thumb-4 finger,013.mp4,6450,6632,Precision,Machinist 2,7.3,pre-prismatic,pre-prismatic,04:18.0
+10302,medium wrap,015.mp4,4685,4747,Power,Machinist 2,2.5,pow-prismatic,pow-cylindric,03:07.4
+5919,thumb-2 finger,092.mp4,16100,16164,Precision,Machinist 1,2.56,pre-prismatic,pre-prismatic,10:44.0
+28,lateral pinch,040.mp4,10800,11075,Intermediate,Housekeeper 1,11.0,int-lateral,int-lateral,0:07:12
+2496,power sphere,150.mp4,1707,1730,Power,Housekeeper 2,0.95,circular,pow-circular,01:08.3
+6557,thumb-index finger,096.mp4,2267,2298,Precision,Machinist 1,1.24,pre-prismatic,pre-pinch,01:30.7
+1712,index finger extension,106.mp4,21577,21701,Power,Housekeeper 1,4.96,pow-prismatic,pow-oblique,14:23.1
+4676,ring,085.mp4,39975,40150,Power,Machinist 1,7.0,pow-prismatic,pow-cylindric,0:26:39
+2528,precision disk,150.mp4,9845,10321,Precision,Housekeeper 2,19.04,circular,pre-circular,06:33.8
+1583,large diameter,051.mp4,41875,42067,Power,Housekeeper 1,7.68,pow-prismatic,pow-cylindric,0:27:55
+3780,power sphere,173.mp4,530,659,Power,Housekeeper 2,5.16,circular,pow-circular,00:21.2
+8399,lateral tripod,069.mp4,14205,14222,Intermediate,Machinist 2,0.68,int-lateral,int-lateral,09:28.2
+9633,lateral tripod,082.mp4,1095,1150,Intermediate,Machinist 2,2.2,int-lateral,int-lateral,00:43.8
+7959,lateral tripod,065.mp4,13694,13713,Intermediate,Machinist 2,0.76,int-lateral,int-lateral,09:07.8
+7918,lateral pinch,065.mp4,7940,7997,Intermediate,Machinist 2,2.28,int-lateral,int-lateral,05:17.6
+10212,thumb-3 finger,013.mp4,9292,9374,Precision,Machinist 2,3.3,pre-prismatic,pre-prismatic,06:11.7
+3232,inferior pincer,159.mp4,11352,11386,Precision,Housekeeper 2,1.36,pre-prismatic,pre-pinch,07:34.1
+6429,light tool,095.mp4,18720,18741,Power,Machinist 1,0.84,pow-prismatic,pow-oblique,12:28.8
+10059,medium wrap,010.mp4,1147,1162,Power,Machinist 2,0.6,pow-prismatic,pow-cylindric,00:45.9
+817,lateral pinch,045.mp4,12050,12100,Intermediate,Housekeeper 1,2.0,int-lateral,int-lateral,0:08:02
+5051,tripod,087.mp4,34350,34650,Precision,Machinist 1,12.0,circular,pre-circular,0:22:54
+9907,thumb-3 finger,002.mp4,14610,14895,Precision,Machinist 2,11.4,pre-prismatic,pre-prismatic,09:44.4
+9925,small diameter,003.mp4,3282,3319,Power,Machinist 2,1.5,pow-prismatic,pow-cylindric,02:11.3
+7232,medium wrap,057.mp4,3495,3829,Power,Machinist 2,13.36,pow-prismatic,pow-cylindric,02:19.8
+6974,lateral pinch,053.mp4,10987,11009,Intermediate,Machinist 2,0.88,int-lateral,int-lateral,07:19.5
+6886,medium wrap,053.mp4,2827,2854,Power,Machinist 2,1.08,pow-prismatic,pow-cylindric,01:53.1
+6472,ring,095.mp4,24797,25286,Power,Machinist 1,19.58,pow-prismatic,pow-cylindric,16:31.9
+8135,lateral tripod,068.mp4,3542,3555,Intermediate,Machinist 2,0.52,int-lateral,int-lateral,02:21.7
+7983,thumb-4 finger,066.mp4,3095,3178,Precision,Machinist 2,3.32,pre-prismatic,pre-prismatic,02:03.8
+3248,precision disk,159.mp4,12365,12378,Precision,Housekeeper 2,0.52,circular,pre-circular,08:14.6
+7702,lateral pinch,062.mp4,9360,9464,Intermediate,Machinist 2,4.16,int-lateral,int-lateral,06:14.4
+4439,thumb-2 finger,084.mp4,14500,14525,Precision,Machinist 1,1.0,pre-prismatic,pre-prismatic,0:09:40
+6630,light tool,096.mp4,13462,13514,Power,Machinist 1,2.08,pow-prismatic,pow-oblique,08:58.5
+9521,lateral pinch,080.mp4,14072,14142,Intermediate,Machinist 2,2.8,int-lateral,int-lateral,09:22.9
+5432,adducted thumb,089.mp4,18450,18475,Power,Machinist 1,1.0,pow-prismatic,pow-oblique,0:12:18
+2750,medium wrap,152.mp4,13994,14055,Power,Housekeeper 2,2.44,pow-prismatic,pow-cylindric,09:19.8
+2858,power sphere,154.mp4,5577,5623,Power,Housekeeper 2,1.84,circular,pow-circular,03:43.1
+6824,power sphere,098.mp4,14994,15011,Power,Machinist 1,0.7,circular,pow-circular,09:59.8
+1029,lateral tripod,047.mp4,21150,21177,Intermediate,Housekeeper 1,1.08,int-lateral,int-lateral,0:14:06
+6167,light tool,093.mp4,26980,27052,Power,Machinist 1,2.88,pow-prismatic,pow-oblique,17:59.2
+9064,light tool,075.mp4,11390,11605,Power,Machinist 2,8.6,pow-prismatic,pow-oblique,07:35.6
+7796,ring,063.mp4,11882,11940,Power,Machinist 2,2.32,pow-prismatic,pow-cylindric,07:55.3
+889,lateral pinch,045.mp4,35175,35200,Intermediate,Housekeeper 1,1.0,int-lateral,int-lateral,0:23:27
+6531,thumb-3 finger,095.mp4,36117,36153,Precision,Machinist 1,1.44,pre-prismatic,pre-prismatic,24:04.7
+647,thumb-3 finger,044.mp4,11625,11725,Precision,Housekeeper 1,4.0,pre-prismatic,pre-prismatic,0:07:45
+4885,light tool,086.mp4,39250,39325,Power,Machinist 1,3.0,pow-prismatic,pow-oblique,0:26:10
+8988,lateral pinch,074.mp4,9322,9331,Intermediate,Machinist 2,0.36,int-lateral,int-lateral,06:12.9
+9532,tripod,080.mp4,14940,14975,Precision,Machinist 2,1.4,circular,pre-circular,09:57.6
+5984,thumb-3 finger,092.mp4,29764,29805,Precision,Machinist 1,1.64,pre-prismatic,pre-prismatic,19:50.6
+7135,medium wrap,055.mp4,6185,6261,Power,Machinist 2,3.04,pow-prismatic,pow-cylindric,04:07.4
+10392,thumb-3 finger,016.mp4,8109,8119,Precision,Machinist 2,0.4,pre-prismatic,pre-prismatic,05:24.4
+6902,thumb-3 finger,053.mp4,3900,3921,Precision,Machinist 2,0.84,pre-prismatic,pre-prismatic,02:36.0
+9102,lateral tripod,076.mp4,8525,8539,Intermediate,Machinist 2,0.56,int-lateral,int-lateral,05:41.0
+2663,power sphere,152.mp4,969,981,Power,Housekeeper 2,0.48,circular,pow-circular,00:38.8
+8490,tripod,070.mp4,5922,6127,Precision,Machinist 2,8.2,circular,pre-circular,03:56.9
+10308,thumb-index finger,015.mp4,5750,5782,Precision,Machinist 2,1.3,pre-prismatic,pre-pinch,03:50.0
+10143,thumb-4 finger,012.mp4,8107,8269,Precision,Machinist 2,6.5,pre-prismatic,pre-prismatic,05:24.3
+3354,lateral tripod,161.mp4,13027,13052,Intermediate,Housekeeper 2,1.0,int-lateral,int-lateral,08:41.1
+9822,lateral tripod,001.mp4,7607,7714,Intermediate,Machinist 2,4.3,int-lateral,int-lateral,05:04.3
+240,lateral pinch,042.mp4,9500,9575,Intermediate,Housekeeper 1,3.0,int-lateral,int-lateral,0:06:20
+5730,tripod,091.mp4,10457,10901,Precision,Machinist 1,17.76,circular,pre-circular,06:58.3
+920,thumb-3 finger,178.mp4,10250,10450,Precision,Housekeeper 1,8.0,pre-prismatic,pre-prismatic,0:06:50
+9178,lateral tripod,077.mp4,1440,1462,Intermediate,Machinist 2,0.88,int-lateral,int-lateral,00:57.6
+1729,lateral tripod,107.mp4,3582,3684,Intermediate,Housekeeper 1,4.08,int-lateral,int-lateral,02:23.3
+7019,precision disk,054.mp4,4730,5143,Precision,Machinist 2,16.52,circular,pre-circular,03:09.2
+3448,medium wrap,164.mp4,6457,6532,Power,Housekeeper 2,3.0,pow-prismatic,pow-cylindric,04:18.3
+3603,thumb-4 finger,169.mp4,2900,2922,Precision,Housekeeper 2,0.9,pre-prismatic,pre-prismatic,01:56.0
+7283,ring,057.mp4,10062,10192,Power,Machinist 2,5.2,pow-prismatic,pow-cylindric,06:42.5
+1059,medium wrap,047.mp4,35975,35993,Power,Housekeeper 1,0.72,pow-prismatic,pow-cylindric,0:23:59
+2654,lateral tripod,152.mp4,522,618,Intermediate,Housekeeper 2,3.84,int-lateral,int-lateral,00:20.9
+779,index finger extension,044.mp4,41850,41975,Power,Housekeeper 1,5.0,pow-prismatic,pow-oblique,0:27:54
+9071,thumb-2 finger,076.mp4,1262,1370,Precision,Machinist 2,4.32,pre-prismatic,pre-prismatic,00:50.5
+5911,light tool,092.mp4,13340,13460,Power,Machinist 1,4.8,pow-prismatic,pow-oblique,08:53.6
+2549,ring,150.mp4,14267,14293,Power,Housekeeper 2,1.04,pow-prismatic,pow-cylindric,09:30.7
+1672,adduction,106.mp4,13877,13983,Intermediate,Housekeeper 1,4.24,pre-prismatic,pre-pinch,09:15.1
+506,adduction,043.mp4,28475,28500,Intermediate,Housekeeper 1,1.0,pre-prismatic,pre-pinch,0:18:59
+6982,adduction,054.mp4,465,475,Intermediate,Machinist 2,0.4,pre-prismatic,pre-pinch,00:18.6
+3990,precision disk,176.mp4,13315,13363,Precision,Housekeeper 2,1.92,circular,pre-circular,08:52.6
+5902,light tool,092.mp4,11060,11171,Power,Machinist 1,4.44,pow-prismatic,pow-oblique,07:22.4
+1944,thumb-2 finger,111.mp4,15735,15973,Precision,Housekeeper 1,9.52,pre-prismatic,pre-prismatic,10:29.4
+6241,medium wrap,094.mp4,8595,10719,Power,Machinist 1,84.96,pow-prismatic,pow-cylindric,05:43.8
+201,thumb-4 finger,041.mp4,44275,44325,Precision,Housekeeper 1,2.0,pre-prismatic,pre-prismatic,0:29:31
+1067,index finger extension,047.mp4,39825,39914,Power,Housekeeper 1,3.56,pow-prismatic,pow-oblique,0:26:33
+2466,medium wrap,149.mp4,12597,12721,Power,Housekeeper 2,4.96,pow-prismatic,pow-cylindric,08:23.9
+435,lateral pinch,043.mp4,17900,17950,Intermediate,Housekeeper 1,2.0,int-lateral,int-lateral,0:11:56
+4374,thumb-2 finger,119.mp4,9990,10169,Precision,Housekeeper 2,7.16,pre-prismatic,pre-prismatic,06:39.6
+7348,light tool,058.mp4,7602,7619,Power,Machinist 2,0.68,pow-prismatic,pow-oblique,05:04.1
+9616,tripod,082.mp4,0,60,Precision,Machinist 2,2.4,circular,pre-circular,00:00.0
+4032,power sphere,177.mp4,2475,2505,Power,Housekeeper 2,1.2,circular,pow-circular,01:39.0
+3292,lateral pinch,160.mp4,9985,10050,Intermediate,Housekeeper 2,2.63,int-lateral,int-lateral,06:39.4
+4318,inferior pincer,118.mp4,132,170,Precision,Housekeeper 2,1.52,pre-prismatic,pre-pinch,00:05.3
+4448,lateral pinch,084.mp4,15800,15825,Intermediate,Machinist 1,1.0,int-lateral,int-lateral,0:10:32
+4369,precision disk,119.mp4,7422,8166,Precision,Housekeeper 2,29.76,circular,pre-circular,04:56.9
+7762,thumb-4 finger,063.mp4,3385,3428,Precision,Machinist 2,1.72,pre-prismatic,pre-prismatic,02:15.4
+9903,thumb-index finger,002.mp4,14035,14062,Precision,Machinist 2,1.1,pre-prismatic,pre-pinch,09:21.4
+2577,power sphere,151.mp4,3057,3074,Power,Housekeeper 2,0.68,circular,pow-circular,02:02.3
+10072,medium wrap,010.mp4,3397,3409,Power,Machinist 2,0.5,pow-prismatic,pow-cylindric,02:15.9
+1918,power sphere,111.mp4,10517,12576,Power,Housekeeper 1,82.36,circular,pow-circular,07:00.7
+6125,index finger extension,093.mp4,16010,17271,Power,Machinist 1,50.44,pow-prismatic,pow-oblique,10:40.4
+9626,lateral tripod,082.mp4,692,701,Intermediate,Machinist 2,0.36,int-lateral,int-lateral,00:27.7
+1076,medium wrap,048.mp4,425,495,Power,Housekeeper 1,2.8,pow-prismatic,pow-cylindric,0:00:17
+1161,medium wrap,048.mp4,33525,33627,Power,Housekeeper 1,4.08,pow-prismatic,pow-cylindric,0:22:21
+6850,thumb-3 finger,098.mp4,24090,24337,Precision,Machinist 1,9.9,pre-prismatic,pre-prismatic,16:03.6
+6072,light tool,093.mp4,3545,3600,Power,Machinist 1,2.2,pow-prismatic,pow-oblique,02:21.8
+6966,lateral tripod,053.mp4,9975,9992,Intermediate,Machinist 2,0.68,int-lateral,int-lateral,06:39.0
+9373,ring,079.mp4,9975,10011,Power,Machinist 2,1.44,pow-prismatic,pow-cylindric,06:39.0
+7384,thumb-2 finger,059.mp4,1550,1828,Precision,Machinist 2,11.12,pre-prismatic,pre-prismatic,01:02.0
+6724,tripod,096.mp4,30720,30898,Precision,Machinist 1,7.12,circular,pre-circular,20:28.8
+9528,thumb-3 finger,080.mp4,14575,14636,Precision,Machinist 2,2.44,pre-prismatic,pre-prismatic,09:43.0
+942,power sphere,178.mp4,17225,17750,Power,Housekeeper 1,21.0,circular,pow-circular,0:11:29
+9155,medium wrap,076.mp4,13755,13860,Power,Machinist 2,4.2,pow-prismatic,pow-cylindric,09:10.2
+6792,lateral pinch,098.mp4,4004,4024,Intermediate,Machinist 1,0.8,int-lateral,int-lateral,02:40.2
+2404,thumb-4 finger,149.mp4,4530,4554,Precision,Housekeeper 2,0.96,pre-prismatic,pre-prismatic,03:01.2
+4034,precision disk,177.mp4,2562,2573,Precision,Housekeeper 2,0.44,circular,pre-circular,01:42.5
+2684,thumb-index finger,152.mp4,2405,2475,Precision,Housekeeper 2,2.83,pre-prismatic,pre-pinch,01:36.2
+5991,light tool,092.mp4,30777,30826,Power,Machinist 1,1.96,pow-prismatic,pow-oblique,20:31.1
+3410,medium wrap,163.mp4,2965,3162,Power,Housekeeper 2,7.88,pow-prismatic,pow-cylindric,01:58.6
+946,sphere-3 finger,178.mp4,18575,18625,Power,Housekeeper 1,2.0,circular,pow-circular,0:12:23
+10225,lateral pinch,013.mp4,13255,13872,Intermediate,Machinist 2,24.7,int-lateral,int-lateral,08:50.2
+9625,lateral tripod,082.mp4,612,693,Intermediate,Machinist 2,3.24,int-lateral,int-lateral,00:24.5
+230,lateral pinch,042.mp4,7100,7300,Intermediate,Housekeeper 1,8.0,int-lateral,int-lateral,0:04:44
+1678,index finger extension,106.mp4,16530,16902,Power,Housekeeper 1,14.88,pow-prismatic,pow-oblique,11:01.2
+1721,medium wrap,106.mp4,23650,23934,Power,Housekeeper 1,11.36,pow-prismatic,pow-cylindric,15:46.0
+7906,ring,065.mp4,4070,4200,Power,Machinist 2,5.2,pow-prismatic,pow-cylindric,02:42.8
+5920,light tool,092.mp4,16240,16263,Power,Machinist 1,0.92,pow-prismatic,pow-oblique,10:49.6
+10044,adduction,008.mp4,8427,8459,Intermediate,Machinist 2,1.3,pre-prismatic,pre-pinch,05:37.1
+8034,light tool,066.mp4,10117,10372,Power,Machinist 2,10.2,pow-prismatic,pow-oblique,06:44.7
+8464,tripod,070.mp4,3270,3280,Precision,Machinist 2,0.4,circular,pre-circular,02:10.8
+9011,tripod,075.mp4,237,258,Precision,Machinist 2,0.84,circular,pre-circular,00:09.5
+5445,lateral tripod,089.mp4,26350,26400,Intermediate,Machinist 1,2.0,int-lateral,int-lateral,0:17:34
+9628,thumb-index finger,082.mp4,772,837,Precision,Machinist 2,2.6,pre-prismatic,pre-pinch,00:30.9
+9158,adducted thumb,076.mp4,14244,14844,Power,Machinist 2,24.0,pow-prismatic,pow-oblique,09:29.8
+5559,thumb-3 finger,090.mp4,10675,11375,Precision,Machinist 1,28.0,pre-prismatic,pre-prismatic,0:07:07
+3459,medium wrap,164.mp4,7942,8273,Power,Housekeeper 2,13.24,pow-prismatic,pow-cylindric,05:17.7
+5108,tripod,087.mp4,43075,43400,Precision,Machinist 1,13.0,circular,pre-circular,0:28:43
+978,medium wrap,047.mp4,775,851,Power,Housekeeper 1,3.04,pow-prismatic,pow-cylindric,0:00:31
+14,index finger extension,040.mp4,4825,5125,Power,Housekeeper 1,12.0,pow-prismatic,pow-oblique,0:03:13
+9296,thumb-3 finger,079.mp4,1152,1180,Precision,Machinist 2,1.12,pre-prismatic,pre-prismatic,00:46.1
+6482,medium wrap,095.mp4,26070,26124,Power,Machinist 1,2.16,pow-prismatic,pow-cylindric,17:22.8
+785,index finger extension,044.mp4,43700,43875,Power,Housekeeper 1,7.0,pow-prismatic,pow-oblique,0:29:08
+491,thumb-2 finger,043.mp4,26375,26475,Precision,Housekeeper 1,4.0,pre-prismatic,pre-prismatic,0:17:35
+8643,medium wrap,072.mp4,3379,3493,Power,Machinist 2,4.56,pow-prismatic,pow-cylindric,02:15.2
+991,precision disk,047.mp4,5600,5751,Precision,Housekeeper 1,6.04,circular,pre-circular,0:03:44
+3883,precision disk,176.mp4,1555,1615,Precision,Housekeeper 2,2.4,circular,pre-circular,01:02.2
+42,thumb-4 finger,041.mp4,1625,1725,Precision,Housekeeper 1,4.0,pre-prismatic,pre-prismatic,0:01:05
+4244,lateral tripod,117.mp4,752,774,Intermediate,Housekeeper 2,0.88,int-lateral,int-lateral,00:30.1
+10515,tripod,020.mp4,3645,3955,Precision,Machinist 2,12.4,circular,pre-circular,02:25.8
+4534,medium wrap,085.mp4,4725,4775,Power,Machinist 1,2.0,pow-prismatic,pow-cylindric,0:03:09
+1004,precision disk,047.mp4,10125,10357,Precision,Housekeeper 1,9.28,circular,pre-circular,0:06:45
+6791,thumb-4 finger,098.mp4,3507,3584,Precision,Machinist 1,3.1,pre-prismatic,pre-prismatic,02:20.3
+1665,index finger extension,106.mp4,7572,8338,Power,Housekeeper 1,30.64,pow-prismatic,pow-oblique,05:02.9
+6210,thumb-2 finger,093.mp4,39062,39208,Precision,Machinist 1,5.84,pre-prismatic,pre-prismatic,26:02.5
+8834,medium wrap,073.mp4,8665,8882,Power,Machinist 2,8.68,pow-prismatic,pow-cylindric,05:46.6
+7816,lateral pinch,064.mp4,2552,2642,Intermediate,Machinist 2,3.6,int-lateral,int-lateral,01:42.1
+787,thumb-index finger,044.mp4,44275,44350,Precision,Housekeeper 1,3.0,pre-prismatic,pre-pinch,0:29:31
+581,power sphere,044.mp4,2400,2475,Power,Housekeeper 1,3.0,circular,pow-circular,0:01:36
+9857,thumb-3 finger,002.mp4,2997,3124,Precision,Machinist 2,5.1,pre-prismatic,pre-prismatic,01:59.9
+7037,thumb-2 finger,054.mp4,8537,8560,Precision,Machinist 2,0.92,pre-prismatic,pre-prismatic,05:41.5
+4225,precision disk,116.mp4,13557,13608,Precision,Housekeeper 2,2.04,circular,pre-circular,09:02.3
+2760,inferior pincer,153.mp4,875,900,Precision,Housekeeper 2,1.0,pre-prismatic,pre-pinch,00:35.0
+2849,index finger extension,154.mp4,3117,3618,Power,Housekeeper 2,20.04,pow-prismatic,pow-oblique,02:04.7
+7186,lateral tripod,056.mp4,395,434,Intermediate,Machinist 2,1.56,int-lateral,int-lateral,00:15.8
+7036,thumb-4 finger,054.mp4,8235,8323,Precision,Machinist 2,3.52,pre-prismatic,pre-prismatic,05:29.4
+7200,lateral tripod,056.mp4,1555,1592,Intermediate,Machinist 2,1.48,int-lateral,int-lateral,01:02.2
+7256,lateral tripod,057.mp4,7615,7809,Intermediate,Machinist 2,7.76,int-lateral,int-lateral,05:04.6
+8324,tripod,069.mp4,7177,7228,Precision,Machinist 2,2.04,circular,pre-circular,04:47.1
+2254,thumb-2 finger,142.mp4,2825,2850,Precision,Housekeeper 2,1.0,pre-prismatic,pre-prismatic,01:53.0
+4765,tripod,086.mp4,16175,16200,Precision,Machinist 1,1.0,circular,pre-circular,0:10:47
+2611,power sphere,151.mp4,9130,9152,Power,Housekeeper 2,0.88,circular,pow-circular,06:05.2
+2134,lateral pinch,130.mp4,172,249,Intermediate,Housekeeper 2,3.08,int-lateral,int-lateral,00:06.9
+2287,lateral pinch,143.mp4,8080,8307,Intermediate,Housekeeper 2,9.1,int-lateral,int-lateral,05:23.2
+7044,adduction,054.mp4,8945,8973,Intermediate,Machinist 2,1.12,pre-prismatic,pre-pinch,05:57.8
+4800,tripod,086.mp4,21150,21275,Precision,Machinist 1,5.0,circular,pre-circular,0:14:06
+7717,lateral pinch,062.mp4,10970,11003,Intermediate,Machinist 2,1.32,int-lateral,int-lateral,07:18.8
+4845,thumb-index finger,086.mp4,27600,27725,Precision,Machinist 1,5.0,pre-prismatic,pre-pinch,0:18:24
+2301,precision disk,143.mp4,9100,9200,Precision,Housekeeper 2,4.0,circular,pre-circular,06:04.0
+4659,thumb-4 finger,085.mp4,35350,35425,Precision,Machinist 1,3.0,pre-prismatic,pre-prismatic,0:23:34
+2671,power sphere,152.mp4,1392,1425,Power,Housekeeper 2,1.32,circular,pow-circular,00:55.7
+2633,power sphere,151.mp4,11475,11494,Power,Housekeeper 2,0.76,circular,pow-circular,07:39.0
+6779,lateral pinch,097.mp4,2865,2880,Intermediate,Machinist 1,0.6,int-lateral,int-lateral,01:54.6
+7937,light tool,065.mp4,11110,11330,Power,Machinist 2,8.8,pow-prismatic,pow-oblique,07:24.4
+7003,adduction,054.mp4,2455,2613,Intermediate,Machinist 2,6.32,pre-prismatic,pre-pinch,01:38.2
+7587,ring,060.mp4,13690,13801,Power,Machinist 2,4.44,pow-prismatic,pow-cylindric,09:07.6
+1269,thumb-index finger,049.mp4,13200,13221,Precision,Housekeeper 1,0.84,pre-prismatic,pre-pinch,0:08:48
+8278,adduction,069.mp4,2972,2991,Intermediate,Machinist 2,0.76,pre-prismatic,pre-pinch,01:58.9
+6885,lateral tripod,053.mp4,2807,2828,Intermediate,Machinist 2,0.84,int-lateral,int-lateral,01:52.3
+5752,light tool,091.mp4,15067,15111,Power,Machinist 1,1.76,pow-prismatic,pow-oblique,10:02.7
+9185,lateral pinch,077.mp4,2120,2154,Intermediate,Machinist 2,1.36,int-lateral,int-lateral,01:24.8
+8207,lateral tripod,068.mp4,11170,11207,Intermediate,Machinist 2,1.48,int-lateral,int-lateral,07:26.8
+6745,tripod,096.mp4,36407,36429,Precision,Machinist 1,0.88,circular,pre-circular,24:16.3
+6601,lateral tripod,096.mp4,9060,9465,Intermediate,Machinist 1,16.2,int-lateral,int-lateral,06:02.4
+10410,medium wrap,016.mp4,11252,11427,Power,Machinist 2,7.0,pow-prismatic,pow-cylindric,07:30.1
+7632,ring,061.mp4,10420,10604,Power,Machinist 2,7.36,pow-prismatic,pow-cylindric,06:56.8
+9482,precision disk,080.mp4,8420,8478,Precision,Machinist 2,2.32,circular,pre-circular,05:36.8
+9429,tripod,080.mp4,1010,1164,Precision,Machinist 2,6.16,circular,pre-circular,00:40.4
+8040,thumb-2 finger,066.mp4,11497,11584,Precision,Machinist 2,3.48,pre-prismatic,pre-prismatic,07:39.9
+5882,light tool,092.mp4,7745,7968,Power,Machinist 1,8.92,pow-prismatic,pow-oblique,05:09.8
+4898,lateral pinch,086.mp4,40825,40850,Intermediate,Machinist 1,1.0,int-lateral,int-lateral,0:27:13
+1664,medium wrap,106.mp4,7197,7573,Power,Housekeeper 1,15.04,pow-prismatic,pow-cylindric,04:47.9
+1991,medium wrap,111.mp4,24957,24998,Power,Housekeeper 1,1.64,pow-prismatic,pow-cylindric,16:38.3
+7655,lateral pinch,062.mp4,2697,2756,Intermediate,Machinist 2,2.36,int-lateral,int-lateral,01:47.9
+2471,precision disk,149.mp4,13877,14046,Precision,Housekeeper 2,6.76,circular,pre-circular,09:15.1
+4248,precision disk,117.mp4,1272,1613,Precision,Housekeeper 2,13.64,circular,pre-circular,00:50.9
+8016,thumb-3 finger,066.mp4,8805,8839,Precision,Machinist 2,1.36,pre-prismatic,pre-prismatic,05:52.2
+1846,thumb-2 finger,109.mp4,9772,9871,Precision,Housekeeper 1,3.96,pre-prismatic,pre-prismatic,06:30.9
+9522,tripod,080.mp4,14162,14201,Precision,Machinist 2,1.56,circular,pre-circular,09:26.5
+2384,thumb-4 finger,149.mp4,3130,3262,Precision,Housekeeper 2,5.28,pre-prismatic,pre-prismatic,02:05.2
+9978,lateral tripod,004.mp4,10935,10992,Intermediate,Machinist 2,2.3,int-lateral,int-lateral,07:17.4
+5745,light tool,091.mp4,14387,14639,Power,Machinist 1,10.08,pow-prismatic,pow-oblique,09:35.5
+9127,lateral tripod,076.mp4,11047,11087,Intermediate,Machinist 2,1.6,int-lateral,int-lateral,07:21.9
+8261,thumb-3 finger,069.mp4,1557,1581,Precision,Machinist 2,0.96,pre-prismatic,pre-prismatic,01:02.3
+6638,thumb-index finger,096.mp4,14894,14917,Precision,Machinist 1,0.92,pre-prismatic,pre-pinch,09:55.8
+6762,power sphere,096.mp4,40132,40468,Power,Machinist 1,13.44,circular,pow-circular,26:45.3
+6702,light tool,096.mp4,27357,27612,Power,Machinist 1,10.2,pow-prismatic,pow-oblique,18:14.3
+6130,thumb-3 finger,093.mp4,18047,18217,Precision,Machinist 1,6.8,pre-prismatic,pre-prismatic,12:01.9
+8533,tripod,070.mp4,9950,10085,Precision,Machinist 2,5.4,circular,pre-circular,06:38.0
+1228,power sphere,049.mp4,1150,1385,Power,Housekeeper 1,9.4,circular,pow-circular,0:00:46
+2319,precision disk,144.mp4,8352,9564,Precision,Housekeeper 2,48.5,circular,pre-circular,05:34.1
+8658,thumb-3 finger,072.mp4,4577,4866,Precision,Machinist 2,11.56,pre-prismatic,pre-prismatic,03:03.1
+8696,lateral tripod,073.mp4,292,321,Intermediate,Machinist 2,1.16,int-lateral,int-lateral,00:11.7
+2382,thumb-4 finger,149.mp4,2820,3047,Precision,Housekeeper 2,9.1,pre-prismatic,pre-prismatic,01:52.8
+4305,medium wrap,117.mp4,10312,10369,Power,Housekeeper 2,2.28,pow-prismatic,pow-cylindric,06:52.5
+6894,precision disk,053.mp4,3200,3570,Precision,Machinist 2,14.8,circular,pre-circular,02:08.0
+4761,light tool,086.mp4,14175,14550,Power,Machinist 1,15.0,pow-prismatic,pow-oblique,0:09:27
+6929,lateral tripod,053.mp4,6140,6165,Intermediate,Machinist 2,1.0,int-lateral,int-lateral,04:05.6
+5355,adduction,088.mp4,44775,44825,Intermediate,Machinist 1,2.0,pre-prismatic,pre-pinch,0:29:51
+1978,index finger extension,111.mp4,22052,22181,Power,Housekeeper 1,5.16,pow-prismatic,pow-oblique,14:42.1
+1350,precision disk,050.mp4,2100,2111,Precision,Housekeeper 1,0.44,circular,pre-circular,0:01:24
+7642,ring,061.mp4,14305,14517,Power,Machinist 2,8.48,pow-prismatic,pow-cylindric,09:32.2
+1803,medium wrap,109.mp4,4645,4703,Power,Housekeeper 1,2.32,pow-prismatic,pow-cylindric,03:05.8
+10360,thumb-2 finger,016.mp4,95,140,Precision,Machinist 2,1.8,pre-prismatic,pre-prismatic,00:03.8
+537,large diameter,043.mp4,36550,36925,Power,Housekeeper 1,15.0,pow-prismatic,pow-cylindric,0:24:22
+2912,precision disk,155.mp4,12765,12912,Precision,Housekeeper 2,5.88,circular,pre-circular,08:30.6
+808,precision disk,045.mp4,5950,6150,Precision,Housekeeper 1,8.0,circular,pre-circular,0:03:58
+7254,medium wrap,057.mp4,7252,7600,Power,Machinist 2,13.92,pow-prismatic,pow-cylindric,04:50.1
+1900,medium wrap,111.mp4,3452,4322,Power,Housekeeper 1,34.8,pow-prismatic,pow-cylindric,02:18.1
+1092,lateral pinch,048.mp4,9525,9707,Intermediate,Housekeeper 1,7.28,int-lateral,int-lateral,0:06:21
+9232,thumb-2 finger,078.mp4,10310,10335,Precision,Machinist 2,1.0,pre-prismatic,pre-prismatic,06:52.4
+5988,tripod,092.mp4,30110,30186,Precision,Machinist 1,3.04,circular,pre-circular,20:04.4
+3624,medium wrap,169.mp4,11565,12854,Power,Housekeeper 2,51.56,pow-prismatic,pow-cylindric,07:42.6
+1127,medium wrap,048.mp4,20475,21895,Power,Housekeeper 1,56.8,pow-prismatic,pow-cylindric,0:13:39
+7160,light tool,055.mp4,11757,12907,Power,Machinist 2,46.0,pow-prismatic,pow-oblique,07:50.3
+4669,power sphere,085.mp4,37500,37700,Power,Machinist 1,8.0,circular,pow-circular,0:25:00
+2363,thumb-4 finger,145.mp4,6525,6570,Precision,Housekeeper 2,1.8,pre-prismatic,pre-prismatic,04:21.0
+7761,lateral tripod,063.mp4,3325,3385,Intermediate,Machinist 2,2.4,int-lateral,int-lateral,02:13.0
+1498,medium wrap,051.mp4,24000,24179,Power,Housekeeper 1,7.16,pow-prismatic,pow-cylindric,0:16:00
+2344,thumb-4 finger,145.mp4,3737,3747,Precision,Housekeeper 2,0.4,pre-prismatic,pre-prismatic,02:29.5
+7706,thumb-3 finger,062.mp4,9590,9644,Precision,Machinist 2,2.16,pre-prismatic,pre-prismatic,06:23.6
+4663,lateral pinch,085.mp4,36400,36475,Intermediate,Machinist 1,3.0,int-lateral,int-lateral,0:24:16
+5292,lateral pinch,088.mp4,34325,34375,Intermediate,Machinist 1,2.0,int-lateral,int-lateral,0:22:53
+6306,thumb-3 finger,095.mp4,1742,1821,Precision,Machinist 1,3.19,pre-prismatic,pre-prismatic,01:09.7
+9480,thumb-2 finger,080.mp4,8380,8403,Precision,Machinist 2,0.92,pre-prismatic,pre-prismatic,05:35.2
+4500,ring,084.mp4,38000,38175,Power,Machinist 1,7.0,pow-prismatic,pow-cylindric,0:25:20
+6807,thumb-4 finger,098.mp4,8960,9040,Precision,Machinist 1,3.2,pre-prismatic,pre-prismatic,05:58.4
+5618,thumb-3 finger,090.mp4,24200,24300,Precision,Machinist 1,4.0,pre-prismatic,pre-prismatic,0:16:08
+1201,precision disk,048.mp4,39250,39414,Precision,Housekeeper 1,6.56,circular,pre-circular,0:26:10
+4744,precision disk,086.mp4,10800,10825,Precision,Machinist 1,1.0,circular,pre-circular,0:07:12
+8336,tip pinch,069.mp4,8042,8070,Precision,Machinist 2,1.12,pre-prismatic,pre-pinch,05:21.7
+1530,large diameter,051.mp4,31100,31145,Power,Housekeeper 1,1.8,pow-prismatic,pow-cylindric,0:20:44
+8784,tripod,073.mp4,4747,4773,Precision,Machinist 2,1.04,circular,pre-circular,03:09.9
+161,medium wrap,041.mp4,31725,31825,Power,Housekeeper 1,4.0,pow-prismatic,pow-cylindric,0:21:09
+6616,tripod,096.mp4,11572,11675,Precision,Machinist 1,4.12,circular,pre-circular,07:42.9
+6445,ring,095.mp4,20625,20907,Power,Machinist 1,11.28,pow-prismatic,pow-cylindric,13:45.0
+2282,precision disk,143.mp4,7640,7740,Precision,Housekeeper 2,4.0,circular,pre-circular,05:05.6
+2275,medium wrap,143.mp4,2857,3039,Power,Housekeeper 2,7.3,pow-prismatic,pow-cylindric,01:54.3
+7843,tripod,064.mp4,6409,6674,Precision,Machinist 2,10.6,circular,pre-circular,04:16.4
+10474,lateral pinch,017.mp4,12685,12882,Intermediate,Machinist 2,7.9,int-lateral,int-lateral,08:27.4
+5007,lateral tripod,087.mp4,28225,28375,Intermediate,Machinist 1,6.0,int-lateral,int-lateral,0:18:49
+6698,lateral pinch,096.mp4,26764,26773,Intermediate,Machinist 1,0.36,int-lateral,int-lateral,17:50.6
+6811,thumb-4 finger,098.mp4,10485,10550,Precision,Machinist 1,2.6,pre-prismatic,pre-prismatic,06:59.4
+8395,lateral tripod,069.mp4,13597,13653,Intermediate,Machinist 2,2.24,int-lateral,int-lateral,09:03.9
+5904,tripod,092.mp4,11680,11703,Precision,Machinist 1,0.93,circular,pre-circular,07:47.2
+10073,adduction,010.mp4,3495,3507,Intermediate,Machinist 2,0.5,pre-prismatic,pre-pinch,02:19.8
+5650,lateral pinch,090.mp4,34325,34500,Intermediate,Machinist 1,7.0,int-lateral,int-lateral,0:22:53
+6354,tripod,095.mp4,6880,6921,Precision,Machinist 1,1.64,circular,pre-circular,04:35.2
+8829,thumb-2 finger,073.mp4,8170,8183,Precision,Machinist 2,0.52,pre-prismatic,pre-prismatic,05:26.8
+2256,thumb-3 finger,142.mp4,2900,2938,Precision,Housekeeper 2,1.52,pre-prismatic,pre-prismatic,01:56.0
+593,power sphere,044.mp4,4450,4500,Power,Housekeeper 1,2.0,circular,pow-circular,0:02:58
+3366,lateral tripod,162.mp4,1005,1042,Intermediate,Housekeeper 2,1.49,int-lateral,int-lateral,00:40.2
+3821,medium wrap,174.mp4,1257,1803,Power,Housekeeper 2,21.84,pow-prismatic,pow-cylindric,00:50.3
+1630,sphere-3 finger,052.mp4,11875,12234,Power,Housekeeper 1,14.36,circular,pow-circular,0:07:55
+19,thumb-3 finger,040.mp4,6850,6950,Precision,Housekeeper 1,4.0,pre-prismatic,pre-prismatic,0:04:34
+7505,medium wrap,060.mp4,4297,4314,Power,Machinist 2,0.68,pow-prismatic,pow-cylindric,02:51.9
+7764,lateral tripod,063.mp4,3510,3559,Intermediate,Machinist 2,1.96,int-lateral,int-lateral,02:20.4
+4891,lateral pinch,086.mp4,39900,40075,Intermediate,Machinist 1,7.0,int-lateral,int-lateral,0:26:36
+4969,thumb-3 finger,087.mp4,19175,19200,Precision,Machinist 1,1.0,pre-prismatic,pre-prismatic,0:12:47
+10252,medium wrap,014.mp4,5057,5089,Power,Machinist 2,1.3,pow-prismatic,pow-cylindric,03:22.3
+4681,thumb-3 finger,085.mp4,40825,42200,Precision,Machinist 1,55.0,pre-prismatic,pre-prismatic,0:27:13
+5558,lateral pinch,090.mp4,9875,10375,Intermediate,Machinist 1,20.0,int-lateral,int-lateral,0:06:35
+5606,thumb-3 finger,090.mp4,21400,22025,Precision,Machinist 1,25.0,pre-prismatic,pre-prismatic,0:14:16
+8318,lateral tripod,069.mp4,6540,6568,Intermediate,Machinist 2,1.12,int-lateral,int-lateral,04:21.6
+1169,ring,048.mp4,35225,35309,Power,Housekeeper 1,3.36,pow-prismatic,pow-cylindric,0:23:29
+6936,lateral tripod,053.mp4,6432,6462,Intermediate,Machinist 2,1.2,int-lateral,int-lateral,04:17.3
+3421,adducted thumb,163.mp4,11160,11272,Power,Housekeeper 2,4.48,pow-prismatic,pow-oblique,07:26.4
+5206,adducted thumb,088.mp4,19625,19650,Power,Machinist 1,1.0,pow-prismatic,pow-oblique,0:13:05
+9747,adduction,082.mp4,10477,10621,Intermediate,Machinist 2,5.76,pre-prismatic,pre-pinch,06:59.1
+6132,medium wrap,093.mp4,18317,18337,Power,Machinist 1,0.8,pow-prismatic,pow-cylindric,12:12.7
+181,medium wrap,041.mp4,37150,37275,Power,Housekeeper 1,5.0,pow-prismatic,pow-cylindric,0:24:46
+6034,thumb-2 finger,092.mp4,38490,38554,Precision,Machinist 1,2.56,pre-prismatic,pre-prismatic,25:39.6
+10210,medium wrap,013.mp4,8390,9090,Power,Machinist 2,28.0,pow-prismatic,pow-cylindric,05:35.6
+6646,lateral pinch,096.mp4,16160,16240,Intermediate,Machinist 1,3.2,int-lateral,int-lateral,10:46.4
+9945,power sphere,003.mp4,7200,7848,Power,Machinist 2,25.92,circular,pow-circular,04:48.0
+3237,lateral pinch,159.mp4,11617,11634,Intermediate,Housekeeper 2,0.68,int-lateral,int-lateral,07:44.7
+3186,precision disk,159.mp4,3367,3558,Precision,Housekeeper 2,7.64,circular,pre-circular,02:14.7
+3650,tip pinch,170.mp4,2877,2967,Precision,Housekeeper 2,3.6,pre-prismatic,pre-pinch,01:55.1
+5715,quadpod,091.mp4,7609,7653,Precision,Machinist 1,1.76,circular,pre-circular,05:04.4
+1661,medium wrap,106.mp4,6634,6721,Power,Housekeeper 1,3.48,pow-prismatic,pow-cylindric,04:25.4
+6229,thumb-3 finger,093.mp4,44962,44999,Precision,Machinist 1,1.48,pre-prismatic,pre-prismatic,29:58.5
+1524,precision disk,051.mp4,30125,30575,Precision,Housekeeper 1,18.0,circular,pre-circular,0:20:05
+4214,medium wrap,116.mp4,12477,12524,Power,Housekeeper 2,1.88,pow-prismatic,pow-cylindric,08:19.1
+767,index finger extension,044.mp4,39250,39350,Power,Housekeeper 1,4.0,pow-prismatic,pow-oblique,0:26:10
+2532,precision disk,150.mp4,11280,11961,Precision,Housekeeper 2,27.27,circular,pre-circular,07:31.2
+9596,ring,081.mp4,10710,10766,Power,Machinist 2,2.24,pow-prismatic,pow-cylindric,07:08.4
+6551,thumb-4 finger,095.mp4,43750,43797,Precision,Machinist 1,1.88,pre-prismatic,pre-prismatic,29:10.0
+7162,adduction,055.mp4,13135,13210,Intermediate,Machinist 2,3.0,pre-prismatic,pre-pinch,08:45.4
+10431,lateral pinch,017.mp4,229,398,Intermediate,Machinist 2,6.78,int-lateral,int-lateral,00:09.2
+8592,lateral tripod,071.mp4,4542,4587,Intermediate,Machinist 2,1.8,int-lateral,int-lateral,03:01.7
+1374,precision disk,050.mp4,24150,24358,Precision,Housekeeper 1,8.32,circular,pre-circular,0:16:06
+4411,index finger extension,084.mp4,5975,6025,Power,Machinist 1,2.0,pow-prismatic,pow-oblique,0:03:59
+7669,light tool,062.mp4,5525,5567,Power,Machinist 2,1.68,pow-prismatic,pow-oblique,03:41.0
+9499,thumb-2 finger,080.mp4,10100,10344,Precision,Machinist 2,9.76,pre-prismatic,pre-prismatic,06:44.0
+3566,medium wrap,168.mp4,5525,5798,Power,Housekeeper 2,10.92,pow-prismatic,pow-cylindric,03:41.0
+9765,thumb-4 finger,082.mp4,12890,12929,Precision,Machinist 2,1.56,pre-prismatic,pre-prismatic,08:35.6
+2662,lateral tripod,152.mp4,875,972,Intermediate,Housekeeper 2,3.88,int-lateral,int-lateral,00:35.0
+7416,sphere-3 finger,059.mp4,6984,7199,Power,Machinist 2,8.6,circular,pow-circular,04:39.4
+3563,medium wrap,168.mp4,467,2549,Power,Housekeeper 2,83.28,pow-prismatic,pow-cylindric,00:18.7
+7507,tripod,060.mp4,4362,4373,Precision,Machinist 2,0.44,circular,pre-circular,02:54.5
+1504,thumb-2 finger,051.mp4,26000,26010,Precision,Housekeeper 1,0.4,pre-prismatic,pre-prismatic,0:17:20
+9164,lateral tripod,077.mp4,502,516,Intermediate,Machinist 2,0.56,int-lateral,int-lateral,00:20.1
+3001,power sphere,156.mp4,12685,12724,Power,Housekeeper 2,1.56,circular,pow-circular,08:27.4
+3491,lateral tripod,165.mp4,9875,9905,Intermediate,Housekeeper 2,1.2,int-lateral,int-lateral,06:35.0
+6507,thumb-2 finger,095.mp4,31702,31718,Precision,Machinist 1,0.65,pre-prismatic,pre-prismatic,21:08.1
+5514,thumb-2 finger,090.mp4,875,1225,Precision,Machinist 1,14.0,pre-prismatic,pre-prismatic,0:00:35
+8792,lateral tripod,073.mp4,5135,5205,Intermediate,Machinist 2,2.8,int-lateral,int-lateral,03:25.4
+9449,thumb-2 finger,080.mp4,2885,2971,Precision,Machinist 2,3.44,pre-prismatic,pre-prismatic,01:55.4
+8199,tripod,068.mp4,9977,10076,Precision,Machinist 2,3.96,circular,pre-circular,06:39.1
+8924,thumb-2 finger,074.mp4,4265,4302,Precision,Machinist 2,1.48,pre-prismatic,pre-prismatic,02:50.6
+871,index finger extension,045.mp4,29825,30850,Power,Housekeeper 1,41.0,pow-prismatic,pow-oblique,0:19:53
+7434,tripod,059.mp4,9115,9368,Precision,Machinist 2,10.12,circular,pre-circular,06:04.6
+8124,thumb-2 finger,068.mp4,2290,2372,Precision,Machinist 2,3.28,pre-prismatic,pre-prismatic,01:31.6
+6394,thumb-3 finger,095.mp4,12010,12028,Precision,Machinist 1,0.72,pre-prismatic,pre-prismatic,08:00.4
+5858,large diameter,092.mp4,2075,2202,Power,Machinist 1,5.11,pow-prismatic,pow-cylindric,01:23.0
+1627,large diameter,052.mp4,11575,11718,Power,Housekeeper 1,5.72,pow-prismatic,pow-cylindric,0:07:43
+5363,thumb-4 finger,089.mp4,1425,1475,Precision,Machinist 1,2.0,pre-prismatic,pre-prismatic,0:00:57
+2276,precision disk,143.mp4,3060,5126,Precision,Housekeeper 2,82.64,circular,pre-circular,02:02.4
+8599,adduction,071.mp4,5432,5521,Intermediate,Machinist 2,3.56,pre-prismatic,pre-pinch,03:37.3
+8539,index finger extension,070.mp4,10527,10558,Power,Machinist 2,1.24,pow-prismatic,pow-oblique,07:01.1
+9902,lateral pinch,002.mp4,13912,13949,Intermediate,Machinist 2,1.48,int-lateral,int-lateral,09:16.5
+728,index finger extension,044.mp4,33150,33350,Power,Housekeeper 1,8.0,pow-prismatic,pow-oblique,0:22:06
+3698,precision disk,170.mp4,14390,15032,Precision,Housekeeper 2,25.71,circular,pre-circular,09:35.6
+8240,inferior pincer,068.mp4,14437,14476,Precision,Machinist 2,1.56,pre-prismatic,pre-pinch,09:37.5
+3715,precision disk,171.mp4,5310,11902,Precision,Housekeeper 2,263.68,circular,pre-circular,03:32.4
+4001,inferior pincer,177.mp4,0,38,Precision,Housekeeper 2,1.52,pre-prismatic,pre-pinch,00:00.0
+8916,tripod,074.mp4,3682,3697,Precision,Machinist 2,0.6,circular,pre-circular,02:27.3
+9293,light tool,079.mp4,585,628,Power,Machinist 2,1.72,pow-prismatic,pow-oblique,00:23.4
+5497,lateral pinch,089.mp4,43200,43250,Intermediate,Machinist 1,2.0,int-lateral,int-lateral,0:28:48
+4915,thumb-3 finger,086.mp4,44600,44625,Precision,Machinist 1,1.0,pre-prismatic,pre-prismatic,0:29:44
+3254,precision disk,159.mp4,12757,12788,Precision,Housekeeper 2,1.24,circular,pre-circular,08:30.3
+6802,precision disk,098.mp4,6717,6777,Precision,Machinist 1,2.4,circular,pre-circular,04:28.7
+9594,lateral pinch,081.mp4,10172,10197,Intermediate,Machinist 2,1.0,int-lateral,int-lateral,06:46.9
+2073,lateral tripod,113.mp4,7975,7999,Intermediate,Housekeeper 1,0.96,int-lateral,int-lateral,05:19.0
+2260,precision disk,142.mp4,3130,4080,Precision,Housekeeper 2,38.0,circular,pre-circular,02:05.2
+5004,power sphere,087.mp4,27925,28125,Power,Machinist 1,8.0,circular,pow-circular,0:18:37
+6387,tripod,095.mp4,10320,10521,Precision,Machinist 1,8.04,circular,pre-circular,06:52.8
+1890,sphere-3 finger,111.mp4,887,917,Power,Housekeeper 1,1.2,circular,pow-circular,00:35.5
+9995,thumb-2 finger,005.mp4,1267,1307,Precision,Machinist 2,1.6,pre-prismatic,pre-prismatic,00:50.7
+5181,medium wrap,088.mp4,13450,14200,Power,Machinist 1,30.0,pow-prismatic,pow-cylindric,0:08:58
+2309,precision disk,144.mp4,557,839,Precision,Housekeeper 2,11.3,circular,pre-circular,00:22.3
+464,thumb-2 finger,043.mp4,21400,21425,Precision,Housekeeper 1,1.0,pre-prismatic,pre-prismatic,0:14:16
+5913,tripod,092.mp4,14122,14361,Precision,Machinist 1,9.56,circular,pre-circular,09:24.9
+7488,inferior pincer,060.mp4,2252,2266,Precision,Machinist 2,0.56,pre-prismatic,pre-pinch,01:30.1
+419,power sphere,043.mp4,12925,13000,Power,Housekeeper 1,3.0,circular,pow-circular,0:08:37
+3985,lateral tripod,176.mp4,12745,13045,Intermediate,Housekeeper 2,12.0,int-lateral,int-lateral,08:29.8
+8995,thumb-3 finger,074.mp4,10147,10318,Precision,Machinist 2,6.84,pre-prismatic,pre-prismatic,06:45.9
+10037,small diameter,007.mp4,11667,12384,Power,Machinist 2,28.7,pow-prismatic,pow-cylindric,07:46.7
+6866,thumb-index finger,099.mp4,2877,2914,Precision,Machinist 1,1.5,pre-prismatic,pre-pinch,01:55.1
+8773,lateral tripod,073.mp4,3907,3916,Intermediate,Machinist 2,0.36,int-lateral,int-lateral,02:36.3
+9646,thumb-2 finger,082.mp4,2540,2570,Precision,Machinist 2,1.2,pre-prismatic,pre-prismatic,01:41.6
+6946,thumb-2 finger,053.mp4,7475,7505,Precision,Machinist 2,1.2,pre-prismatic,pre-prismatic,04:59.0
+5374,thumb-2 finger,089.mp4,3550,3575,Precision,Machinist 1,1.0,pre-prismatic,pre-prismatic,0:02:22
+6599,thumb-2 finger,096.mp4,8900,8956,Precision,Machinist 1,2.24,pre-prismatic,pre-prismatic,05:56.0
+7031,precision disk,054.mp4,7120,7345,Precision,Machinist 2,9.0,circular,pre-circular,04:44.8
+3980,medium wrap,176.mp4,11350,11456,Power,Housekeeper 2,4.24,pow-prismatic,pow-cylindric,07:34.0
+1125,medium wrap,048.mp4,19775,20026,Power,Housekeeper 1,10.04,pow-prismatic,pow-cylindric,0:13:11
+252,power sphere,042.mp4,12550,12575,Power,Housekeeper 1,1.0,circular,pow-circular,0:08:22
+3605,tripod,169.mp4,3145,3177,Precision,Housekeeper 2,1.28,circular,pre-circular,02:05.8
+2789,power sphere,153.mp4,5047,5163,Power,Housekeeper 2,4.64,circular,pow-circular,03:21.9
+5668,lateral pinch,090.mp4,44525,44625,Intermediate,Machinist 1,4.0,int-lateral,int-lateral,0:29:41
+5300,light tool,088.mp4,36475,36525,Power,Machinist 1,2.0,pow-prismatic,pow-oblique,0:24:19
+5863,thumb-3 finger,092.mp4,2880,2904,Precision,Machinist 1,0.96,pre-prismatic,pre-prismatic,01:55.2
+872,medium wrap,045.mp4,30925,31050,Power,Housekeeper 1,5.0,pow-prismatic,pow-cylindric,0:20:37
+9867,lateral tripod,002.mp4,6270,6285,Intermediate,Machinist 2,0.6,int-lateral,int-lateral,04:10.8
+1908,index finger extension,111.mp4,6120,6315,Power,Housekeeper 1,7.8,pow-prismatic,pow-oblique,04:04.8
+9286,lateral pinch,078.mp4,14785,14815,Intermediate,Machinist 2,1.2,int-lateral,int-lateral,09:51.4
+4535,medium wrap,085.mp4,4775,4900,Power,Machinist 1,5.0,pow-prismatic,pow-cylindric,0:03:11
+8830,lateral tripod,073.mp4,8184,8202,Intermediate,Machinist 2,0.72,int-lateral,int-lateral,05:27.4
+6497,tripod,095.mp4,30092,30158,Precision,Machinist 1,2.64,circular,pre-circular,20:03.7
+8356,thumb-index finger,069.mp4,9927,10006,Precision,Machinist 2,3.18,pre-prismatic,pre-pinch,06:37.1
+7175,medium wrap,055.mp4,14469,14567,Power,Machinist 2,3.92,pow-prismatic,pow-cylindric,09:38.8
+3015,precision disk,157.mp4,1980,2811,Precision,Housekeeper 2,33.24,circular,pre-circular,01:19.2
+122,lateral pinch,041.mp4,15775,15825,Intermediate,Housekeeper 1,2.0,int-lateral,int-lateral,0:10:31
+5798,thumb-index finger,091.mp4,26932,27033,Precision,Machinist 1,4.04,pre-prismatic,pre-pinch,17:57.3
+10251,thumb-index finger,014.mp4,4580,4825,Precision,Machinist 2,9.8,pre-prismatic,pre-pinch,03:03.2
+7725,lateral tripod,062.mp4,12065,12285,Intermediate,Machinist 2,8.8,int-lateral,int-lateral,08:02.6
+1480,lateral pinch,051.mp4,19025,19236,Intermediate,Housekeeper 1,8.44,int-lateral,int-lateral,0:12:41
+112,lateral pinch,041.mp4,13700,13750,Intermediate,Housekeeper 1,2.0,int-lateral,int-lateral,0:09:08
+347,thumb-index finger,043.mp4,1475,1525,Precision,Housekeeper 1,2.0,pre-prismatic,pre-pinch,0:00:59
+2408,lateral pinch,149.mp4,5097,5191,Intermediate,Housekeeper 2,3.76,int-lateral,int-lateral,03:23.9
+4184,thumb-2 finger,115.mp4,12367,12647,Precision,Housekeeper 2,11.2,pre-prismatic,pre-prismatic,08:14.7
+670,medium wrap,044.mp4,17600,17625,Power,Housekeeper 1,1.0,pow-prismatic,pow-cylindric,0:11:44
+5959,thumb-2 finger,092.mp4,25175,25301,Precision,Machinist 1,5.04,pre-prismatic,pre-prismatic,16:47.0
+8959,lateral tripod,074.mp4,7372,7383,Intermediate,Machinist 2,0.44,int-lateral,int-lateral,04:54.9
+2852,large diameter,154.mp4,3785,3811,Power,Housekeeper 2,1.04,pow-prismatic,pow-cylindric,02:31.4
+7103,thumb-2 finger,055.mp4,1680,1703,Precision,Machinist 2,0.92,pre-prismatic,pre-prismatic,01:07.2
+1276,power sphere,049.mp4,16250,16490,Power,Housekeeper 1,9.6,circular,pow-circular,0:10:50
+3545,medium wrap,167.mp4,4420,4640,Power,Housekeeper 2,8.8,pow-prismatic,pow-cylindric,02:56.8
+5237,thumb-index finger,088.mp4,24825,24925,Precision,Machinist 1,4.0,pre-prismatic,pre-pinch,0:16:33
+4183,precision disk,115.mp4,11815,12367,Precision,Housekeeper 2,22.08,circular,pre-circular,07:52.6
+362,power sphere,043.mp4,4200,4225,Power,Housekeeper 1,1.0,circular,pow-circular,0:02:48
+3439,lateral pinch,164.mp4,5162,5212,Intermediate,Housekeeper 2,2.0,int-lateral,int-lateral,03:26.5
+1893,thumb-3 finger,111.mp4,1780,1813,Precision,Housekeeper 1,1.32,pre-prismatic,pre-prismatic,01:11.2
+9660,sphere-4 finger,082.mp4,3635,3770,Power,Machinist 2,5.4,circular,pow-circular,02:25.4
+8441,lateral tripod,070.mp4,1445,1475,Intermediate,Machinist 2,1.2,int-lateral,int-lateral,00:57.8
+4609,medium wrap,085.mp4,23925,23975,Power,Machinist 1,2.0,pow-prismatic,pow-cylindric,0:15:57
+6713,lateral tripod,096.mp4,29482,29529,Intermediate,Machinist 1,1.88,int-lateral,int-lateral,19:39.3
+502,small diameter,043.mp4,27425,27550,Power,Housekeeper 1,5.0,pow-prismatic,pow-cylindric,0:18:17
+6504,power sphere,095.mp4,31467,31504,Power,Machinist 1,1.48,circular,pow-circular,20:58.7
+1122,tripod,048.mp4,19200,19401,Precision,Housekeeper 1,8.04,circular,pre-circular,0:12:48
+745,thumb-index finger,044.mp4,35425,35625,Precision,Housekeeper 1,8.0,pre-prismatic,pre-pinch,0:23:37
+10,precision disk,040.mp4,2900,3350,Precision,Housekeeper 1,18.0,circular,pre-circular,0:01:56
+110,lateral pinch,041.mp4,13550,13600,Intermediate,Housekeeper 1,2.0,int-lateral,int-lateral,0:09:02
+6462,tripod,095.mp4,22090,22150,Precision,Machinist 1,2.41,circular,pre-circular,14:43.6
+10400,lateral pinch,016.mp4,8907,8984,Intermediate,Machinist 2,3.1,int-lateral,int-lateral,05:56.3
+6041,light tool,092.mp4,39900,39930,Power,Machinist 1,1.2,pow-prismatic,pow-oblique,26:36.0
+3456,large diameter,164.mp4,7145,7517,Power,Housekeeper 2,14.88,pow-prismatic,pow-cylindric,04:45.8
+4510,medium wrap,084.mp4,39475,39625,Power,Machinist 1,6.0,pow-prismatic,pow-cylindric,0:26:19
+3427,medium wrap,164.mp4,0,204,Power,Housekeeper 2,8.16,pow-prismatic,pow-cylindric,00:00.0
+36,lateral pinch,040.mp4,39875,40775,Intermediate,Housekeeper 1,36.0,int-lateral,int-lateral,0:26:35
+3400,lateral pinch,162.mp4,12620,12705,Intermediate,Housekeeper 2,3.4,int-lateral,int-lateral,08:24.8
+1646,precision disk,106.mp4,2567,2996,Precision,Housekeeper 1,17.16,circular,pre-circular,01:42.7
+6502,medium wrap,095.mp4,31175,31371,Power,Machinist 1,7.84,pow-prismatic,pow-cylindric,20:47.0
+1671,medium wrap,106.mp4,13660,13827,Power,Housekeeper 1,6.68,pow-prismatic,pow-cylindric,09:06.4
+6508,light tool,095.mp4,31862,32150,Power,Machinist 1,11.52,pow-prismatic,pow-oblique,21:14.5
+6129,thumb-2 finger,093.mp4,17932,18031,Precision,Machinist 1,3.96,pre-prismatic,pre-prismatic,11:57.3
+1512,medium wrap,051.mp4,27275,27350,Power,Housekeeper 1,3.0,pow-prismatic,pow-cylindric,0:18:11
+583,thumb-4 finger,044.mp4,2625,2675,Precision,Housekeeper 1,2.0,pre-prismatic,pre-prismatic,0:01:45
+2261,medium wrap,142.mp4,4097,4167,Power,Housekeeper 2,2.8,pow-prismatic,pow-cylindric,02:43.9
+4578,light tool,085.mp4,16000,16300,Power,Machinist 1,12.0,pow-prismatic,pow-oblique,0:10:40
+5186,light tool,088.mp4,14500,14825,Power,Machinist 1,13.0,pow-prismatic,pow-oblique,0:09:40
+8443,lateral tripod,070.mp4,1557,1708,Intermediate,Machinist 2,6.04,int-lateral,int-lateral,01:02.3
+5644,thumb-2 finger,090.mp4,31550,32125,Precision,Machinist 1,23.0,pre-prismatic,pre-prismatic,0:21:02
+6428,quadpod,095.mp4,18630,18680,Precision,Machinist 1,2.0,circular,pre-circular,12:25.2
+8726,thumb-index finger,073.mp4,1590,1617,Precision,Machinist 2,1.08,pre-prismatic,pre-pinch,01:03.6
+8234,lateral pinch,068.mp4,13807,13863,Intermediate,Machinist 2,2.24,int-lateral,int-lateral,09:12.3
+8646,thumb-index finger,072.mp4,3672,3694,Precision,Machinist 2,0.88,pre-prismatic,pre-pinch,02:26.9
+6552,lateral pinch,095.mp4,43820,43862,Intermediate,Machinist 1,1.68,int-lateral,int-lateral,29:12.8
+10019,thumb-2 finger,007.mp4,1885,1955,Precision,Machinist 2,2.8,pre-prismatic,pre-prismatic,01:15.4
+6014,tripod,092.mp4,34717,35135,Precision,Machinist 1,16.72,circular,pre-circular,23:08.7
+6852,lateral pinch,098.mp4,25757,25799,Intermediate,Machinist 1,1.7,int-lateral,int-lateral,17:10.3
+8721,tripod,073.mp4,1260,1286,Precision,Machinist 2,1.04,circular,pre-circular,00:50.4
+8672,thumb-index finger,072.mp4,6327,6349,Precision,Machinist 2,0.88,pre-prismatic,pre-pinch,04:13.1
+6291,tripod,094.mp4,44232,44391,Precision,Machinist 1,6.36,circular,pre-circular,29:29.3
+8582,thumb-2 finger,071.mp4,3502,3540,Precision,Machinist 2,1.52,pre-prismatic,pre-prismatic,02:20.1
+2352,thumb-4 finger,145.mp4,5430,5482,Precision,Housekeeper 2,2.1,pre-prismatic,pre-prismatic,03:37.2
+3552,medium wrap,167.mp4,6805,8111,Power,Housekeeper 2,52.24,pow-prismatic,pow-cylindric,04:32.2
+1662,medium wrap,106.mp4,6809,6982,Power,Housekeeper 1,6.92,pow-prismatic,pow-cylindric,04:32.4
+8751,lateral tripod,073.mp4,2782,2860,Intermediate,Machinist 2,3.12,int-lateral,int-lateral,01:51.3
+5079,tripod,087.mp4,39575,39625,Precision,Machinist 1,2.0,circular,pre-circular,0:26:23
+6467,tripod,095.mp4,23877,24006,Precision,Machinist 1,5.16,circular,pre-circular,15:55.1
+8906,light tool,074.mp4,1762,1796,Power,Machinist 2,1.36,pow-prismatic,pow-oblique,01:10.5
+4342,lateral tripod,118.mp4,8062,8103,Intermediate,Housekeeper 2,1.64,int-lateral,int-lateral,05:22.5
+645,lateral pinch,044.mp4,10750,10775,Intermediate,Housekeeper 1,1.0,int-lateral,int-lateral,0:07:10
+4484,thumb-4 finger,084.mp4,33075,33300,Precision,Machinist 1,9.0,pre-prismatic,pre-prismatic,0:22:03
+9400,lateral tripod,079.mp4,12675,12694,Intermediate,Machinist 2,0.76,int-lateral,int-lateral,08:27.0
+7726,lateral pinch,062.mp4,12310,12383,Intermediate,Machinist 2,2.92,int-lateral,int-lateral,08:12.4
+6338,thumb-index finger,095.mp4,5667,5697,Precision,Machinist 1,1.2,pre-prismatic,pre-pinch,03:46.7
+1114,sphere-3 finger,048.mp4,17875,17972,Power,Housekeeper 1,3.88,circular,pow-circular,0:11:55
+1817,sphere-3 finger,109.mp4,7142,7244,Power,Housekeeper 1,4.08,circular,pow-circular,04:45.7
+9093,thumb-index finger,076.mp4,7077,7298,Precision,Machinist 2,8.84,pre-prismatic,pre-pinch,04:43.1
+10201,power sphere,013.mp4,6282,6294,Power,Machinist 2,0.5,circular,pow-circular,04:11.3
+2582,power sphere,151.mp4,5420,5456,Power,Housekeeper 2,1.44,circular,pow-circular,03:36.8
+5424,adduction,089.mp4,13350,13400,Intermediate,Machinist 1,2.0,pre-prismatic,pre-pinch,0:08:54
+314,medium wrap,042.mp4,29625,30100,Power,Housekeeper 1,19.0,pow-prismatic,pow-cylindric,0:19:45
+7471,lateral pinch,059.mp4,14875,14887,Intermediate,Machinist 2,0.48,int-lateral,int-lateral,09:55.0
+9163,index finger extension,077.mp4,395,504,Power,Machinist 2,4.36,pow-prismatic,pow-oblique,00:15.8
+6944,tripod,053.mp4,7382,7403,Precision,Machinist 2,0.84,circular,pre-circular,04:55.3
+8548,index finger extension,070.mp4,10970,11016,Power,Machinist 2,1.84,pow-prismatic,pow-oblique,07:18.8
+7246,lateral tripod,057.mp4,6327,6345,Intermediate,Machinist 2,0.72,int-lateral,int-lateral,04:13.1
+6122,thumb-4 finger,093.mp4,15857,15872,Precision,Machinist 1,0.6,pre-prismatic,pre-prismatic,10:34.3
+663,thumb-3 finger,044.mp4,13825,13875,Precision,Housekeeper 1,2.0,pre-prismatic,pre-prismatic,0:09:13
+6595,lateral pinch,096.mp4,8605,8623,Intermediate,Machinist 1,0.72,int-lateral,int-lateral,05:44.2
+9934,thumb-2 finger,003.mp4,4525,4563,Precision,Machinist 2,1.52,pre-prismatic,pre-prismatic,03:01.0
+638,thumb-index finger,044.mp4,10200,10225,Precision,Housekeeper 1,1.0,pre-prismatic,pre-pinch,0:06:48
+9917,thumb-index finger,003.mp4,1895,1955,Precision,Machinist 2,2.4,pre-prismatic,pre-pinch,01:15.8
+6926,thumb-3 finger,053.mp4,6030,6038,Precision,Machinist 2,0.32,pre-prismatic,pre-prismatic,04:01.2
+6441,ring,095.mp4,19977,20162,Power,Machinist 1,7.4,pow-prismatic,pow-cylindric,13:19.1
+2590,lateral pinch,151.mp4,6684,6789,Intermediate,Housekeeper 2,4.2,int-lateral,int-lateral,04:27.4
+6281,sphere-3 finger,094.mp4,39957,39990,Power,Machinist 1,1.32,circular,pow-circular,26:38.3
+3236,tripod,159.mp4,11585,11605,Precision,Housekeeper 2,0.8,circular,pre-circular,07:43.4
+1782,lateral tripod,108.mp4,5115,5241,Intermediate,Housekeeper 1,5.04,int-lateral,int-lateral,03:24.6
+3221,thumb-index finger,159.mp4,10210,10218,Precision,Housekeeper 2,0.32,pre-prismatic,pre-pinch,06:48.4
+6156,medium wrap,093.mp4,23650,23661,Power,Machinist 1,0.44,pow-prismatic,pow-cylindric,15:46.0
+5044,tripod,087.mp4,33625,33700,Precision,Machinist 1,3.0,circular,pre-circular,0:22:25
+7209,adduction,057.mp4,407,455,Intermediate,Machinist 2,1.92,pre-prismatic,pre-pinch,00:16.3
+5362,tripod,089.mp4,850,1350,Precision,Machinist 1,20.0,circular,pre-circular,0:00:34
+4947,power sphere,087.mp4,14375,14425,Power,Machinist 1,2.0,circular,pow-circular,0:09:35
+4068,medium wrap,177.mp4,7237,7252,Power,Housekeeper 2,0.6,pow-prismatic,pow-cylindric,04:49.5
+8429,light tool,070.mp4,952,1043,Power,Machinist 2,3.64,pow-prismatic,pow-oblique,00:38.1
+1861,thumb-2 finger,110.mp4,4442,4469,Precision,Housekeeper 1,1.08,pre-prismatic,pre-prismatic,02:57.7
+10057,medium wrap,010.mp4,700,710,Power,Machinist 2,0.4,pow-prismatic,pow-cylindric,00:28.0
+5434,thumb-4 finger,089.mp4,18750,18825,Precision,Machinist 1,3.0,pre-prismatic,pre-prismatic,0:12:30
+5996,light tool,092.mp4,31742,31766,Power,Machinist 1,0.96,pow-prismatic,pow-oblique,21:09.7
+8956,lateral pinch,074.mp4,7117,7302,Intermediate,Machinist 2,7.4,int-lateral,int-lateral,04:44.7
+10281,thumb-2 finger,015.mp4,114,214,Precision,Machinist 2,4.0,pre-prismatic,pre-prismatic,00:04.6
+1838,medium wrap,109.mp4,9090,9181,Power,Housekeeper 1,3.64,pow-prismatic,pow-cylindric,06:03.6
+2232,medium wrap,141.mp4,4770,4870,Power,Housekeeper 2,4.0,pow-prismatic,pow-cylindric,03:10.8
+3516,thumb-4 finger,166.mp4,8935,9101,Precision,Housekeeper 2,6.64,pre-prismatic,pre-prismatic,05:57.4
+6542,sphere-3 finger,095.mp4,41005,41021,Power,Machinist 1,0.64,circular,pow-circular,27:20.2
+2090,sphere-3 finger,114.mp4,3879,3909,Power,Housekeeper 1,1.2,circular,pow-circular,02:35.2
+3494,medium wrap,165.mp4,12222,13498,Power,Housekeeper 2,51.04,pow-prismatic,pow-cylindric,08:08.9
+5076,power sphere,087.mp4,38800,38900,Power,Machinist 1,4.0,circular,pow-circular,0:25:52
+9659,sphere-4 finger,082.mp4,3450,3637,Power,Machinist 2,7.48,circular,pow-circular,02:18.0
+4728,thumb-index finger,086.mp4,6475,6500,Precision,Machinist 1,1.0,pre-prismatic,pre-pinch,0:04:19
+3337,power sphere,161.mp4,10050,10090,Power,Housekeeper 2,1.6,circular,pow-circular,06:42.0
+427,medium wrap,043.mp4,15425,16375,Power,Housekeeper 1,38.0,pow-prismatic,pow-cylindric,0:10:17
+6434,thumb-3 finger,095.mp4,19505,19528,Precision,Machinist 1,0.92,pre-prismatic,pre-prismatic,13:00.2
+1413,medium wrap,050.mp4,41250,41457,Power,Housekeeper 1,8.28,pow-prismatic,pow-cylindric,0:27:30
+5639,lateral pinch,090.mp4,30500,30575,Intermediate,Machinist 1,3.0,int-lateral,int-lateral,0:20:20
+3714,medium wrap,171.mp4,5055,5175,Power,Housekeeper 2,4.8,pow-prismatic,pow-cylindric,03:22.2
+9779,lateral pinch,083.mp4,1770,1860,Intermediate,Machinist 2,3.6,int-lateral,int-lateral,01:10.8
+4587,power sphere,085.mp4,18675,18800,Power,Machinist 1,5.0,circular,pow-circular,0:12:27
+4376,precision disk,119.mp4,10277,13032,Precision,Housekeeper 2,110.2,circular,pre-circular,06:51.1
+6358,tripod,095.mp4,7157,7290,Precision,Machinist 1,5.32,circular,pre-circular,04:46.3
+6203,medium wrap,093.mp4,36650,36717,Power,Machinist 1,2.68,pow-prismatic,pow-cylindric,24:26.0
+3538,index finger extension,167.mp4,2012,2134,Power,Housekeeper 2,4.88,pow-prismatic,pow-oblique,01:20.5
+8482,ring,070.mp4,4917,4956,Power,Machinist 2,1.56,pow-prismatic,pow-cylindric,03:16.7
+6411,thumb-4 finger,095.mp4,13675,13687,Precision,Machinist 1,0.48,pre-prismatic,pre-prismatic,09:07.0
